@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.onewholesale.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.onewholesale.ca/collections/vape-accessory.atom"/>
+  <title>One Wholesale</title>
+  <updated>2021-08-13T11:33:30-04:00</updated>
+  <author>
+    <name>One Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6946540814492</id>
+    <published>2021-08-13T11:33:30-04:00</published>
+    <updated>2021-08-13T11:33:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/dank-replacement-coil-for-astro-vape-pen"/>
+    <title>Replacement coil for DANK Astro vape pen</title>
+    <s:type>vapor</s:type>
+    <s:vendor>Eastern</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/ET1001-1.jpg?v=1628786159"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eastern<br>
+        <strong>Type: </strong>vapor<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>A replacement coil for Dank Astro vape pen</li>
+<li>Quartz and Ceramic available </li>
+</ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_DANK</s:tag>
+    <s:tag>Categories_Vape Accessories</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Marketplace</s:tag>
+    <s:tag>Models_Astro</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>portable-vaporizer</s:tag>
+    <s:tag>smoke drop</s:tag>
+    <s:tag>Usage_Wax (Concentrate)</s:tag>
+    <s:tag>vape-accessory</s:tag>
+    <s:tag>Vaporizer Pipes</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6946540814492</id>
+      <title>Quartz Coil</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku>EST1001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6946540814492</id>
+      <title>Ceramic Coil</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku>EST1002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6790587678876</id>
+    <published>2021-06-07T13:12:47-04:00</published>
+    <updated>2021-06-07T13:12:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/vape-station"/>
+    <title>VAPE STATION</title>
+    <s:type>Rolling Paper Accessories</s:type>
+    <s:vendor>Illuminate Cannabis Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7680_a0ffbe5d-1e32-44dc-85ab-bbcd1fa9cfaa.jpg?v=1622839242"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Illuminate Cannabis Co.<br>
+        <strong>Type: </strong>Rolling Paper Accessories<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="tabs__product-page horizontal-tabs horizontal-tabs-center">
+<div class="wrapper-tab-content">
+<div class="tab-content active" data-tabcontent="" id="collapse-tab1">
+<div>
+<p>This vape station is designed to hold most styles of vapes, plus 4 bottles of juice.</p>
+<p>Has a spot for the vape's charger <strong><span style="color: #ff2a00;">(C<span style="color: #ff2a00;">harger,</span> Oil, and Pen not included</span>)</strong></p>
+<p>Made with PLA plastic a renewable bioplastic. </p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Categories_Vape Accessories</s:tag>
+    <s:tag>Categories_Vape Pen</s:tag>
+    <s:tag>Marketplace</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>vape</s:tag>
+    <s:tag>vape device</s:tag>
+    <s:tag>vape-accessory</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6790587678876</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku>7685</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/5427684245660</id>
+    <published>2020-07-25T13:03:24-04:00</published>
+    <updated>2020-07-25T13:03:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/yocan-hive-atomizer-for-concentrated"/>
+    <title>Yocan Hive concentrated atomizer</title>
+    <s:type>vapor</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/5864-atomizer-1.jpg?v=1595965223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>vapor<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>The Concentrated atomizer(SKU 5864) is a top fill unit with No-leakage design. Provide premium method for vaporizing your favorite juice.</li>
+<li>The concentrate atomizer is with the quartz coil, which provide with the purest experience and guarantee a crystal clean essence.</li>
+<li>5 pcs a pack (Please Note : These coils do not include the lids for the coils)</li>
+</ul>
+<ul></ul>
+<ul></ul>
+<ul></ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Yocan</s:tag>
+    <s:tag>Categories_Vape Accessories</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Models_Hive 2.0</s:tag>
+    <s:tag>Price_$20 to $50</s:tag>
+    <s:tag>Usage_Oil (E-Juice)</s:tag>
+    <s:tag>Usage_Wax (Concentrate)</s:tag>
+    <s:tag>vape-accessory</s:tag>
+    <s:tag>Vaporizer Pipes</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/5427684245660</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>5864</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/2000069263429</id>
+    <published>2018-11-05T15:40:40-05:00</published>
+    <updated>2018-11-05T15:40:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/yocan-hive-atomizer"/>
+    <title>Yocan Hive atomizer</title>
+    <s:type>vapor</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/3578-coil-1.jpg?v=1571774963"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>vapor<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>The juicy atomizer(SKU 3578) is a top fill unit with No-leakage design. Provide premium method for vaporizing your favorite juice.</li>
+<li>The concentrate atomizer is with the quartz coil, which provide with the purest experience and guarantee a crystal clean essence.</li>
+<li>5 pcs a pack (Please Note : These coils do not include the lids for the coils)</li>
+</ul>
+<ul></ul>
+<ul></ul>
+<ul></ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Yocan</s:tag>
+    <s:tag>Categories_Vape Accessories</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Models_Hive 2.0</s:tag>
+    <s:tag>Price_$20 to $50</s:tag>
+    <s:tag>Usage_Oil (E-Juice)</s:tag>
+    <s:tag>Usage_Wax (Concentrate)</s:tag>
+    <s:tag>vape-accessory</s:tag>
+    <s:tag>Vaporizer Pipes</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/2000069263429</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>3578</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/2000061825093</id>
+    <published>2018-11-05T15:40:40-05:00</published>
+    <updated>2018-11-05T15:40:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/yocan-loaded-coil"/>
+    <title>Yocan Loaded Quartz coil</title>
+    <s:type>vapor</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/3576-coil-1.jpg?v=1571774964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>vapor<br>
+        <strong>Price: </strong>
+            17.00 - 22.00
+            <a href="https://www.onewholesale.ca/products/yocan-loaded-coil">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>The atomizer coils are crafted with quartz for a crystal clean purest and smooth experience. Rapid heating, get hug clean hits with QDC(Quartz Dual Coil) Technology.</li>
+<li>QUAD coil : Unique QUAD coil technology by using quarts rod coil, made for giant cloud and hits, perpect for cloud chasers which is hard to come by</li>
+<li>5 pcs a pack (Please Note : These coils do not include the lids for the coils)</li>
+</ul>
+<ul></ul>
+<ul></ul>
+<ul></ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Yocan</s:tag>
+    <s:tag>Categories_Vape Accessories</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Models_Loaded</s:tag>
+    <s:tag>Price_$10 to $20</s:tag>
+    <s:tag>Price_$20 to $50</s:tag>
+    <s:tag>Usage_Wax (Concentrate)</s:tag>
+    <s:tag>vape-accessory</s:tag>
+    <s:tag>Vaporizer Pipes</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/2000061825093</id>
+      <title>Quartz Dual Coil</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku>3576</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/2000061825093</id>
+      <title>QUAD coil</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>3577</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/2000054550597</id>
+    <published>2018-11-05T15:40:40-05:00</published>
+    <updated>2018-11-05T15:40:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/yocan-evolve-plus-coil"/>
+    <title>Yocan Evolve Plus Coil</title>
+    <s:type>vapor</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/3573-coil-1.jpg?v=1571774954"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>vapor<br>
+        <strong>Price: </strong>
+            17.00 - 25.00
+            <a href="https://www.onewholesale.ca/products/yocan-evolve-plus-coil">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>The ceramic donut coil that Yocan provide are all ceramic, no glues. It provide with Nice Flavorful Hits and smooth clouds, dry hit preventing. Oil lasts longer during use, concentrate saving. Your Economic atty choice with 6-12 months long life time.</li>
+<li>5 pcs a pack (Please Note : These coils do not include the lids for the coils)</li>
+</ul>
+<ul></ul>
+<ul></ul>
+<ul></ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Yocan</s:tag>
+    <s:tag>Categories_Vape Accessories</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Models_Evolve Plus</s:tag>
+    <s:tag>Price_$10 to $20</s:tag>
+    <s:tag>Price_$20 to $50</s:tag>
+    <s:tag>Usage_Wax (Concentrate)</s:tag>
+    <s:tag>vape-accessory</s:tag>
+    <s:tag>Vaporizer Pipes</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/2000054550597</id>
+      <title>Ceramic Donut Coil</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>3573</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/2000054550597</id>
+      <title>Quartz Dual Coil</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku>3574</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/2000051470405</id>
+    <published>2018-11-05T15:40:40-05:00</published>
+    <updated>2018-11-05T15:40:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/yocan-evolve-coil"/>
+    <title>Yocan Evolve Coil</title>
+    <s:type>vapor</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/3571-coil-1.jpg?v=1571774949"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>vapor<br>
+        <strong>Price: </strong>
+            17.00 - 25.00
+            <a href="https://www.onewholesale.ca/products/yocan-evolve-coil">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>The ceramic donut coil that Yocan provide are all ceramic, no glues. It provide with Nice Flavorful Hits and smooth clouds, dry hit preventing. Oil lasts longer during use, concentrate saving. Your Economic atty choice with 6-12 months long life time.</li>
+<li>5 pcs a pack (Please Note : These coils do not include the lids for the coils)</li>
+</ul>
+<ul></ul>
+<ul></ul>
+<ul></ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Yocan</s:tag>
+    <s:tag>Categories_Vape Accessories</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Models_Evolve</s:tag>
+    <s:tag>Price_$10 to $20</s:tag>
+    <s:tag>Price_$20 to $50</s:tag>
+    <s:tag>Usage_Wax (Concentrate)</s:tag>
+    <s:tag>vape-accessory</s:tag>
+    <s:tag>Vaporizer Pipes</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/2000051470405</id>
+      <title>Ceramic Donut Coil</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>3571</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/2000051470405</id>
+      <title>Quartz Dual Coil</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku>3572</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

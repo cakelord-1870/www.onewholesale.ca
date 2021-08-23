@@ -1,0 +1,1462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.onewholesale.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.onewholesale.ca/collections/rolling-paper.atom"/>
+  <title>One Wholesale</title>
+  <updated>2021-08-10T13:56:44-04:00</updated>
+  <author>
+    <name>One Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6942559961244</id>
+    <published>2021-08-10T13:56:44-04:00</published>
+    <updated>2021-08-10T13:56:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/ocb-king-slim-premium-rolling-paper-with-tips"/>
+    <title>OCB King Slim Premium rolling paper with Tips</title>
+    <s:type>Rolling Paper</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/8029_rolling_paper-1.jpg?v=1628616887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Rolling Paper<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>King Slim with Tips Size</strong><br></p>
+<ul>
+<li>24 Packs per box</li>
+<li>32 Leaves+ 32 Tips per pack</li>
+<li>King slim<br>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All rolling paper</s:tag>
+    <s:tag>Brand_OCB</s:tag>
+    <s:tag>Categories_Rolling Papers</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$20 to $50</s:tag>
+    <s:tag>Size_King with Filter</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6942559961244</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>8029</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6882226864284</id>
+    <published>2021-07-15T11:57:37-04:00</published>
+    <updated>2021-07-15T11:57:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/acid-secs-24k-gold-rolling-paper"/>
+    <title>Acid Secs 24K Gold King size Rolling Paper</title>
+    <s:type>Rolling Paper</s:type>
+    <s:vendor>Acid Secs Productions</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7913_rolling_paper-2.jpg?v=1626361349"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Acid Secs Productions<br>
+        <strong>Type: </strong>Rolling Paper<br>
+        <strong>Price: </strong>
+            12.00 - 44.99
+            <a href="https://www.onewholesale.ca/products/acid-secs-24k-gold-rolling-paper">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><em><strong>TOP QUALITY PRODUCTIONS.</strong></em><br>
+<ul>
+<li>Made with a hemp pulp base and using natural Arabic gum, the ultra-thin paper is then fused with 24K Edible Gold Leaf on the outside.</li>
+<li>Crafted for an Ultra-Luxurious and Clean Taste.</li>
+<li>Gold is an inert element and NON-TOXIC. (just think of gold fillings)</li>
+<li>Size: King-Size (110mm in length)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All rolling paper</s:tag>
+    <s:tag>Categories_Rolling Papers</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Marketplace</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Size_King</s:tag>
+    <s:tag>smoke drop</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6882226864284</id>
+      <title>Single Sheet</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>ACS1004</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6882226864284</id>
+      <title>2-Sheets</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku>ACS1005</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6882226864284</id>
+      <title>5-Sheets</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>ACS1006</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6787262152860</id>
+    <published>2021-06-03T14:50:43-04:00</published>
+    <updated>2021-06-03T14:50:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/irie-rasta-rolling-paper-king-size"/>
+    <title>IRIE RASTA Rolling Paper King Size</title>
+    <s:type>Rolling Paper</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7655_rolling_paper-1.jpg?v=1622741915"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Rolling Paper<br>
+        <strong>Price: </strong>
+            16.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Irie Blended Hemp Papers</li>
+<li>64 Sheets/Pack</li>
+<li>24 Packs/Box</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All rolling paper</s:tag>
+    <s:tag>Brand_IRIE</s:tag>
+    <s:tag>Categories_Rolling Papers</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$20 to $50</s:tag>
+    <s:tag>Size_King</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6787262152860</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku>7655</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6787260252316</id>
+    <published>2021-06-03T14:50:43-04:00</published>
+    <updated>2021-06-03T14:50:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/irie-rasta-rolling-paper-1"/>
+    <title>IRIE RASTA Rolling Paper 1¼</title>
+    <s:type>Rolling Paper</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7654_rolling_paper-1.jpg?v=1622741954"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Rolling Paper<br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Irie Blended Hemp Papers</li>
+<li>64 Sheets/Pack</li>
+<li>24 Packs/Box</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All rolling paper</s:tag>
+    <s:tag>Brand_IRIE</s:tag>
+    <s:tag>Categories_Rolling Papers</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$20 to $50</s:tag>
+    <s:tag>Size_Regular</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6787260252316</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku>7654</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6787254419612</id>
+    <published>2021-06-03T14:50:43-04:00</published>
+    <updated>2021-06-03T14:50:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/dlx-deluxe-rolling-papers-1-1-4"/>
+    <title>DLX deluxe Rolling Papers 1 1/4</title>
+    <s:type>Rolling Paper</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7653_rolling_paper-1.jpg?v=1622741350"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Rolling Paper<br>
+        <strong>Price: </strong>
+            23.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Size = 78mm (l) x 44mm (h)</li>
+<li>Patented criss-cross watermark</li>
+<li>Made from craft blend natural materials &amp; uses pure acacia gum</li>
+<li>50 Sheets/Pack</li>
+<li>24 Packs/Box</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All rolling paper</s:tag>
+    <s:tag>Brand_DLX</s:tag>
+    <s:tag>Categories_Rolling Papers</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$20 to $50</s:tag>
+    <s:tag>Size_Regular</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6787254419612</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>7653</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6787250290844</id>
+    <published>2021-06-03T14:50:42-04:00</published>
+    <updated>2021-06-03T14:50:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/my-fucking-rolling-papers-1-1-4"/>
+    <title>My fucking Rolling Papers 1 1/4</title>
+    <s:type>Rolling Paper</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7652_rolling_paper-1.jpg?v=1622741253"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Rolling Paper<br>
+        <strong>Price: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Size = 78mm</li>
+<li>Hemp Paper</li>
+<li>Natural Gum</li>
+<li>50 Sheets/Pack</li>
+<li>24 Packs/Box</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All rolling paper</s:tag>
+    <s:tag>Brand_Rollies</s:tag>
+    <s:tag>Categories_Rolling Papers</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$20 to $50</s:tag>
+    <s:tag>Size_Regular</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6787250290844</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku>7652</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6787246456988</id>
+    <published>2021-06-03T14:50:42-04:00</published>
+    <updated>2021-06-03T14:50:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/glass-cellulose-papers-king-size"/>
+    <title>Glass Cellulose papers King Size</title>
+    <s:type>Rolling Paper</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7651_rolling_paper-1.jpg?v=1622740940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Rolling Paper<br>
+        <strong>Price: </strong>
+            37.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-ng-if="family" class="family-banner ng-scope">
+<div class="top-centered">
+<div class="description ng-binding" data-ng-bind-html="to_trusted(family.description)">
+<div data-ng-if="family" class="family-banner ng-scope">
+<div class="top-centered">
+<div class="description ng-binding" data-ng-bind-html="to_trusted(family.description)">
+<div data-ng-if="family" class="family-banner ng-scope">
+<div class="top-centered">
+<div class="description ng-binding" data-ng-bind-html="to_trusted(family.description)">
+<div class="family-banner ng-scope" data-ng-if="family">
+<div class="top-centered">
+<div data-ng-bind-html="to_trusted(family.description)" class="description ng-binding">
+<div class="family-banner ng-scope" data-ng-if="family">
+<div class="top-centered">
+<div data-ng-bind-html="to_trusted(family.description)" class="description ng-binding">
+<div class="family-banner ng-scope" data-ng-if="family">
+<div class="top-centered">
+<div data-ng-bind-html="to_trusted(family.description)" class="description ng-binding">
+<p><strong>King Size</strong><br></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<ul>
+<li class="body">100% Natural</li>
+<li class="body">Made from plant cellulose</li>
+<li class="body">24 Sheets/ Pack</li>
+<li class="body">24 Packs /Box</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All rolling paper</s:tag>
+    <s:tag>Brand_Luxe</s:tag>
+    <s:tag>Categories_Rolling Papers</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$20 to $50</s:tag>
+    <s:tag>Size_King</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6787246456988</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.00</s:price>
+      <s:sku>7651</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6768709173404</id>
+    <published>2021-05-27T16:29:30-04:00</published>
+    <updated>2021-05-27T16:29:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/ocb-organic-hemp-1-1-4"/>
+    <title>OCB Organic Hemp 1 1/4</title>
+    <s:type>Rolling Paper</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7633_rolling_paper-1.jpg?v=1622143115"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Rolling Paper<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-ng-if="family" class="family-banner ng-scope">
+<div class="top-centered">
+<div class="description ng-binding" data-ng-bind-html="to_trusted(family.description)">
+<div data-ng-if="family" class="family-banner ng-scope">
+<div class="top-centered">
+<div class="description ng-binding" data-ng-bind-html="to_trusted(family.description)">
+<p>Fine, light, soft, truly natural, unbleached, virgin... Are you seduced?</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p><span style="text-decoration: underline;"><strong>1 1/4 Size</strong></span></p>
+<ul>
+<li>25 Packs per box</li>
+<li>50 papers per pack</li>
+<li>44 mm x 77 mm</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All rolling paper</s:tag>
+    <s:tag>Brand_OCB</s:tag>
+    <s:tag>Categories_Rolling Papers</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$20 to $50</s:tag>
+    <s:tag>Size_Regular</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6768709173404</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku>7633</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6768703996060</id>
+    <published>2021-05-27T16:29:30-04:00</published>
+    <updated>2021-05-27T16:29:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/ocb-organic-hemp-single-wide-double"/>
+    <title>OCB Organic Hemp Double Wide</title>
+    <s:type>Rolling Paper</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7630_rolling_paper-1.jpg?v=1622142942"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Rolling Paper<br>
+        <strong>Price: </strong>
+            23.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="family-banner ng-scope" data-ng-if="family">
+<div class="top-centered">
+<div data-ng-bind-html="to_trusted(family.description)" class="description ng-binding">
+<div class="family-banner ng-scope" data-ng-if="family">
+<div class="top-centered">
+<div data-ng-bind-html="to_trusted(family.description)" class="description ng-binding">
+<div class="family-banner ng-scope" data-ng-if="family">
+<div class="top-centered">
+<div data-ng-bind-html="to_trusted(family.description)" class="description ng-binding">
+<p><span data-mce-fragment="1">OCB Organic Hemp Double wide Rolling Papers.</span>  </p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p><span style="text-decoration: underline;"><strong>Single Wide</strong></span><br></p>
+<ul>
+<li>25 Packs per box</li>
+<li>100 papers per pack</li>
+<li>36 mm x 69 mm</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All rolling paper</s:tag>
+    <s:tag>Brand_OCB</s:tag>
+    <s:tag>Categories_Rolling Papers</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$20 to $50</s:tag>
+    <s:tag>Size_Single Wide</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6768703996060</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.00</s:price>
+      <s:sku>7630</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6768691413148</id>
+    <published>2021-05-27T16:29:29-04:00</published>
+    <updated>2021-05-27T16:29:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/ocb-ultimate-range-single-wide"/>
+    <title>OCB Ultimate Range Double Wide</title>
+    <s:type>Rolling Paper</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7631_rolling_paper-1.jpg?v=1622142296"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Rolling Paper<br>
+        <strong>Price: </strong>
+            23.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-ng-if="family" class="family-banner ng-scope">
+<div class="top-centered">
+<div class="description ng-binding" data-ng-bind-html="to_trusted(family.description)">
+<div data-ng-if="family" class="family-banner ng-scope">
+<div class="top-centered">
+<div class="description ng-binding" data-ng-bind-html="to_trusted(family.description)">
+<div data-ng-if="family" class="family-banner ng-scope">
+<div class="top-centered">
+<div class="description ng-binding" data-ng-bind-html="to_trusted(family.description)">
+<p>The revolution of the rolling paper market.  </p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p><span style="text-decoration: underline;"><strong>Single Wide</strong></span><br></p>
+<ul>
+<li>25 Packs per box</li>
+<li>100 papers per pack</li>
+<li>36 mm x 69 mm</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All rolling paper</s:tag>
+    <s:tag>Brand_OCB</s:tag>
+    <s:tag>Categories_Rolling Papers</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$20 to $50</s:tag>
+    <s:tag>Size_Single Wide</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6768691413148</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.00</s:price>
+      <s:sku>7631</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6768687775900</id>
+    <published>2021-05-27T16:29:29-04:00</published>
+    <updated>2021-05-27T16:29:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/ocb-virgin-range-1-1-4"/>
+    <title>OCB Virgin Range 1 1/4</title>
+    <s:type>Rolling Paper</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7632_rolling_paper-1.jpg?v=1622142130"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Rolling Paper<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-ng-if="family" class="family-banner ng-scope">
+<div class="top-centered">
+<div class="description ng-binding" data-ng-bind-html="to_trusted(family.description)">
+<div data-ng-if="family" class="family-banner ng-scope">
+<div class="top-centered">
+<div class="description ng-binding" data-ng-bind-html="to_trusted(family.description)">
+<p>Fine, light, soft, truly natural, unbleached, virgin... Are you seduced?</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p><span style="text-decoration: underline;"><strong>1 1/4 Size</strong></span></p>
+<ul>
+<li>25 Packs per box</li>
+<li>50 papers per pack</li>
+<li>44 mm x 77 mm</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All rolling paper</s:tag>
+    <s:tag>Brand_OCB</s:tag>
+    <s:tag>Categories_Rolling Papers</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$20 to $50</s:tag>
+    <s:tag>Size_Regular</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6768687775900</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku>7632</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6768682533020</id>
+    <published>2021-05-27T16:29:29-04:00</published>
+    <updated>2021-05-27T16:29:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/ocb-virgin-range-king-single-wide"/>
+    <title>OCB Virgin Range Single Wide</title>
+    <s:type>Rolling Paper</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7629_rolling_paper-1.jpg?v=1622142009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Rolling Paper<br>
+        <strong>Price: </strong>
+            23.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-ng-if="family" class="family-banner ng-scope">
+<div class="top-centered">
+<div class="description ng-binding" data-ng-bind-html="to_trusted(family.description)">
+<div data-ng-if="family" class="family-banner ng-scope">
+<div class="top-centered">
+<div class="description ng-binding" data-ng-bind-html="to_trusted(family.description)">
+<p>Fine, light, soft, truly natural, unbleached, virgin... Are you seduced?</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p><span style="text-decoration: underline;"><strong>Single Wide</strong></span></p>
+<ul>
+<li>50 Packs per box</li>
+<li>50 papers per pack</li>
+<li>36 mm x 69 mm</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All rolling paper</s:tag>
+    <s:tag>Brand_OCB</s:tag>
+    <s:tag>Categories_Rolling Papers</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$20 to $50</s:tag>
+    <s:tag>Size_King with Filter</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6768682533020</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.00</s:price>
+      <s:sku>7629</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6719326683292</id>
+    <published>2021-05-05T14:21:23-04:00</published>
+    <updated>2021-05-05T14:21:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/million-bananas-cured-rolling-leaf-pouch-display-box-1"/>
+    <title>Million Bananas Cured Rolling leaf Pouch Display Box</title>
+    <s:type>Rolling Paper</s:type>
+    <s:vendor>Million Bananas Organic Wraps</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/R28QKANLqw.jpg?v=1620146635"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Million Bananas Organic Wraps<br>
+        <strong>Type: </strong>Rolling Paper<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #212b36; font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;">Million Bananas is proud to bring to you, the first cured rolling leaf of banana. Paving the route for the most natural cured leaf in the market, we bring you “The Natural Way.” Enjoy our supreme product line that represents the finest; all natural, all vegan, non gmo, no synthetics, no chemicals, no preservatives, and absolutely 100% tobacco free.</span></p><ul style="color: #212b36; font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;">
+<li>25 pouches per box</li>
+<li>2 cured rolling leaf per pouch</li>
+<li>Leaf size 2.8 inch by 4 inch</li>
+<li>Natural</li>
+<li>No Synthetic</li>
+<li>Vegan</li>
+<li>Non GMO</li>
+<li>No Preservativ</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All rolling paper</s:tag>
+    <s:tag>Brand_Million Banana</s:tag>
+    <s:tag>Categories_Rolling Papers</s:tag>
+    <s:tag>Marketplace</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$50 to $100</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6719326683292</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">46.00</s:price>
+      <s:sku>7525</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6559192514716</id>
+    <published>2021-04-24T12:03:13-04:00</published>
+    <updated>2021-04-24T12:03:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/natural-hemp-rolling-papers-choast-rolls-kings-carton-of-22-booklets-king-size-quality-rolling-papers-with-filter-tips-and-magnet-lid"/>
+    <title>Natural Hemp Rolling Papers - Choast Rolls Kings, Carton of 22 booklets, - King Size Quality Rolling Papers with Filter Tips and Magnet Lid</title>
+    <s:type>Rolling Paper</s:type>
+    <s:vendor>Choast</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/L6VCQ1ESpH.jpg?v=1614808424"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Choast<br>
+        <strong>Type: </strong>Rolling Paper<br>
+        <strong>Price: </strong>
+            31.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Choast Rolls are Authentic, Unrefined, and Unbleached.Our mission is to become a Canadian leader in the rolling paper industry.At Choast Rolls we believe that quality is the most important part of an enjoyable roll. Our papers are an all natural, cost effective alternative to the current leading brands. </p><p>We are located out of Toronto, Ontario and our teams dream is to compete in the market with some of the best Rolling papers around the world. After years of searching and crafting we are proud to introduce to you.. "𝐂𝐡𝐨𝐚𝐬𝐭 𝐑𝐨𝐥𝐥𝐬 𝐢𝐧𝐜." Canada's new and complete ALL in one rolling paper system.</p><p>- 32 Natural unrefined &amp; unbleached leaves with no additives</p><p>- Closing magnet lid to help keep your papers stay fresh and Choasty</p><p>- Natural Filters included in every pack</p><p>- High quality natural rolling papers</p><p>- Natural Arabic Gum</p><p>- Easy to roll papers; perfect for people just starting out</p><p>Perfect for making regular rolls or those cones rolled by hand. Choast Roll Kings use premium materials that always deliver a high-quality slow burn. Our Paper leaves are made using natural hemp plant fibers. It is a classic and even-burning paper designed to enhance your experience. This premium rolling paper provides strength, fineness and a slow burn. The rolling paper booklets are compact, lightweight, and very easy to fit in your pocket. </p><p>They are flexible thin and easy to roll so you don’t have to waste any herb in the process.These classic Premium rolling papers have 100% natural Arabic glue line to provide a perfect seal for every roll. The natural Arabic gum is durable, but completely non-toxic. It will not interfere with the flavour of your smoke. </p><p>We encourage you to try some of our rolls out for yourself to see what the Choast craze is all about and welcome you to the Choast family! #staychoasty</p><p> </p><p> </p><p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All rolling paper</s:tag>
+    <s:tag>bark papers</s:tag>
+    <s:tag>Brand_Choast</s:tag>
+    <s:tag>Canadian lumber</s:tag>
+    <s:tag>Carton of 22</s:tag>
+    <s:tag>Categories_Rolling Papers</s:tag>
+    <s:tag>Choast Rolls King Size</s:tag>
+    <s:tag>element papers</s:tag>
+    <s:tag>hemp papers</s:tag>
+    <s:tag>juicy jay</s:tag>
+    <s:tag>King Size Papers with Filter Tips</s:tag>
+    <s:tag>King Size Papers with Magnet Lid</s:tag>
+    <s:tag>king size with magnet</s:tag>
+    <s:tag>Marketplace</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>OCB</s:tag>
+    <s:tag>pink rolling papers</s:tag>
+    <s:tag>premium rolling paper</s:tag>
+    <s:tag>Price_$20 to $50</s:tag>
+    <s:tag>Quality Natural Rolling Papers</s:tag>
+    <s:tag>raw</s:tag>
+    <s:tag>raw natural rolling papers</s:tag>
+    <s:tag>raw rolling paper</s:tag>
+    <s:tag>Rolling Paper XL Large</s:tag>
+    <s:tag>Size_King with Filter</s:tag>
+    <s:tag>skunk papers</s:tag>
+    <s:tag>slow burning</s:tag>
+    <s:tag>zigzag</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6559192514716</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.00</s:price>
+      <s:sku>7036</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6684586377372</id>
+    <published>2021-04-21T09:06:18-04:00</published>
+    <updated>2021-04-21T09:06:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/raw-classic-king-size-rolls"/>
+    <title>RAW Classic King Size 3 Meter Rolls</title>
+    <s:type></s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7407_rolling-paper-1.jpg?v=1618947617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            23.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>RAW Rolls give you the freedom to create any size smoke you want! Got a bunch of friends over? Roll it nice and big! Smoking along and in a hurry? Roll it short and sweet! The RAW Classic King Size Rolls contains ~9-feet of the purest naturally unrefined RAW Classic Paper for RAW fanatics to choose their own size of paper from.</p>
+<ul>
+<li>Size: King Size</li>
+<li>12 Rolls per box</li>
+<li>3 meter rolls</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All rolling paper</s:tag>
+    <s:tag>Brand_Raw</s:tag>
+    <s:tag>Categories_Rolling Papers</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$20 to $50</s:tag>
+    <s:tag>Size_King</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6684586377372</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>7407</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6684558033052</id>
+    <published>2021-04-21T09:04:19-04:00</published>
+    <updated>2021-04-21T09:04:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/raw-classic-supernatural-cones"/>
+    <title>RAW Classic Supernatural Cones</title>
+    <s:type>Rolling Paper</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7408_rolling-paper-1.jpg?v=1618946616"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Rolling Paper<br>
+        <strong>Price: </strong>
+            52.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-wow-delay="0.3s" class="row sub-product-type wow fadeInUp">
+<div class="col-md-6 push-md-6 wht-txt">
+<div class="middle-content-holder">
+<div class="middle-content-inner">
+<div data-wow-delay="0.3s" class="row sub-product-type wow fadeInUp">
+<div class="col-md-6 push-md-6 wht-txt">
+<div class="middle-content-holder">
+<div class="middle-content-inner">
+<p>This was the first time we decided to elevate the whole smoking community. I wish there was enough space here to tell you the whole funny story of when we decided to launch 1-foot cones into the world. Everyone thought we were crazy, and they were all correct! The RAW Supernatural Cone is a full 1-footer! It’s difficult to smoke – but that’s not the point of it! Just pack it not too tight and keep it tilted up, then enjoy the experience with a group of good friends. That’s what it’s all about!</p>
+</div>
+</div>
+</div>
+</div>
+<ul>
+<li class="showHiddenFeatureBullets"><span>RAW Classic Supernatural Cone: 280mm long</span></li>
+<li class="showHiddenFeatureBullets"><span>1 Cone per pack / 12 pack per box </span></li>
+<li class="showHiddenFeatureBullets">All Natural, Additive-Free, 100% Vegan</li>
+<li class="showHiddenFeatureBullets"><span>Paper loader included</span></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All rolling paper</s:tag>
+    <s:tag>Brand_Raw</s:tag>
+    <s:tag>Categories_Rolling Papers</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$20 to $50</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6684558033052</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.00</s:price>
+      <s:sku>7408</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6666684006556</id>
+    <published>2021-04-14T11:49:27-04:00</published>
+    <updated>2021-04-14T11:49:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/cone-supply-84-mm-pre-rolled-classic-cones-900"/>
+    <title>Cone + Supply 84 mm Pre-Rolled CLASSIC cones 900</title>
+    <s:type>Rolling Paper</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7346_rolling_paper-1.jpg?v=1618344527"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Rolling Paper<br>
+        <strong>Price: </strong>
+            94.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="woocommerce-product-details__short-description">Skip the tiring rolling process with Cones + Supply Pre-rolled CLASSIC cones with built-in filter, offering smoother smokes and a stable base to launch your perfect joint.<br>Each cone is sized 84 mm-1 1/4" and there are total 900 units.</div>
+<ul>
+<li>Size : 1 1/4" (84 mm/26 mm filter)</li>
+<li>900 Pre-rolled cones per box w<span>ith Crutch</span>
+</li>
+<li><span>Made to work in your Knock Box or Thumper</span></li>
+<li><span>Pre-rolled in the same factory as some of your favorite national brands</span></li>
+</ul>
+<p> </p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All rolling paper</s:tag>
+    <s:tag>Categories_Rolling Papers</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$100 to $150</s:tag>
+    <s:tag>Size_Regular</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6666684006556</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">94.00</s:price>
+      <s:sku>7363</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6666669621404</id>
+    <published>2021-04-14T11:49:27-04:00</published>
+    <updated>2021-04-14T11:49:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/cone-supply-84-mm-pre-rolled-hemp-cones-900"/>
+    <title>Cone + Supply 84 mm Pre-Rolled Organic HEMP cones 900</title>
+    <s:type>Rolling Paper</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7347_rolling_paper-1.jpg?v=1618344365"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Rolling Paper<br>
+        <strong>Price: </strong>
+            94.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="woocommerce-product-details__short-description">Skip the tiring rolling process with Cones + Supply Pre-rolled HEMP cones with built-in filter, offering smoother smokes and a stable base to launch your perfect joint.<br>Each cone is sized 84 mm-1 1/4" and there are total 900 units.</div>
+<ul>
+<li>Size : 1 1/4" (84 mm/26 mm filter)</li>
+<li>900 Pre-rolled cones per box w<span>ith Crutch</span>
+</li>
+<li><span>Made to work in your Knock Box or Thumper</span></li>
+<li><span>Pre-rolled in the same factory as some of your favorite national brands</span></li>
+</ul>
+<p> </p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All rolling paper</s:tag>
+    <s:tag>Categories_Rolling Papers</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$100 to $150</s:tag>
+    <s:tag>Size_Regular</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6666669621404</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">94.00</s:price>
+      <s:sku>7362</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6592167542940</id>
+    <published>2021-03-10T14:57:25-05:00</published>
+    <updated>2021-03-10T14:57:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/choice-leaf-palm-pre-rolled-cone"/>
+    <title>Choice Leaf Palm pre-rolled cone</title>
+    <s:type>Rolling Paper</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7089_rolling_paper-1_2ac2a025-1f8d-450a-87e1-bfc971e8cb60.jpg?v=1615391682"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Rolling Paper<br>
+        <strong>Price: </strong>
+            52.00 - 66.00
+            <a href="https://www.onewholesale.ca/products/choice-leaf-palm-pre-rolled-cone">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><main style="display: inline !important;" class="container" id="maincontent">
+<div style="display: inline !important;" class="columns">
+<div style="display: inline !important;" class="column main">
+<div style="display: inline !important;" class="row">
+<div style="display: inline !important;" class="col-xs-12">
+<p style="display: inline !important;">The leaf comes from the borage family, originating from southeast Asia. With an earthy, subtle taste each leaf complements the flavor experience perfectly. Our thick and rich leaves are an ideal substitute for adult smokers looking for an alternative from tobacco. each leaf is hand-rolled, contains zero glue, are slow burning, and is 100% biodegradable.</p>
+<p style="display: inline !important;"><br></p>
+<p>Each Choice leaf package includes a Boveda 62% relative humidity control pack to ensure each leaf is kept fresh</p>
+</div>
+</div>
+</div>
+</div>
+</main><footer class="page-footer">
+<div class="footer content">
+<div class="newsletter-bg">
+<div class="img-dn">
+<div class="container">
+<div class="row">
+<div class="block newsletter">
+<div class="content"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<p><span style="text-decoration: underline;"><strong>Large Rolls</strong></span></p>
+<ul>
+<li>2 Large hand-rolled cone per pack</li>
+<li>Box of 25 packs</li>
+<li>Roll capacity : 2 grams<br>
+</li>
+<li><span>Boveda 62%</span></li>
+<li><span>Packing stick</span></li>
+</ul>
+<p><strong><span style="text-decoration: underline;">Medium Rolls </span></strong></p>
+<ul>
+<li>2 medium hand-rolled cone  per pack</li>
+<li>Box of 25 packs</li>
+<li>Roll capacity : 1 grams</li>
+<li><span>Boveda 62%</span></li>
+<li><span>Packing stick</span></li>
+</ul>
+<p><strong><span style="text-decoration: underline;">Small Rolls</span></strong></p>
+<ul>
+<li>5 small hand-rolled per pack</li>
+<li>16 packs per display box</li>
+<li>Roll capacity : 0.5 grams</li>
+<li><span>Boveda 62%</span></li>
+<li><span>Packing stick</span></li>
+</ul>
+<div class="woocommerce-variation-description">
+<ul></ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All rolling paper</s:tag>
+    <s:tag>Brand_Choice Leaf</s:tag>
+    <s:tag>Categories_Rolling Papers</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$50 to $100</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6592167542940</id>
+      <title>Large</title>
+      <s:price currency="CAD">60.00</s:price>
+      <s:sku>7089</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6592167542940</id>
+      <title>Medium</title>
+      <s:price currency="CAD">52.00</s:price>
+      <s:sku>7090</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6592167542940</id>
+      <title>Small</title>
+      <s:price currency="CAD">66.00</s:price>
+      <s:sku>7088</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6566325387420</id>
+    <published>2021-03-08T13:34:48-05:00</published>
+    <updated>2021-03-08T13:34:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/ocb-bamboo-cone-1-1-4-box-of-32"/>
+    <title>OCB Bamboo Cone 1 1/4 Box of 32</title>
+    <s:type>Rolling Paper</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7085_rolling_paper-1.jpg?v=1615053732"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Rolling Paper<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-cel-widget="featurebullets_feature_div" data-csa-c-id="6hr9ta-t07sf7-fyj2ic-6lue0i" data-feature-name="featurebullets" class="celwidget" id="featurebullets_feature_div">
+<div class="a-section a-spacing-medium a-spacing-top-small" id="feature-bullets">
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">32 x OCB Bamboo Cones 1 1/4 Size (79mm)</span></li>
+<li><span class="a-list-item">32 packs of 6 totaling 192 cones</span></li>
+<li><span class="a-list-item">Unbleached - Chlorine-Free - Slow Burning - Dye-Free</span></li>
+<li><span class="a-list-item">100% Bamboo Responsibly Harvested</span></li>
+<li><span class="a-list-item">Made in France</span></li>
+</ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All rolling paper</s:tag>
+    <s:tag>Brand_OCB</s:tag>
+    <s:tag>Categories_Rolling Papers</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$20 to $50</s:tag>
+    <s:tag>Size_Regular</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6566325387420</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>7085</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6182705791132</id>
+    <published>2021-02-15T13:22:16-05:00</published>
+    <updated>2021-02-15T13:22:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/rolling-paper-24k-gold"/>
+    <title>ROLLING PAPER | 24K GOLD</title>
+    <s:type>Rolling Paper</s:type>
+    <s:vendor>Xhaal Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/jO2JZ2xZOY_f8fc7d6c-958f-4f23-99d0-250de6e38b39.jpg?v=1614906175"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Xhaal Inc<br>
+        <strong>Type: </strong>Rolling Paper<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Roll up in style with these luxurious 24K Gold Rolling Papers!</p><p> </p><p>•   2 Sheets per pack</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All rolling paper</s:tag>
+    <s:tag>Categories_Rolling Papers</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Marketplace</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Size_Regular</s:tag>
+    <s:tag>wmarket</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6182705791132</id>
+      <title>ROLLING PAPERS | 24K GOLD</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>XRP837W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6182705496220</id>
+    <published>2021-02-15T13:22:14-05:00</published>
+    <updated>2021-02-15T13:22:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/rolling-papers-box-of-25"/>
+    <title>Rolling Papers | Box of 25</title>
+    <s:type>Rolling Paper</s:type>
+    <s:vendor>Xhaal Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/BpbHMxvOws.jpg?v=1612550027"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Xhaal Inc<br>
+        <strong>Type: </strong>Rolling Paper<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="margin: 0px 0px 1em; line-height: 1.4; color: #212b36; font-family: -apple-system, system-ui, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;">Roll up in style! Box of 25 booklets of rolling papers. </p><p style="margin: 0px 0px 1em; line-height: 1.4; color: #212b36; font-family: -apple-system, system-ui, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;">Xhaal’s collection of rolling papers are artfully designed and created with the best materials in mind!</p><ul style="color: #212b36; font-family: -apple-system, system-ui, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;">
+<li>1 ¼ size</li>
+<li>All Natural</li>
+<li>50 papers per booklet</li>
+<li>50 paper filters per booklet - perforated for your convenience!</li>
+<li>Magnetic closure</li>
+<li>Available in Raw, Rice, Hemp, and Bamboo Paper!</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All rolling paper</s:tag>
+    <s:tag>Brand_Xhaal</s:tag>
+    <s:tag>Categories_Rolling Papers</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Marketplace</s:tag>
+    <s:tag>Size_Regular</s:tag>
+    <s:tag>wmarket</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6182705496220</id>
+      <title>Raw</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>XRP830W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6182705496220</id>
+      <title>Rice</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>XRP829W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6182705496220</id>
+      <title>Hemp</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>XRP827W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6182705496220</id>
+      <title>Bamboo</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>XRP828W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6182705430684</id>
+    <published>2021-02-15T13:22:14-05:00</published>
+    <updated>2021-02-15T13:22:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/rolling-paper-sterling-silver"/>
+    <title>ROLLING PAPER | STERLING SILVER</title>
+    <s:type>Rolling Paper</s:type>
+    <s:vendor>Xhaal Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/3Z6zfzADbz_2cf57ee1-9e20-410d-9b98-af5491de7a81.jpg?v=1612550027"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Xhaal Inc<br>
+        <strong>Type: </strong>Rolling Paper<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sterling Silver Rolling Papers! Roll up in style with these papers that will be sure to add some luxury to your session! </p>
+<p>•   2 Sheets per pack</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All rolling paper</s:tag>
+    <s:tag>Categories_Rolling Papers</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Marketplace</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Size_Regular</s:tag>
+    <s:tag>wmarket</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6182705430684</id>
+      <title>ROLLING PAPERS | STERLING SILVER</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>XRP838W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6182705201308</id>
+    <published>2021-02-15T13:22:12-05:00</published>
+    <updated>2021-02-15T13:22:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/bamboo-tray-scraper-1"/>
+    <title>BAMBOO | TRAY &amp; SCRAPER</title>
+    <s:type>Rolling Paper Accessories</s:type>
+    <s:vendor>Xhaal Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/yCVDiaflqR.jpg?v=1612550027"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Xhaal Inc<br>
+        <strong>Type: </strong>Rolling Paper Accessories<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This soft natural bamboo tray is ideal for rolling – with a pouring spout and a<br>scraper to ease clean-up.<br>• Super soft natural Bamboo (with a scraper included)<br>• Includes a soft storing pouch<br>• 8” x 4”</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Categories_Rolling Papers</s:tag>
+    <s:tag>Categories_Smoking Paper Accessories</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Marketplace</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Types_Rolling Trays</s:tag>
+    <s:tag>wmarket</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6182705201308</id>
+      <title>BAMBOO | TRAY &amp; SCRAPER</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>XT826W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6182704513180</id>
+    <published>2021-02-15T13:22:04-05:00</published>
+    <updated>2021-02-15T13:22:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/rolling-tray"/>
+    <title>ROLLING | TRAY</title>
+    <s:type>Rolling Paper Accessories</s:type>
+    <s:vendor>Xhaal Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/sVTQtljxCS.jpg?v=1613873105"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Xhaal Inc<br>
+        <strong>Type: </strong>Rolling Paper Accessories<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sleek and silver-plated, this functions as an ideal rolling tray – with slanted sides to ease clean-up. It also doubles as a design piece in any home.<br>• Silver plated - 1 micron<br>• Storing and polishing pouch<br>• 7.25” x 3.25”</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Categories_Rolling Papers</s:tag>
+    <s:tag>Categories_Smoking Paper Accessories</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Marketplace</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Types_Rolling Trays</s:tag>
+    <s:tag>wmarket</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6182704513180</id>
+      <title>Silver</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>XT801W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6182704513180</id>
+      <title>Brass</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>XT802W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

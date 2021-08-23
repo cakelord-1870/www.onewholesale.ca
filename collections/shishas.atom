@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.onewholesale.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.onewholesale.ca/collections/shishas.atom"/>
+  <title>One Wholesale</title>
+  <updated>2021-03-24T12:16:10-04:00</updated>
+  <author>
+    <name>One Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6626192654492</id>
+    <published>2021-03-24T12:16:10-04:00</published>
+    <updated>2021-03-24T12:16:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/infyniti-33-mm-instant-light-charcoal-tablet-100"/>
+    <title>Infyniti Superior quality charcoal tablet 100</title>
+    <s:type>Chandlery</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7186_charcoal-1.jpg?v=1616599229"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Chandlery<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-mini" data-mce-fragment="1">
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Quick Light</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Strong burn</span></li>
+<li data-mce-fragment="1">Box of 10 Rolls</li>
+<li data-mce-fragment="1">Roll of 10 charcoals</li>
+<li data-mce-fragment="1">33 mm Diameter</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Categories_ Hemp Shishas</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$5 to $10</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6626192654492</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>7186</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6561196310684</id>
+    <published>2021-03-04T16:19:44-05:00</published>
+    <updated>2021-03-04T16:19:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/soex-herbal-molasses"/>
+    <title>Soex Herbal Molasses Box of 10</title>
+    <s:type>Chandlery</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7044-shisha-flavor-1.jpg?v=1614890991"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Chandlery<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Welcome to the healthy way of relishing a truly majestic Hookah experience, with SoeX Herbal Hookah Molasses. A boon for non-tobacco smokers, Soex Herbal contain 0% nicotine, 0% tar and, most important, 0% tobacco! Manufactured under strict supervision using only non-tobacco herbal raw material, Soex Herbal Hookah Molasses will give you the same majestic feeling of smoking your favourite Hookah, without the effects of tobacco.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Categories_ Hemp Shishas</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$5 to $10</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6561196310684</id>
+      <title>Grape</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>7044</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6561196310684</id>
+      <title>Red Cherry</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>7045</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6561196310684</id>
+      <title>Apple</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>7046</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6561196310684</id>
+      <title>Mixed Fruit</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>7047</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6561196310684</id>
+      <title>Strawberry</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>7048</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6561196310684</id>
+      <title>Blueberry</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>7049</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6561196310684</id>
+      <title>Blackberry</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>7050</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6561196310684</id>
+      <title>Double Apple</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>7051</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/5425852874908</id>
+    <published>2020-07-25T13:02:44-04:00</published>
+    <updated>2020-07-25T13:02:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/hemp-shisha-hempookah"/>
+    <title>HEMPOOKAH 100 GRAMS</title>
+    <s:type>Chandlery</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/5852-shisa-2.jpg?v=1595965214"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Chandlery<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="description-holder">HEMPOOKAH is the world's very first and only all and NICOTINE Free. Made with GMO FREE HEMP and finest quality of ingredients. Perfectly blended to give those who love hookah a completely new revolutionary experience.<br></p>
+<ul>
+<li>GMO free</li>
+<li>Tabacco free, Nicotine Free</li>
+<li>100 grams</li>
+<li>Made with 100% Hemp</li>
+<li>World's first all hemp shisha</li>
+<li>Made in USA</li>
+</ul>
+<div class="description-holder">
+<ul></ul>
+<div class="spec-sheet"></div>
+</div>
+<div class="specifications-holder"></div>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Categories_ Hemp Shishas</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$5 to $10</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/5425852874908</id>
+      <title>Mint</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>5857</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/5425852874908</id>
+      <title>Icy Fruit Punch</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>5853</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/5425852874908</id>
+      <title>Icy Berry Bliss</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>5854</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/5425852874908</id>
+      <title>Lemon Mint</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>5855</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/5425852874908</id>
+      <title>Mango Orange Mint</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>5856</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/5425852874908</id>
+      <title>Honeydew/Mint</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>5852</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

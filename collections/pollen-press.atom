@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.onewholesale.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.onewholesale.ca/collections/pollen-press.atom"/>
+  <title>One Wholesale</title>
+  <updated>2020-06-16T16:48:04-04:00</updated>
+  <author>
+    <name>One Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.onewholesale.ca/products/5298308153500</id>
+    <published>2020-06-16T16:48:04-04:00</published>
+    <updated>2020-06-16T16:48:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/t-handle-metal-alloy-pollen-press-compress"/>
+    <title>T Handle Metal Alloy Pollen Press Compress</title>
+    <s:type>Pollen Press</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/5472-pollen-press-1.jpg?v=1592823556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Pollen Press<br>
+        <strong>Price: </strong>
+            12.00 - 17.00
+            <a href="https://www.onewholesale.ca/products/t-handle-metal-alloy-pollen-press-compress">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><span class="a-list-item">T handle design for ease of use and save effort</span></li>
+<li><span class="a-list-item">Brushed tough silver color for the pollen press</span></li>
+<li><span class="a-list-item">It comes with Tincture cap. Please run it few times then clean it at fist use.</span></li>
+<li><span class="a-list-item">Use a thin coat of olive oil on ends before each use to get the finest result</span></li>
+</ul>
+<p><strong><span class="a-list-item">*</span></strong><span class="a-list-item">Specifications</span></p>
+<ul>
+<li><span class="a-list-item">3.5" : Handle Length : 2.5" / Diameter 1" / Height : 3.5"</span></li>
+<li>4.5" : <span class="a-list-item">Handle Length : 2.5" / Diameter 1.15" / Height : 4.5"</span>
+</li>
+<li>5.5" : <span class="a-list-item">Handle Length : 2.8" / Diameter 1.35" / Height : 5.5"</span>
+</li>
+</ul>
+<b><br></b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Area Q1</s:tag>
+    <s:tag>Categories_Pollen Press</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Materials_Metal</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$10 to $20</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/5298308153500</id>
+      <title>3.5&quot;</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>5474</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/5298308153500</id>
+      <title>4.5&quot;</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>5473</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/5298308153500</id>
+      <title>5.5&quot;</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku>5472</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

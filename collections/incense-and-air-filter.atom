@@ -1,0 +1,1075 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.onewholesale.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.onewholesale.ca/collections/incense-and-air-filter.atom"/>
+  <title>One Wholesale</title>
+  <updated>2021-04-23T10:37:01-04:00</updated>
+  <author>
+    <name>One Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6692664803484</id>
+    <published>2021-04-23T10:37:01-04:00</published>
+    <updated>2021-04-23T10:37:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/little-trees-fragrances"/>
+    <title>Little Trees fragrances</title>
+    <s:type>Incense and air filter</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/littletree_466341db-757c-421d-8d20-22ffc97beaaa.jpg?v=1619203190"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Incense and air filter<br>
+        <strong>Price: </strong>
+            0.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="panels-panel--content--copy--subhead" data-mce-fragment="1">
+<ul>
+<li>Freshen your life with the world-famous LITTLE TREES air fresheners. Like all our fragrances, it’s high quality, strong, and long-lasting. At home or on the road, let LITTLE TREES freshen your life.</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Little Trees</s:tag>
+    <s:tag>Categories_Incense and Air Filter</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$10 to $20</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6692664803484</id>
+      <title>Blackberry Clove</title>
+      <s:price currency="CAD">0.75</s:price>
+      <s:sku>7435</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6692664803484</id>
+      <title>Black Ice</title>
+      <s:price currency="CAD">0.75</s:price>
+      <s:sku>7436</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6692664803484</id>
+      <title>Cinnamon Apple</title>
+      <s:price currency="CAD">0.75</s:price>
+      <s:sku>7437</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6692664803484</id>
+      <title>Coconut</title>
+      <s:price currency="CAD">0.75</s:price>
+      <s:sku>7438</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6692664803484</id>
+      <title>Lavender</title>
+      <s:price currency="CAD">0.75</s:price>
+      <s:sku>7439</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6692664803484</id>
+      <title>Morning Fresh</title>
+      <s:price currency="CAD">0.75</s:price>
+      <s:sku>7440</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6692664803484</id>
+      <title>New Car</title>
+      <s:price currency="CAD">0.75</s:price>
+      <s:sku>7441</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6692664803484</id>
+      <title>Pina Colada</title>
+      <s:price currency="CAD">0.75</s:price>
+      <s:sku>7442</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6692664803484</id>
+      <title>Royal Pine</title>
+      <s:price currency="CAD">0.75</s:price>
+      <s:sku>7443</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6692664803484</id>
+      <title>Strawberry</title>
+      <s:price currency="CAD">0.75</s:price>
+      <s:sku>7444</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6692664803484</id>
+      <title>True North</title>
+      <s:price currency="CAD">0.75</s:price>
+      <s:sku>7445</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6692664803484</id>
+      <title>Watermelon</title>
+      <s:price currency="CAD">0.75</s:price>
+      <s:sku>7446</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6692664803484</id>
+      <title>Leather</title>
+      <s:price currency="CAD">0.75</s:price>
+      <s:sku>7447</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6692664803484</id>
+      <title>Cotton Candy</title>
+      <s:price currency="CAD">0.75</s:price>
+      <s:sku>7595</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6692664803484</id>
+      <title>Green Apple</title>
+      <s:price currency="CAD">0.75</s:price>
+      <s:sku>7596</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6692664803484</id>
+      <title>America</title>
+      <s:price currency="CAD">0.75</s:price>
+      <s:sku>7597</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6692664803484</id>
+      <title>Vanillaroma</title>
+      <s:price currency="CAD">0.75</s:price>
+      <s:sku>7598</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6692664803484</id>
+      <title>Pure steel</title>
+      <s:price currency="CAD">0.75</s:price>
+      <s:sku>7449</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6615474110620</id>
+    <published>2021-03-19T16:36:46-04:00</published>
+    <updated>2021-03-19T16:36:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/scent-bomb-air-fresheners-2"/>
+    <title>Scent Bomb air fresheners #2</title>
+    <s:type>Incense and air filter</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7149_scent_bomb-1.jpg?v=1616182859"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Incense and air filter<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Scent Bomb air fresheners are the real thing! Scent Bomb is powerful 100% oil based air freshener that will give you a long lasting smell! Just a couple sprays on the floor mats of your car or in the bathroom trash can keeps it fresh for days. You do not have to keep spraying over and over. Try it and see that one spray will blow you away! We guarantee that Scent Bomb will be the BEST air freshener that you have ever tried.</p>
+<ul>
+<li>20 scent bomb in display</li>
+<li>LAST 48 HOURS !!</li>
+<li>ONE SPRAY WILL BLOW YOU AWAY!</li>
+<li>Flavor : Tangerine Blast, Pomegranate, Baby Powder, Green Bomb, Vanilla Licious</li>
+<li>1 oz / 30 ml</li>
+<li>Concentrated air freshener</li>
+<li>Made in the USA</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Categories_Incense and Air Filter</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$50 to $100</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6615474110620</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>7149</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6182992871580</id>
+    <published>2021-02-05T15:40:28-05:00</published>
+    <updated>2021-02-05T15:40:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/wholesale-eco-four-twenty-personal-air-filter-official-replacement-filters-2-refills-in-1-box"/>
+    <title>Eco Four Twenty Personal Air Filter - Official Replacement Filters (2 Refills in 1 Box)</title>
+    <s:type>Incense and air filter</s:type>
+    <s:vendor>Eco Four Twenty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/6846-1.jpg?v=1612558047"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eco Four Twenty<br>
+        <strong>Type: </strong>Incense and air filter<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-none">
+<li><strong>This is replacement filters only for <a href="https://www.onewholesale.ca/products/eco-four-twenty-starter-set-personal-air-filter-with-eco-friendly-replacement-filter-system?_pos=1&amp;_sid=4a025b171&amp;_ss=r">SKU 6845</a></strong></li>
+</ul>
+<ul class="a-unordered-list a-vertical a-spacing-none" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #222222; font-family: 'Avenir Next', sans-serif;" data-mce-style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #222222; font-family: 'Avenir Next', sans-serif;">
+<li style="box-sizing: border-box;" data-mce-style="box-sizing: border-box;"><span class="a-list-item" style="box-sizing: border-box;" data-mce-style="box-sizing: border-box;">SET OF TWO: In 1 Eco-Friendly Box, You Get 2 Official Replacement Filters for the Eco Four Twenty Personal Air Filter</span></li>
+<li style="box-sizing: border-box;" data-mce-style="box-sizing: border-box;"><span class="a-list-item" style="box-sizing: border-box;" data-mce-style="box-sizing: border-box;">LONG LASTING: Lasts Up to 500 Exhales Before Needing to Be Replaced. The Average User will use this for 2-3 months.</span></li>
+<li style="box-sizing: border-box;" data-mce-style="box-sizing: border-box;"><span class="a-list-item" style="box-sizing: border-box;" data-mce-style="box-sizing: border-box;">HIGH-QUALITY 2 STAGE FILTER: Activated Coconut Shell-Carbon Filter + HEPA Filter means this filters more than cheap competitors!</span></li>
+<li style="box-sizing: border-box;" data-mce-style="box-sizing: border-box;"><span class="a-list-item" style="box-sizing: border-box;" data-mce-style="box-sizing: border-box;">EASY TO REPLACE: Simply Unscrew the Eco Four Twenty Personal Air Purifier and replace the filter. It takes only 3 seconds!</span></li>
+<li style="box-sizing: border-box;" data-mce-style="box-sizing: border-box;"><span class="a-list-item" style="box-sizing: border-box;" data-mce-style="box-sizing: border-box;">LIFETIME WARRANTY AND 100% COVERED BY MONEY BACK SATISFACTION GUARANTEE: If For Whatever Reason you Don't Love Your Eco Four Twenty product, Simply let us know and We Refund Your Money.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Area Q3</s:tag>
+    <s:tag>Candles</s:tag>
+    <s:tag>Categories_Incense and Air Filter</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Eco Four Twenty</s:tag>
+    <s:tag>Eco Friendly</s:tag>
+    <s:tag>Incense</s:tag>
+    <s:tag>Marketplace</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Odor Eliminator</s:tag>
+    <s:tag>Odor Remover</s:tag>
+    <s:tag>Personal Air Filter</s:tag>
+    <s:tag>Personal Smoke Filter</s:tag>
+    <s:tag>Retail</s:tag>
+    <s:tag>Smoke Buddy</s:tag>
+    <s:tag>smoke drop</s:tag>
+    <s:tag>Smoke Filter</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:tag>wmarket</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6182992871580</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku>6846</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6182992576668</id>
+    <published>2021-02-05T15:40:28-05:00</published>
+    <updated>2021-02-05T15:40:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/eco-four-twenty-starter-set-personal-air-filter-with-eco-friendly-replacement-filter-system"/>
+    <title>Eco Four Twenty Starter Set Personal Air Filter with eco-friendly replacement filter system</title>
+    <s:type>Incense and air filter</s:type>
+    <s:vendor>Eco Four Twenty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/6845-1.jpg?v=1612557884"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eco Four Twenty<br>
+        <strong>Type: </strong>Incense and air filter<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-description-wrapper" style="box-sizing: border-box; margin: 30px 0px; clear: both; color: #222222; font-family: 'Avenir Next', sans-serif;"><ul class="a-unordered-list a-vertical a-spacing-none" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem;">
+<li style="box-sizing: border-box;">
+<span style="box-sizing: border-box; font-weight: bold;">EASY TO USE:</span><span style="box-sizing: border-box;"> Using this product ensures that your room has clean air and no bad odours. </span>
+</li>
+<li style="box-sizing: border-box;">
+<span style="box-sizing: border-box; font-weight: bold;">HIGH QUALITY MATERIALS:</span><span style="box-sizing: border-box;"> NO CHEAP PLASTIC PRODUCTS. WE USE </span>Aircraft Grade Aluminum Casing and 2 Stage Medical Grade Filter. Activated Carbon Filter + HEPA Filter</li>
+<li style="box-sizing: border-box;">
+<span style="box-sizing: border-box; font-weight: bold;">REPLACEABLE CARTRIDGES:</span><span style="box-sizing: border-box;"> </span>Instead of Buying a Whole New Filter, Simply Replace With a Cheap, Easy To Change Replacement Filter! Also Has Removable Mouthpiece and Cover for Easy Cleaning</li>
+<li style="box-sizing: border-box;">
+<span style="box-sizing: border-box; font-weight: bold;">LONG LASTING:</span><span style="box-sizing: border-box;"> </span>Lasts Up to 500 Exhales Before Needing to Be Replaced. The Average User will use this for 2-3 months before needing to replace.</li>
+<li style="box-sizing: border-box;"><span style="box-sizing: border-box; font-weight: bold;">LIFETIME WARRANTY AND 100% COVERED BY MONEY BACK SATISFACTION GUARANTEE by Eco Four Twenty. </span></li>
+</ul></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Air Cleaner</s:tag>
+    <s:tag>Air Filter</s:tag>
+    <s:tag>Area Q3</s:tag>
+    <s:tag>Candle</s:tag>
+    <s:tag>Cannabis Filter</s:tag>
+    <s:tag>Carbon Filter</s:tag>
+    <s:tag>Categories_Incense and Air Filter</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Eco Four Twenty</s:tag>
+    <s:tag>Eco Friendly</s:tag>
+    <s:tag>Eco420</s:tag>
+    <s:tag>Incense</s:tag>
+    <s:tag>Indoor Air Filter</s:tag>
+    <s:tag>Marketplace</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Odor Eliminator</s:tag>
+    <s:tag>Odor Remover</s:tag>
+    <s:tag>Personal Air Filter</s:tag>
+    <s:tag>Personal Smoke Filter</s:tag>
+    <s:tag>Philter</s:tag>
+    <s:tag>Philter Labs</s:tag>
+    <s:tag>Smoke Buddy</s:tag>
+    <s:tag>smoke drop</s:tag>
+    <s:tag>Smoke Filter</s:tag>
+    <s:tag>SmokeBuddy</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:tag>wmarket</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6182992576668</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku>6845</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/4394242474048</id>
+    <published>2020-12-01T14:59:57-05:00</published>
+    <updated>2020-12-01T14:59:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/nic-out-30-filters-box"/>
+    <title>Nic Out 30 Filters (Box)</title>
+    <s:type></s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/5092-filter-1.jpg?v=1585566157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-none">
+<li><span class="a-list-item">20 PACK per box (30 individual filters per pack)</span></li>
+<li><span class="a-list-item">TECHNOLOGICALLY advanced disposable cigarette filter that helps reduce smoking hazards.</span></li>
+<li><span class="a-list-item">NEW 8 hole filter design</span></li>
+<li><span class="a-list-item">TRAPS most of the tar and nicotine in the cigarette smoke while you can still enjoy the full, unchanged flavor of your favorite cigarettes.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Area O4</s:tag>
+    <s:tag>Categories_Incense and Air Filter</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$20 to $50</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/4394242474048</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>5092</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/5479556415644</id>
+    <published>2020-08-07T16:57:19-04:00</published>
+    <updated>2020-08-07T16:57:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/philter-pocket-smoke-filters"/>
+    <title>PHILTER Pocket Smoke filters</title>
+    <s:type>Incense and air filter</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/5915-filter-1.jpg?v=1596832585"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Incense and air filter<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="section product_section clearfix js-product_section " itemscope="" itemtype="http://schema.org/Product" data-rv-handle="pocket">
+<div class="seven columns medium-down--one-whole  omega">
+<div class="description bottom" itemprop="description">
+<p>The best personal smoke filters for cloud-free vaping. Use in combination with your favorite vaporizer or smoking accessory. Simply exhale vapor or smoke into the POCKET for no smoke, no smell, no stress!   </p>
+<ul>
+<li>Patented process captures and dissolves particulates, reduces emissions and diminishes odor</li>
+<li>Silicone mouthpiece and sleeve</li>
+<li>Works with smoke and vapor exhalation</li>
+<li>Good for up to 150 exhales</li>
+</ul>
+</div>
+</div>
+</div>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Area Q4</s:tag>
+    <s:tag>Categories_Incense and Air Filter</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$10 to $20</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/5479556415644</id>
+      <title>Black</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>5915</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/5479556415644</id>
+      <title>Grey</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>5916</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/5479556415644</id>
+      <title>White</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>5917</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/4460667076672</id>
+    <published>2020-05-03T20:13:19-04:00</published>
+    <updated>2020-05-03T20:13:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/smokebuddy-original-personal-color-air-filter"/>
+    <title>Smokebuddy Original Personal Color Air Filter</title>
+    <s:type>Incense and air filter</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/5244-smoke-buddy-1.jpg?v=1588589360"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Incense and air filter<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Smokebuddy is a handy, and reliable, life saving air filter. Simply exhale your smoke through your easy-to-use Smokebuddy and odorless air comes out the other end. Smoke where you want, and when you want without anyone knowing the wiser. Keep second hand smoke away from friends, family, and neighbors with your Smokebuddy.<br>
+<ul>
+<li>Keep your smoke to your self</li>
+<li>Smoke Buddy Keychain with LED light</li>
+<li>Compact</li>
+<li>Convenient</li>
+<li>High quality</li>
+<li>Long lasting - Estimated at 300 uses or more</li>
+<li>Travel caps included</li>
+<li>Color : Red, Yellow, blue and green Mixed</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Area Q3</s:tag>
+    <s:tag>Categories_Incense and Air Filter</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$10 to $20</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/4460667076672</id>
+      <title>Red</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>5244</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/4460667076672</id>
+      <title>Pink</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>5245</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/4460667076672</id>
+      <title>Green</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>5246</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/4460667076672</id>
+      <title>Blue</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>5247</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/4460667076672</id>
+      <title>Teal</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>2088</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/4460667076672</id>
+      <title>Purple</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>2087</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/4460667076672</id>
+      <title>Black</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>2086</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/4460667076672</id>
+      <title>White</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>2085</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/4460667076672</id>
+      <title>Dark green</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>2084</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/4404803207232</id>
+    <published>2020-03-13T16:14:03-04:00</published>
+    <updated>2020-03-13T16:14:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/wicked-sense-incense-72-pack-display"/>
+    <title>Wicked sense Incense 72 pack display</title>
+    <s:type>Incense and air filter</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/5105-incense-2.jpg?v=1584137939"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Incense and air filter<br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Take a walk on the Wicked side with our hand-dipped incense! Made in the US, our fragrant stick incense is one of the most effective ways to not only eliminate odor, but to enhance any environment with sultry scents. Spice up your living space with any one of our stick incense varieties, all of which are sure to provide you with an aromatic experience that you won’t forget. Shop our hand-dipped incense packs today—after all, it only makes Wicked Sense.</p>
+<ul>
+<li>24 Fragrances</li>
+<li>72 Packs per display</li>
+<li>Hand dipped incense</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Categories_Incense and Air Filter</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$50 to $100</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/4404803207232</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.95</s:price>
+      <s:sku>5105</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/2021723144261</id>
+    <published>2020-02-10T16:52:57-05:00</published>
+    <updated>2020-02-10T16:52:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/cannabis-b-gone-surface-odour-eliminator"/>
+    <title>Cannabis-B-Gone Surface Odour Eliminator</title>
+    <s:type>Incense and air filter</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/3732-insence-1.jpg?v=1553438542"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Incense and air filter<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Quickly fractionalizers the clinging odour molecules of cannabis, tobacco, body odour,sweat,food, mildew and pets from clothing,upholstery,drapes, carpets,bedding,mattresses,walls,floors and other porous and non-porous surface.</p>
+<ul>
+<li>ECO-SOLUTION</li>
+<li>Surface odour eliminator</li>
+<li>Highly effective</li>
+<li>Long Lasting</li>
+<li>Biodegradable</li>
+<li>Net Content : 240 ml</li>
+<li>Made in Canada</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Categories_Incense and Air Filter</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Price_$5 to $10</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/2021723144261</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>3732</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/1813444264005</id>
+    <published>2019-06-18T15:08:54-04:00</published>
+    <updated>2019-06-18T15:08:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/scent-bomb-air-fresheners"/>
+    <title>Scent Bomb air fresheners</title>
+    <s:type>Incense and air filter</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/2613-incence-1.jpg?v=1613385202"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Incense and air filter<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Scent Bomb air fresheners are the real thing!  Scent Bomb is powerful 100% oil based air freshener that will give you a long lasting smell! Just a couple sprays on the floor mats of your car or in the bathroom trash can keeps it fresh for days. You do not have to keep spraying over and over. Try it and see that one spray will blow you away!  We guarantee that Scent Bomb will be the BEST air freshener that you have ever tried.</p>
+<ul>
+<li>20 scent bomb in display</li>
+<li>LAST 48 HOURS !!</li>
+<li>ONE SPRAY WILL BLOW YOU AWAY!</li>
+<li>Flavor : Black Bomb,Clean Cotton, Black Cherry,Hawaiian Blue,Mango Tropical</li>
+<li>1 oz / 30 ml</li>
+<li>Concentrated air freshener</li>
+<li>Made in the USA</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Categories_Incense and Air Filter</s:tag>
+    <s:tag>Color_Blue</s:tag>
+    <s:tag>Price_$50 to $100</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/1813444264005</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>2613</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/1813528674373</id>
+    <published>2019-02-08T10:19:47-05:00</published>
+    <updated>2019-02-08T10:19:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/nag-champa-super-hit-sticks"/>
+    <title>Nag Champa Super hit sticks</title>
+    <s:type>Incense and air filter</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/2646.jpg?v=1613385202"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Incense and air filter<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These luxury incense sticks have a beautiful zesty and sweet fragrance with a semblance of citrus, honey and vanilla. Satya Sai Baba super hit incense is made by the makers of the famous nag champa Incense which is the largest exported incense stick in the world. This scent is sweeter than nag champa and produces a lingering aroma that makes you feel at ease. Simply place an incense stick in an incense holder and light the tip. Once the tip is glowing, carefully blow out the flame and enjoy the heavenly aroma.</p>
+<ul>
+<li>15 g / pack</li>
+<li>12 ea / box</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Area P2</s:tag>
+    <s:tag>Categories_Incense and Air Filter</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Price_$10 to $20</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/1813528674373</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>2646</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/1813525397573</id>
+    <published>2019-02-08T10:19:47-05:00</published>
+    <updated>2019-02-08T10:19:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/nag-champa-agarbatti-sticks"/>
+    <title>Nag Champa Agarbatti Sticks</title>
+    <s:type>Incense and air filter</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/2645.jpg?v=1613385202"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Incense and air filter<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sai Baba Nag Champa incense is possibly the best selling incense in the world today. Bearing the name of Sai Baba, one of the most widely known and recognised spiritual teachers of our time, this incense proves very popular to the export markets, as well as at home in India.<br><br>Giving off a steady and balanced smoke, the smell is distinctive and not too overpowering. There is a slight perfume to the sticks that is fresh, woody and exotic.</p>
+<ul>
+<li>15 g / pack</li>
+<li>12 ea / box</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Categories_Incense and Air Filter</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Price_$10 to $20</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/1813525397573</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>2645</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/1813375057989</id>
+    <published>2018-10-30T13:07:19-04:00</published>
+    <updated>2018-10-30T13:07:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/smokebuddy-original-personal-air-filter"/>
+    <title>Smokebuddy Original Personal Design Air Filter</title>
+    <s:type>Incense and air filter</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/4399-smoke-buddy-1.jpg?v=1613385201"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Incense and air filter<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Smokebuddy is a handy, and reliable, life saving air filter. Simply exhale your smoke through your easy-to-use Smokebuddy and odorless air comes out the other end. Smoke where you want, and when you want without anyone knowing the wiser. Keep second hand smoke away from friends, family, and neighbors with your Smokebuddy.<br>
+<ul>
+<li>Keep your smoke to your self</li>
+<li>Smoke Buddy Keychain with LED light</li>
+<li>Compact</li>
+<li>Convenient</li>
+<li>High quality</li>
+<li>Long lasting - Estimated at 300 uses or more</li>
+<li>Travel caps included</li>
+<li>Color : Red, Yellow, blue and green Mixed</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Area Q1</s:tag>
+    <s:tag>Categories_Incense and Air Filter</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$10 to $20</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/1813375057989</id>
+      <title>Evil</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>4399</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/1813375057989</id>
+      <title>Grenade</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>2694</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/1813375057989</id>
+      <title>Cares</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>3161</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/1813375057989</id>
+      <title>Las Vega2693</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>2693</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/1813375057989</id>
+      <title>Wood</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>2611</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/1813375057989</id>
+      <title>Tie Dye</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>2610</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/1813375057989</id>
+      <title>Camo</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>2609</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/1813247754309</id>
+    <published>2018-10-30T12:41:53-04:00</published>
+    <updated>2018-10-30T12:41:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/juicy-jays-thai-incense-sticks"/>
+    <title>Juicy Jay&apos;s Thai Incense sticks</title>
+    <s:type>Incense and air filter</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/3013-incense-2.jpg?v=1613385199"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Incense and air filter<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Juicy Jays is one of the best selling brands of flavored smoking products in the world. We have put our years of experience and flavoring know-how into every stick. This incense is guaranteed to be one of the most aromic and pleasurable you have ever experienced.</li>
+</ul>
+<ul>
+<li>Why is Juicy Jays incense made in Thailand? Because Thailand with it's rich Buddhist history has been making incense for thousands of years and has perfected the art. We think you and your senses will definitely agree.</li>
+</ul>
+<ul>
+<li> 20 x 12 Thai Incense stick per box</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Categories_Incense and Air Filter</s:tag>
+    <s:tag>Color_Blue</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Price_$10 to $20</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/1813247754309</id>
+      <title>Patchouli</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>3013</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/1813247754309</id>
+      <title>Cherry Vanilla</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>3012</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/1813247754309</id>
+      <title>Cotton Candy</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>3011</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/1813247754309</id>
+      <title>Grapes Gone Wild</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>3010</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/1813247754309</id>
+      <title>Pear Thai</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>3009</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/1813247754309</id>
+      <title>Mango Papaya</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>3008</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/1813247754309</id>
+      <title>Black N Blueberry</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>3007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/1813247754309</id>
+      <title>Chocolate Chip</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>3006</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/1813247754309</id>
+      <title>Orange Overload</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>3005</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/1813247754309</id>
+      <title>Tropical Passion</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>3004</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/1813247754309</id>
+      <title>Lychee</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>3003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/1813247754309</id>
+      <title>Strawberry fields</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>3002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/1813247754309</id>
+      <title>Midnight</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>3555</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/1813247754309</id>
+      <title>Black Magic</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>3556</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/1813247754309</id>
+      <title>Funk incense</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>3557</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/1813247754309</id>
+      <title>Apple Brown</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>3558</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/1813247754309</id>
+      <title>Raspberry</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>3559</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

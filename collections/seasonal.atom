@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.onewholesale.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.onewholesale.ca/collections/seasonal.atom"/>
+  <title>One Wholesale</title>
+  <updated>2021-08-11T17:10:18-04:00</updated>
+  <author>
+    <name>One Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6945196867740</id>
+    <published>2021-08-11T17:10:18-04:00</published>
+    <updated>2021-08-11T17:10:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/rainbow-flag-3x5"/>
+    <title>Rainbow Flag 3&apos;x5&apos;</title>
+    <s:type>Chandlery</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/8050_flag-1.jpg?v=1628715949"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Chandlery<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Size : 3' x 5'</li>
+<li>100% Polyester</li>
+<li>Double stitched all around the edge and strengthened by canvas header and two brass grommets.<br>
+</li>
+<li>UV RESISTANT color fast ink to protect vibrancy of colors in sunlight. Printed on one side all the way through the fabric. Great for indoor and outdoor use</li>
+<li>Perfect for your Home Flagpole, Tailgating, or Wall Decoration. Great for moderate-outdoor and indoor</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chandlery</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$5 to $10</s:tag>
+    <s:tag>Seasonal</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6945196867740</id>
+      <title>Rainbow Happy</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>8050</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6945196867740</id>
+      <title>Rainbow Swirl</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>8054</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6945196867740</id>
+      <title>Canadian Rainbow</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>8057</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6945196867740</id>
+      <title>Rainbow</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>8058</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6945193263260</id>
+    <published>2021-08-11T17:10:18-04:00</published>
+    <updated>2021-08-11T17:10:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/skull-flag-3x5"/>
+    <title>Skull Flag 3&apos;x5&apos;</title>
+    <s:type>Chandlery</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/8053_flag-1.jpg?v=1628715699"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Chandlery<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Size : 3' x 5'</li>
+<li>100% Polyester</li>
+<li>Double stitched all around the edge and strengthened by canvas header and two brass grommets.<br>
+</li>
+<li>UV RESISTANT color fast ink to protect vibrancy of colors in sunlight. Printed on one side all the way through the fabric. Great for indoor and outdoor use</li>
+<li>Perfect for your Home Flagpole, Tailgating, or Wall Decoration. Great for moderate-outdoor and indoor</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chandlery</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$5 to $10</s:tag>
+    <s:tag>Seasonal</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6945193263260</id>
+      <title>Pirate</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>8053</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6945193263260</id>
+      <title>Pirate Red Scarf</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>8055</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6945193263260</id>
+      <title>Red Pirate</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>8059</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6945182417052</id>
+    <published>2021-08-11T17:10:17-04:00</published>
+    <updated>2021-08-11T17:10:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/cannabis-flag-3x5"/>
+    <title>Cannabis Flag 3&apos;x5&apos;</title>
+    <s:type>Chandlery</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/8047_flag-1.jpg?v=1628715330"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Chandlery<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Size : 3' x 5'</li>
+<li>100% Polyester</li>
+<li>Double stitched all around the edge and strengthened by canvas header and two brass grommets.<br>
+</li>
+<li>UV RESISTANT color fast ink to protect vibrancy of colors in sunlight. Printed on one side all the way through the fabric. Great for indoor and outdoor use</li>
+<li>Perfect for your Home Flagpole, Tailgating, or Wall Decoration. Great for moderate-outdoor and indoor</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chandlery</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$5 to $10</s:tag>
+    <s:tag>Seasonal</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6945182417052</id>
+      <title>Marijuana</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>8047</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6945182417052</id>
+      <title>Leaf Jamaica</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>8048</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6945182417052</id>
+      <title>Skull Leaf</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>8049</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6945182417052</id>
+      <title>Blunt</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>8051</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6945182417052</id>
+      <title>Peace Leaf</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>8052</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6945182417052</id>
+      <title>Canada Pot</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>8056</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6945182417052</id>
+      <title>Leaf Jack</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>8060</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6945182417052</id>
+      <title>Legalize it</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>8061</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6945182417052</id>
+      <title>Leaf Tie Dye</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>8062</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6945182417052</id>
+      <title>Leaf Daily</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>8063</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/5840112451740</id>
+    <published>2020-10-29T14:20:07-04:00</published>
+    <updated>2020-10-29T14:20:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/mosphere-disposable-mask-box"/>
+    <title>Mosphere Disposable Mask Box</title>
+    <s:type>Chandlery</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/6365-mask-1.jpg?v=1603916621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Chandlery<br>
+        <strong>Price: </strong>
+            4.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>50 pcs / box</li>
+<li>Light &amp; Permeable</li>
+<li>Fit &amp; Comfort</li>
+<li>Soft on skin &amp; Nonallergenic</li>
+<li>Breathable</li>
+<li>17.5 x 9.5 Cm</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chandlery</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$5 to $10</s:tag>
+    <s:tag>Seasonal</s:tag>
+    <s:tag>Types_PPE</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/5840112451740</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.95</s:price>
+      <s:sku>6365</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

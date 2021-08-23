@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.onewholesale.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.onewholesale.ca/collections/screens.atom"/>
+  <title>One Wholesale</title>
+  <updated>2021-08-13T11:33:32-04:00</updated>
+  <author>
+    <name>One Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6946917122204</id>
+    <published>2021-08-13T11:33:32-04:00</published>
+    <updated>2021-08-13T11:33:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/acid-secs-10-pack-of-preformed-bowl-screen"/>
+    <title>Acid Secs - 10 pieces of preformed bowl screen</title>
+    <s:type>Screen</s:type>
+    <s:vendor>Acid Secs Productions</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/ASP1003_screen-2.jpg?v=1628800839"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Acid Secs Productions<br>
+        <strong>Type: </strong>Screen<br>
+        <strong>Price: </strong>
+            3.50 - 4.00
+            <a href="https://www.onewholesale.ca/products/acid-secs-10-pack-of-preformed-bowl-screen">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>10 pieces bowl screen per pack</li>
+<li>Preformed fine screen</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Categories_Screens</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Marketplace</s:tag>
+    <s:tag>Materials_Metal</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$5 under</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6946917122204</id>
+      <title>Gold</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>ASP0003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6946917122204</id>
+      <title>Silver</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>ASP0005</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/2045147054149</id>
+    <published>2021-02-08T14:34:42-05:00</published>
+    <updated>2021-02-08T14:34:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/preformed-5-fine-metal-screen"/>
+    <title>Preformed 5 fine metal screen</title>
+    <s:type>Screen</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/1679-1.jpg?v=1553438663"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Screen<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>5 metal screen per pack</li>
+<ul></ul>
+<li>High quality Preformed 5 fine metal screen</li>
+<li>15 mm diameters</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Back in stock</s:tag>
+    <s:tag>Categories_Screens</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Materials_Metal</s:tag>
+    <s:tag>Price_$5 under</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/2045147054149</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku>1679</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/5335335338140</id>
+    <published>2020-06-29T17:02:08-04:00</published>
+    <updated>2020-06-29T17:02:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/preformed-fine-metal-screen"/>
+    <title>Preformed fine metal screen</title>
+    <s:type>Screen</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/5535-screen-1.jpg?v=1594390201"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Screen<br>
+        <strong>Price: </strong>
+            18.00 - 20.00
+            <a href="https://www.onewholesale.ca/products/preformed-fine-metal-screen">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>100 metal screens per pack</li>
+<ul></ul>
+<li>High quality Preformed fine metal screen</li>
+<li>15 mm diameters or 12 mm diameters available</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Area N3</s:tag>
+    <s:tag>Categories_Screens</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Materials_Metal</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$20 to $50</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/5335335338140</id>
+      <title>12 mm</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>5535</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/5335335338140</id>
+      <title>15 mm</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>5536</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/2045141811269</id>
+    <published>2019-02-13T11:35:01-05:00</published>
+    <updated>2019-02-13T11:35:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/high-quality-daisy-and-jack-style-glass-screen"/>
+    <title>High Quality Daisy and Jack style Glass Screen</title>
+    <s:type>Screen</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/3744-bowl-2.jpg?v=1553438619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Screen<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Total 240 pieces</li>
+<ul>
+<li>120 Daisy style (20ea x 6)</li>
+<li>120 Jack style (20ea x 6) style</li>
+</ul>
+<li>Handmade item</li>
+<li>Material: glass</li>
+<li>Unmatchable quality with assorted colors &amp; sizes. (Usually between 1/4 to 3/8" Inches)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Categories_Screens</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Materials_Glass</s:tag>
+    <s:tag>Price_$20 to $50</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/2045141811269</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>3744</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/2045142728773</id>
+    <published>2019-02-13T10:59:41-05:00</published>
+    <updated>2019-02-13T10:59:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/high-quality-metal-screen-100-packs"/>
+    <title>High Quality Metal screen 100 packs</title>
+    <s:type>Screen</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/120.jpg?v=1553438621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Screen<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>100 packs per box</li>
+<li>5 metal screen per pack</li>
+<ul></ul>
+<li>High quality meshed metal screen</li>
+<li>Silver and Brass color available</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Area N5</s:tag>
+    <s:tag>Back in stock</s:tag>
+    <s:tag>Categories_Screens</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Materials_Metal</s:tag>
+    <s:tag>Price_$5 to $10</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/2045142728773</id>
+      <title>Silver screen</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>120</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/2045142728773</id>
+      <title>Brass screen</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>1436</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

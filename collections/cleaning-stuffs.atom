@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.onewholesale.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.onewholesale.ca/collections/cleaning-stuffs.atom"/>
+  <title>One Wholesale</title>
+  <updated>2021-06-16T14:09:32-04:00</updated>
+  <author>
+    <name>One Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6821129879708</id>
+    <published>2021-06-16T14:09:32-04:00</published>
+    <updated>2021-06-16T14:09:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/wellcann-glass-cleaner"/>
+    <title>Wellcann Glass Cleaner</title>
+    <s:type>Cleaning Stuffs</s:type>
+    <s:vendor>Eastern</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7770_bong-1.jpg?v=1623864382"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eastern<br>
+        <strong>Type: </strong>Cleaning Stuffs<br>
+        <strong>Price: </strong>
+            6.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>ENHANCE YOUR SMOKING EXPERIENCE</p>
+<ul>
+<li>Instant Results</li>
+<li>Biodegradable</li>
+<li>No Scrubbing</li>
+<li>No After Taste</li>
+<li>Cleans Glass, Metal,Hookahs,Pipes,Bongs</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Categories_Cleaning Stuffs</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Marketplace</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$5 to $10</s:tag>
+    <s:tag>Price_$5 under</s:tag>
+    <s:tag>smoke drop</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6821129879708</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.70</s:price>
+      <s:sku>7770</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6647420027036</id>
+    <published>2021-04-05T16:55:01-04:00</published>
+    <updated>2021-04-05T16:55:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/green-goddess-cleaner"/>
+    <title>Green Goddess Cleaner</title>
+    <s:type>Cleaning Stuffs</s:type>
+    <s:vendor>B Movin Distribution</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7274_cleaner-1_8a0bd50e-6644-4fc4-a90d-46fe2320479d.jpg?v=1617901062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>B Movin Distribution<br>
+        <strong>Type: </strong>Cleaning Stuffs<br>
+        <strong>Price: </strong>
+            6.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 data-mce-fragment="1">Canadian Made Glass Cleaner</h2>
+<p data-mce-fragment="1">Green Goddess is an anti-bacterial liquid cleaner for water pipes, glass pipes, and hookah's. Fast acting and easy to use, you will see immediate results without scrubbing or waiting.<br>Green Goddess cleaner is earth friendly and brightens glass without any after taste or smells. Made in Canada, Green Goddess is Isopropyl Alcohol-based to help clean those stubborn stains.</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Please Note:  Do NOT soak for more than 5 minutes</strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Categories_Cleaning Stuffs</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Marketplace</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$5 to $10</s:tag>
+    <s:tag>Price_$5 under</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6647420027036</id>
+      <title>16 oz</title>
+      <s:price currency="CAD">6.90</s:price>
+      <s:sku>7274</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/1814107783237</id>
+    <published>2021-03-08T13:25:11-05:00</published>
+    <updated>2021-03-08T13:25:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/orange-chronic-cleaner"/>
+    <title>Orange Chronic Cleaner</title>
+    <s:type>Cleaning Stuffs</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/1502-accessories-1.jpg?v=1613385217"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Cleaning Stuffs<br>
+        <strong>Price: </strong>
+            3.50 - 8.99
+            <a href="https://www.onewholesale.ca/products/orange-chronic-cleaner">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Orange Chronic Cleaner is the leading solution for all your glass bong cleaning needs. Orange Chronic line is proven to be fast and effective, offering Immediate Results for bong cleaning! Earth Friendly and easy to use.<br>
+<ul>
+<li>SHAKING SOLUTION No Soaking / No Scrubbing</li>
+<li>Includes 1 bottle</li>
+<li>Immediate results</li>
+<li>No Scrubbing or waiting</li>
+<li>No After Taste or Smell</li>
+<li>Easy to Use * Earth Friendly</li>
+<li>Free Rinsing * Brightens Glass</li>
+<li>Cleans Glass and Metals (Also Hookahs)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Categories_Cleaning Stuffs</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Price_$5 to $10</s:tag>
+    <s:tag>Price_$5 under</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/1814107783237</id>
+      <title>4 oz</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>3396</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/1814107783237</id>
+      <title>12 oz</title>
+      <s:price currency="CAD">6.50</s:price>
+      <s:sku>7082</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/1814107783237</id>
+      <title>16 oz</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>1502</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6536983642268</id>
+    <published>2021-02-24T12:26:35-05:00</published>
+    <updated>2021-02-24T12:26:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/6-dragon-pipe-cleaners-box-of-48-bundles"/>
+    <title>6&quot; Dragon Pipe Cleaners Box of 48 bundles</title>
+    <s:type>Cleaning Stuffs</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/6968-bong-2.jpg?v=1614180972"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Cleaning Stuffs<br>
+        <strong>Price: </strong>
+            45.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Box of 48 bundles</li>
+<li>44 cleaners per buldle</li>
+<li>6" long</li>
+<li>Extra absorbent<br>
+</li>
+<li>100% cotton filler</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Categories_Cleaning Stuffs</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6536983642268</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">45.60</s:price>
+      <s:sku>6968</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6182706839708</id>
+    <published>2021-02-15T13:22:17-05:00</published>
+    <updated>2021-02-15T13:22:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/cleaning-fog-1"/>
+    <title>CLEANING FOG</title>
+    <s:type>Cleaning Stuffs</s:type>
+    <s:vendor>Xhaal Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/oOm03XiTAE_ef1260cf-dcfb-4013-98a5-0db0830019f3.jpg?v=1612550073"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Xhaal Inc<br>
+        <strong>Type: </strong>Cleaning Stuffs<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A tasteful addition to any smoker’s collection. An most ingenious creation for multipurpose use. The two-pronged side is perfect for packing the joint, while the more refined point can be used to readjust the filter position. It can also be used as a cleaning tool.<br>• Silver finish<br>• 3”<br>• Pouch</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Categories_Cleaning Stuffs</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Marketplace</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:tag>wmarket</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6182706839708</id>
+      <title>CLEANING FOG</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>XF820W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6141326000284</id>
+    <published>2021-01-22T11:33:58-05:00</published>
+    <updated>2021-01-22T11:33:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/nylon-tube-rasta-brush"/>
+    <title>Nylon tube rasta brush</title>
+    <s:type>Cleaning Stuffs</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/6749-downstem-1.jpg?v=1611265684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Cleaning Stuffs<br>
+        <strong>Price: </strong>
+            1.50 - 2.00
+            <a href="https://www.onewholesale.ca/products/nylon-tube-rasta-brush">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Total length : 14" or 16 "</li>
+<li><span>Made of stainless steel and nylon bristles</span></li>
+<li><span>The brush hair is spiral shape, contact with the pipe wall of the tube well, water pipe, glass tube, the new hose, the tube brush is cleaned more thoroughly, more clean</span></li>
+<li><span><span>Tube Brush Diameters : 1.5" (14 inches)  / 2" (16 inches)</span></span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Area N5</s:tag>
+    <s:tag>Categories_Cleaning Stuffs</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$5 under</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6141326000284</id>
+      <title>14 inches</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku>6750</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6141326000284</id>
+      <title>16 inches</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>6749</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/5921648509084</id>
+    <published>2020-11-19T16:39:32-05:00</published>
+    <updated>2020-11-19T16:39:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/resin-demon-cleaner"/>
+    <title>Resin Demon Cleaner</title>
+    <s:type>Cleaning Stuffs</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/6417-cleaner-1.jpg?v=1605822026"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Cleaning Stuffs<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1"><span class="theme-text-color-1-4" data-mce-fragment="1"><span data-mce-fragment="1">Resin Demon Cleaner is the first and only cleaning solution that coats all those hard to reach places including percolators, down stems and your most delicate glass. Resin Demon is safe to use on all surfaces so there is no need for more than one bong cleaner. It contains no salt, isopropyl alcohol, acetone or other harsh abrasives. Resin Demon is the only national brand with a Material Safety Data Sheet which states “non-hazardous goods.”</span></span></div>
+<br>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Categories_Cleaning Stuffs</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$5 to $10</s:tag>
+    <s:tag>Price_$5 under</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/5921648509084</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>6417</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/2159170584645</id>
+    <published>2020-08-01T12:41:28-04:00</published>
+    <updated>2020-08-01T12:41:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/randys-black-label-cleaner"/>
+    <title>Randy&apos;s Black Label Cleaner</title>
+    <s:type>Cleaning Stuffs</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/4102-cleaner-1.jpg?v=1600193691"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Cleaning Stuffs<br>
+        <strong>Price: </strong>
+            3.50 - 6.00
+            <a href="https://www.onewholesale.ca/products/randys-black-label-cleaner">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="et_pb_module et_pb_text et_pb_text_4 et_pb_bg_layout_light  et_pb_text_align_left">
+<div class="et_pb_text_inner">
+<p>Randy’s Black Label Cleaner is one of our very best sellers. This response is based solely on the results that Black Label produces after every single use. Black Label is a lightning fast resin and goo cleaning solution for any metal, glass, or ceramic smoking utensil. Just apply Black Label to any piece, shake, and let it soak for a few minutes before rinsing out in warm water. In no time Randy’s Black Label will have your piece looking good as new, and performing like the day you pulled it off the shelf. Black Label is one of the hottest cleaners on the market. Many of Randy’s customers use it exclusively as their go-to pipe and glass cleaner.</p>
+</div>
+</div>
+<ul>
+<li><strong>BlackLabel Cleaner</strong></li>
+<li>Smokeware cleaner</li>
+<li>Lightning Fast on Resin &amp; Goo</li>
+<li>Cleans Glass, Metal, Ceramic, Wood, and Acrylic</li>
+<li>As Simple As:<strong>Soak. Swirl. Rinse</strong>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Categories_Cleaning Stuffs</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$5 to $10</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/2159170584645</id>
+      <title>12 fl.oz.</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>4102</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/2159170584645</id>
+      <title>6 fl.oz.</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>6126</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/5441060864156</id>
+    <published>2020-07-29T10:20:01-04:00</published>
+    <updated>2020-07-29T10:20:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/formula-420-original-cleaner"/>
+    <title>Formula 420 original cleaner</title>
+    <s:type>Cleaning Stuffs</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/5869-formular420-1.jpg?v=1596512576"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Cleaning Stuffs<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Formula 420 for Pyrex, Glass, Metal and Ceramic is the original complete 1 minute cleaner. Our exclusive AbrasivAction™ technology eliminates the need for soaking and scrubbing. Simply Shake, Rinse and Enjoy!™</p>
+<ul>
+<li>Hassle Free</li>
+<li>Easy to Use (No Soaking, No Scrubbing, No Waiting)</li>
+<li>Non-Toxic*</li>
+<li>Biodegradable</li>
+<li>Cleans and Deodorizes In Seconds</li>
+</ul>
+<p style="font-size: 1.4em;"><b>GLASS, METAL, PYREX AND CERAMIC SURFACES ONLY</b></p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Categories_Cleaning Stuffs</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$5 to $10</s:tag>
+    <s:tag>Price_$5 under</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/5441060864156</id>
+      <title>12 oz</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>5869</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/1942873079877</id>
+    <published>2020-05-29T15:38:00-04:00</published>
+    <updated>2020-05-29T15:38:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/16-in-nylon-tube-black-brush"/>
+    <title>16 in. Nylon tube black brush</title>
+    <s:type>Cleaning Stuffs</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/3447-cleanning-2.jpg?v=1553435926"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Cleaning Stuffs<br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Total length : 16"</li>
+<li><span>Made of stainless steel and nylon bristles</span></li>
+<li><span>The brush hair is spiral shape, contact with the pipe wall of the tube well, water pipe, glass tube, the new hose, the tube brush is cleaned more thoroughly, more clean</span></li>
+<li><span><span>Tube Brush Diameters : 2"</span></span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Area N6</s:tag>
+    <s:tag>Back in stock</s:tag>
+    <s:tag>Categories_Cleaning Stuffs</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Price_$5 under</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/1942873079877</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>3447</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

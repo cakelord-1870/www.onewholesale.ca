@@ -1,0 +1,2438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.onewholesale.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.onewholesale.ca/collections/vapor.atom"/>
+  <title>One Wholesale</title>
+  <updated>2021-08-13T11:33:30-04:00</updated>
+  <author>
+    <name>One Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6946540814492</id>
+    <published>2021-08-13T11:33:30-04:00</published>
+    <updated>2021-08-13T11:33:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/dank-replacement-coil-for-astro-vape-pen"/>
+    <title>Replacement coil for DANK Astro vape pen</title>
+    <s:type>vapor</s:type>
+    <s:vendor>Eastern</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/ET1001-1.jpg?v=1628786159"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eastern<br>
+        <strong>Type: </strong>vapor<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>A replacement coil for Dank Astro vape pen</li>
+<li>Quartz and Ceramic available </li>
+</ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_DANK</s:tag>
+    <s:tag>Categories_Vape Accessories</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Marketplace</s:tag>
+    <s:tag>Models_Astro</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>portable-vaporizer</s:tag>
+    <s:tag>smoke drop</s:tag>
+    <s:tag>Usage_Wax (Concentrate)</s:tag>
+    <s:tag>vape-accessory</s:tag>
+    <s:tag>Vaporizer Pipes</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6946540814492</id>
+      <title>Quartz Coil</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku>EST1001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6946540814492</id>
+      <title>Ceramic Coil</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku>EST1002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6946518761628</id>
+    <published>2021-08-13T11:33:29-04:00</published>
+    <updated>2021-08-13T11:33:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/dank-astro-vape-pen"/>
+    <title>DANK Astro wax concentrate vape pen</title>
+    <s:type>vapor</s:type>
+    <s:vendor>Eastern</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/ET1000-4.jpg?v=1628784903"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eastern<br>
+        <strong>Type: </strong>vapor<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>DANK Has been a premier company for innovative vaporizers, always know what they are doing. the DANK Astro Pen is a cutting-edge all in one that offers the utmost of convenience for quick and discreet sessions on the go.<br data-mce-fragment="1"></p>
+<ul>
+<li>Magnetic Connection between the atomizer tube and base.</li>
+</ul>
+<p><strong><br data-mce-fragment="1"></strong><strong>* Package Content</strong><br></p>
+<ul>
+<li>1 x Dank AstroPen Device</li>
+<li>1 x Replacement Coil<br>
+</li>
+<li>1 x 510 Charger<br>
+</li>
+<li>1 x Dab Tool</li>
+<li>1 x User manual </li>
+<li>1 x Metal case<br>
+</li>
+</ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_DANK</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Marketplace</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>portable-vaporizer</s:tag>
+    <s:tag>Price_$20 to $50</s:tag>
+    <s:tag>smoke drop</s:tag>
+    <s:tag>Types_Refillable</s:tag>
+    <s:tag>Usage_Wax (Concentrate)</s:tag>
+    <s:tag>Vaporizer Pipes</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6946518761628</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>EST1000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6942383538332</id>
+    <published>2021-08-10T13:56:41-04:00</published>
+    <updated>2021-08-10T13:56:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/genie-air-disposable-1200-puff-pod-20-mg-ml"/>
+    <title>Genie Air+ disposable 1200 Puff Pod 20 mg/mL</title>
+    <s:type>vapor</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/8032_vape-1.jpg?v=1628617884"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>vapor<br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><span>Genie Air+ Disposable Pod Device</span></strong></p>
+<p><span>Genie Air+ raises its own bar with its newly disposable pod device to Puff away that is compact, light, and portable. Each pod stick comes with 3.5mL juice that is enough to stay satisfied for the whole day.</span></p>
+<p><strong><span>Genie Air+ Features: </span></strong></p>
+<ul>
+<li><span>10 disposable pods devices per box</span></li>
+<li><span>Disposable pod device requires no maintenance, charging or refilling</span></li>
+<li><span>E-liquid: 3.5ml </span></li>
+<li>Salt Nicotine 20MG Salt Nic inside for an accurate cigarette-style throat hit</li>
+<li><span>Battery: 650mAh </span></li>
+<li><span>Pre-charged, Simply puff on the device to activate</span></li>
+<li><span>Pre-filled, no need for messy refills</span></li>
+<li>1200+ puffs per pod</li>
+<li><span>Compact and Portable </span></li>
+</ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Area GB4</s:tag>
+    <s:tag>Brand_Genie Air+</s:tag>
+    <s:tag>Categories_Vape Pen</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>portable-vaporizer</s:tag>
+    <s:tag>Price_$50 to $100</s:tag>
+    <s:tag>Types_Disposable</s:tag>
+    <s:tag>Vaporizer Pipes</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6942383538332</id>
+      <title>Cherry Frost</title>
+      <s:price currency="CAD">95.00</s:price>
+      <s:sku>8032</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6942383538332</id>
+      <title>Peach Watermelon</title>
+      <s:price currency="CAD">95.00</s:price>
+      <s:sku>8033</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6942383538332</id>
+      <title>Strawberry Peach Soda</title>
+      <s:price currency="CAD">95.00</s:price>
+      <s:sku>8034</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6942383538332</id>
+      <title>Peach Ice</title>
+      <s:price currency="CAD">95.00</s:price>
+      <s:sku>8035</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6942383538332</id>
+      <title>Bubble Mint</title>
+      <s:price currency="CAD">95.00</s:price>
+      <s:sku>8036</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6942383538332</id>
+      <title>Blueberry On Rocks</title>
+      <s:price currency="CAD">95.00</s:price>
+      <s:sku>8037</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6942383538332</id>
+      <title>rainbow Falls</title>
+      <s:price currency="CAD">95.00</s:price>
+      <s:sku>8038</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6942383538332</id>
+      <title>Cool Mint</title>
+      <s:price currency="CAD">95.00</s:price>
+      <s:sku>8039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6942383538332</id>
+      <title>Fresh Menthol</title>
+      <s:price currency="CAD">95.00</s:price>
+      <s:sku>8040</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6910772379804</id>
+    <published>2021-07-27T13:28:06-04:00</published>
+    <updated>2021-07-27T13:28:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/pop-hit-basic-kit"/>
+    <title>Pop Hit Basic Kit</title>
+    <s:type>vapor</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7970_vape-2.jpg?v=1627402717"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>vapor<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A trendy way to vape without the mess, coils or refills. Simple, satisfying and pop is practical for everyday usage by adult smokers looking for a viable alternative to traditional cigarettes.</p>
+<p><strong>In the box</strong><br></p>
+<ul>
+<li>1 x Pop hit Device<br>
+</li>
+<li>1 x  USB charging cable</li>
+<li>1 x User Manual Guide</li>
+</ul>
+<ul></ul>
+<ul></ul>
+<section class="related-products"></section>
+<div>
+<ul></ul>
+</div>
+<div>
+<ul></ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Categories_Vape Pen</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>portable-vaporizer</s:tag>
+    <s:tag>Price_$5 to $10</s:tag>
+    <s:tag>smoke drop</s:tag>
+    <s:tag>Vaporizer Pipes</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6910772379804</id>
+      <title>Black</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku>7970</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6910772379804</id>
+      <title>Blue</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku>7971</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6910772379804</id>
+      <title>Red</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku>7972</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6910772379804</id>
+      <title>Silver</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku>7973</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6910772379804</id>
+      <title>Champagne</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku>7974</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6910745542812</id>
+    <published>2021-07-27T13:28:06-04:00</published>
+    <updated>2021-07-27T13:28:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/dank-hive-honeycomb-enail-kit"/>
+    <title>DANK HIVE Honeycomb Enail Kit</title>
+    <s:type>vapor</s:type>
+    <s:vendor>Eastern</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7962_enail-1.jpg?v=1627403065"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eastern<br>
+        <strong>Type: </strong>vapor<br>
+        <strong>Price: </strong>
+            173.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The DANK HIVE Honeycomb Enail is one of the best Enails on the market! The temperature displayed is the temperature of the vaporizing surface, These heaters will last thousands of hours with proper use. 700-1000F / 350-510C is optimal heater temperature. (650-750F for Quartz, 700-975F for Titanium)<br></p>
+<p><strong>* Package Content</strong></p>
+<ul>
+<li>Enail Unit with PID Temp Control<br>
+</li>
+<li>Silicone Storage Container</li>
+<li>Titanium Nail</li>
+<li>Carb Cap<br>
+</li>
+<li>Coil Heater<br>
+</li>
+<li>Power Cord<br>
+</li>
+<li>User Manual<br>
+</li>
+</ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Area A6</s:tag>
+    <s:tag>Brand_DANK</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Marketplace</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>portable-vaporizer</s:tag>
+    <s:tag>Price_$150 to $200</s:tag>
+    <s:tag>smoke drop</s:tag>
+    <s:tag>Types_Enail</s:tag>
+    <s:tag>Types_Refillable</s:tag>
+    <s:tag>Usage_Dry Herb</s:tag>
+    <s:tag>Vaporizer Pipes</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6910745542812</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">173.95</s:price>
+      <s:sku>7962</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6866824626332</id>
+    <published>2021-07-08T16:15:16-04:00</published>
+    <updated>2021-07-08T16:15:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/zpod-s-compatible-pods-box-of-5-packs-20-mg-ml-1"/>
+    <title>ZPOD S-Compatible Pods Box of 5 packs (20 mg/mL)</title>
+    <s:type>vapor</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7873_z-pod-2.jpg?v=1625759970"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>vapor<br>
+        <strong>Price: </strong>
+            37.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>ZPOD introduces STLTH Compatible Pods</span></p>
+<ul>
+<li>Box of 5 packs</li>
+<li>3 E-liquid cartridges of 2ml each.</li>
+<li>2% NicSalt strength.</li>
+<li>Compatible with STLTH-style device.</li>
+<li>INGREDIENTS:<br>Propylene glycol, glycerol, flavour, acid benzoic and nicotine.</li>
+</ul>
+<ul></ul>
+<ul></ul>
+<section class="related-products"></section>
+<div>
+<ul></ul>
+</div>
+<div>
+<ul></ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Categories_Vape Pen</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>portable-vaporizer</s:tag>
+    <s:tag>Types_Refillable</s:tag>
+    <s:tag>Vaporizer Pipes</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6866824626332</id>
+      <title>Blue Raspberry</title>
+      <s:price currency="CAD">37.50</s:price>
+      <s:sku>7873</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6866824626332</id>
+      <title>POG</title>
+      <s:price currency="CAD">37.50</s:price>
+      <s:sku>7874</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6866824626332</id>
+      <title>Sour Mouth</title>
+      <s:price currency="CAD">37.50</s:price>
+      <s:sku>7875</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6866824626332</id>
+      <title>Papaya</title>
+      <s:price currency="CAD">37.50</s:price>
+      <s:sku>7876</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6866824626332</id>
+      <title>Strawberry Milk</title>
+      <s:price currency="CAD">37.50</s:price>
+      <s:sku>7877</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6866824626332</id>
+      <title>Mang Pineapple</title>
+      <s:price currency="CAD">37.50</s:price>
+      <s:sku>7878</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6866824626332</id>
+      <title>ACAI Berry</title>
+      <s:price currency="CAD">37.50</s:price>
+      <s:sku>7879</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6866824626332</id>
+      <title>Tobacco</title>
+      <s:price currency="CAD">37.50</s:price>
+      <s:sku>7880</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6866824626332</id>
+      <title>Menthol</title>
+      <s:price currency="CAD">37.50</s:price>
+      <s:sku>7881</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6866824626332</id>
+      <title>Banana Iced</title>
+      <s:price currency="CAD">37.50</s:price>
+      <s:sku>7882</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6866824626332</id>
+      <title>Strawnana</title>
+      <s:price currency="CAD">37.50</s:price>
+      <s:sku>7883</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6866824626332</id>
+      <title>Pineapple Lemon</title>
+      <s:price currency="CAD">37.50</s:price>
+      <s:sku>7884</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6866824626332</id>
+      <title>Banana Milk</title>
+      <s:price currency="CAD">37.50</s:price>
+      <s:sku>7885</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6866824626332</id>
+      <title>Cucumber</title>
+      <s:price currency="CAD">37.50</s:price>
+      <s:sku>7886</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6866824626332</id>
+      <title>Dream Cream</title>
+      <s:price currency="CAD">37.50</s:price>
+      <s:sku>7887</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6866824626332</id>
+      <title>Gummy Bear Ice</title>
+      <s:price currency="CAD">37.50</s:price>
+      <s:sku>7888</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6866824626332</id>
+      <title>Honeydew Melon Ice</title>
+      <s:price currency="CAD">37.50</s:price>
+      <s:sku>7889</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6866824626332</id>
+      <title>Watermelon Lemon</title>
+      <s:price currency="CAD">37.50</s:price>
+      <s:sku>7890</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6866824626332</id>
+      <title>MINT</title>
+      <s:price currency="CAD">37.50</s:price>
+      <s:sku>7891</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6866824626332</id>
+      <title>Blueberry</title>
+      <s:price currency="CAD">37.50</s:price>
+      <s:sku>7892</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6866824626332</id>
+      <title>Ice Apple</title>
+      <s:price currency="CAD">37.50</s:price>
+      <s:sku>7893</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6866824626332</id>
+      <title>Chew</title>
+      <s:price currency="CAD">37.50</s:price>
+      <s:sku>7894</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6866824626332</id>
+      <title>Watermelon</title>
+      <s:price currency="CAD">37.50</s:price>
+      <s:sku>7895</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6866824626332</id>
+      <title>Berry Mix</title>
+      <s:price currency="CAD">37.50</s:price>
+      <s:sku>7896</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6866802049180</id>
+    <published>2021-07-08T16:15:16-04:00</published>
+    <updated>2021-07-08T16:15:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/zpod-s-compatible-pods-box-of-5-packs-20-mg-ml"/>
+    <title>ZPOD S-Compatible Limited Edition Pods Box of 5 packs (20 mg/mL)</title>
+    <s:type>vapor</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7869_z-pod-5.jpg?v=1625759270"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>vapor<br>
+        <strong>Price: </strong>
+            37.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>ZPOD introduces STLTH Compatible Pods</span></p>
+<ul>
+<li>Box of 5 packs</li>
+<li>3 E-liquid cartridges of 2ml each.</li>
+<li>2% NicSalt strength.</li>
+<li>Compatible with STLTH-style device.</li>
+<li>INGREDIENTS:<br>Propylene glycol, glycerol, flavour, acid benzoic and nicotine.</li>
+</ul>
+<ul></ul>
+<ul></ul>
+<section class="related-products"></section>
+<div>
+<ul></ul>
+</div>
+<div>
+<ul></ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Categories_Vape Pen</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>portable-vaporizer</s:tag>
+    <s:tag>Types_Refillable</s:tag>
+    <s:tag>Vaporizer Pipes</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6866802049180</id>
+      <title>BlueBerry Dragon Fruit Guava</title>
+      <s:price currency="CAD">37.50</s:price>
+      <s:sku>7869</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6866802049180</id>
+      <title>Sour Green Apple Lemonade</title>
+      <s:price currency="CAD">37.50</s:price>
+      <s:sku>7870</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6866802049180</id>
+      <title>Peach Lemonade</title>
+      <s:price currency="CAD">37.50</s:price>
+      <s:sku>7871</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6866802049180</id>
+      <title>Fruit Punch</title>
+      <s:price currency="CAD">37.50</s:price>
+      <s:sku>7872</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6866718752924</id>
+    <published>2021-07-08T16:15:13-04:00</published>
+    <updated>2021-07-08T16:15:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/stlth-vape-device-limited-edition"/>
+    <title>STLTH VAPE DEVICE ** Limited Edition</title>
+    <s:type>vapor</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7868_stalth-1.jpg?v=1625755910"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>vapor<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>A new way to vape without the mess, coils or refills. Simple, satisfying and stealth is practical for everyday usage by adult smokers looking for a viable alternative to traditional cigarettes.</span></p>
+<div><span>Designed specifically for adult smokers in mind, this device is built for practical everyday usage with an upgraded 420 mAh battery.</span></div>
+<section class="related-products"></section>
+<div>Package includes: </div>
+<div>
+<ul>
+<li>1 x Device</li>
+<li>1 x Charging Cable </li>
+<li>1 x Instruction Manual and Warranty Registration Card</li>
+</ul>
+</div>
+<div>
+<ul></ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_STLTH</s:tag>
+    <s:tag>Categories_Vape Pen</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>portable-vaporizer</s:tag>
+    <s:tag>Price_$10 to $20</s:tag>
+    <s:tag>Types_Refillable</s:tag>
+    <s:tag>Vaporizer Pipes</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6866718752924</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>7868</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6821135319196</id>
+    <published>2021-06-16T14:09:33-04:00</published>
+    <updated>2021-06-16T14:09:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/dank-dragon-puff-vape-pen"/>
+    <title>DANK Dragon Puff Vape pen</title>
+    <s:type>vapor</s:type>
+    <s:vendor>Eastern</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7766_vape-1.jpg?v=1623864918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eastern<br>
+        <strong>Type: </strong>vapor<br>
+        <strong>Price: </strong>
+            44.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Dragon Puff is a Cannabis vaporizer with 5 temperature presets to choose from, allowing the user to find there perfect setting. The Dragon Puff also features a deep ceramic oven allowing for a good session before refilling, and an internal battery with easy USB recharge. Dank offers a 1 year warranty on products in cases of electrical or mechanical failure.<br><br></p>
+<p><strong>* Package Content</strong></p>
+<ul>
+<li>Dank Dragon Puff Vaporizer</li>
+<li>Cleaning Brush</li>
+<li>Tweezers</li>
+<li>2 Filter screens</li>
+<li>Recharge cable</li>
+<li>User manual</li>
+<li>Warranty Card</li>
+</ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_DANK</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Marketplace</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>portable-vaporizer</s:tag>
+    <s:tag>Price_$20 to $50</s:tag>
+    <s:tag>smoke drop</s:tag>
+    <s:tag>Types_Refillable</s:tag>
+    <s:tag>Usage_Dry Herb</s:tag>
+    <s:tag>Vaporizer Pipes</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6821135319196</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.00</s:price>
+      <s:sku>7766</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6818751479964</id>
+    <published>2021-06-15T17:00:50-04:00</published>
+    <updated>2021-06-15T17:00:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/hybrid-pop-hit-stlth-compatible-pods-box-of-5-packs-20-mg-ml"/>
+    <title>HYBRID Pop Hit STLTH Compatible Pods Box of 5 packs (20 mg/mL)</title>
+    <s:type>vapor</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7750_vape_pod-1.jpg?v=1627402199"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>vapor<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Pop Hit introduces STLTH Compatible Pods</span></p>
+<ul>
+<li>Box of 5 packs</li>
+<li>3 x  E-liquid cartridges of 2ml each.</li>
+<li>2% NicSalt strength.</li>
+<li>Compatible with STLTH-style device.</li>
+</ul>
+<ul></ul>
+<ul></ul>
+<section class="related-products"></section>
+<div>
+<ul></ul>
+</div>
+<div>
+<ul></ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Categories_Vape Pen</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>portable-vaporizer</s:tag>
+    <s:tag>Price_$5 to $10</s:tag>
+    <s:tag>Types_Refillable</s:tag>
+    <s:tag>Vaporizer Pipes</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6818751479964</id>
+      <title>Luscious Watermelon</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>7977</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6818751479964</id>
+      <title>Nectar Of Gods</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>7976</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6818751479964</id>
+      <title>Tutti Frutti</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>7975</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6818751479964</id>
+      <title>Grape Rush</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>7978</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6818751479964</id>
+      <title>Chilled Lucious Bubblegum</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>7750</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6818751479964</id>
+      <title>Iced Berry blast</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>7751</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6818751479964</id>
+      <title>Tropical Blast</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>7752</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6818751479964</id>
+      <title>Strawberry Kiwi</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>7753</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6818751479964</id>
+      <title>Iced Blackberry</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>7754</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6818751479964</id>
+      <title>Peachy Apple</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>7755</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6818751479964</id>
+      <title>Strawberry Gummy</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>7756</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6818751479964</id>
+      <title>Mystery Swirl</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>7757</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6818751479964</id>
+      <title>Passionfruit Strawberry</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>7758</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6818751479964</id>
+      <title>B.B.M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>7759</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6783810470044</id>
+    <published>2021-06-02T12:45:37-04:00</published>
+    <updated>2021-06-02T12:45:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/elekar-voto-vape-water-pipe"/>
+    <title>elekar VOTO airsvape potable water pipe</title>
+    <s:type>vapor</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7634_vape_bong-1.jpg?v=1622651990"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>vapor<br>
+        <strong>Price: </strong>
+            25.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-container="true" class="sc-pZopv bjKdkd pf-13d3e15e" data-pf-type="Section">
+<div class="sc-pQQXS iWCqut">
+<div class="sc-qPjXN eYzxUD pf-a93bff26 pf-r pf-r-align--cm" data-pf-type="Row">
+<div class="sc-pbYdQ jklmHY pf-c pf-c-xs--12 pf-c-sm--6 pf-c-md--6 pf-c-lg--6">
+<div class="sc-pkUyL fTyjzF pf-cbf86c13" data-pf-type="Column">The elekar VOTO Pipe is a compact and convenient water pipe for dry herb use only. Featuring a glass water chamber, 0.5 to 1 gram capacity and a sliding mesh chamber. </div>
+<div class="sc-pkUyL fTyjzF pf-cbf86c13" data-pf-type="Column">
+<br>When using the water pipe users will not have to worry about any batteries, the<br>only thing needed is some dry herbs and a lighter. Easy to clean and use, this portable device will provide you with strong clouds and full tasting flavor. Smoking through the water tank cools the smoke and removes ash.<br><br>
+</div>
+<div class="sc-pkUyL fTyjzF pf-cbf86c13" data-pf-type="Column"><br></div>
+<div class="sc-pkUyL fTyjzF pf-cbf86c13" data-pf-type="Column"><br></div>
+<div class="sc-pkUyL fTyjzF pf-cbf86c13" data-pf-type="Column"><strong>How to use</strong></div>
+<div class="sc-pkUyL fTyjzF pf-cbf86c13" data-pf-type="Column">
+<ul>
+<li>Add water</li>
+<li>Grind dry herb to fine, even consistency.</li>
+<li>Pop off the magnetic top cap.</li>
+<li>Push button to open chamber.</li>
+<li>Slide bar down to increase bowl capacity.</li>
+<li>Fill the chamber with dry herb/tobacco.</li>
+<li>Push to close chamber cap.(Glass on top and stainless steel body on bottom)</li>
+<li>Ignite bottom, smoke, and enjoy.</li>
+</ul>
+</div>
+<div class="sc-pkUyL fTyjzF pf-cbf86c13" data-pf-type="Column"><strong>Package Content</strong></div>
+<ul>
+<li>1 x Hand pipe</li>
+<li>1 x Glass Jar</li>
+<li>1 x Cleaning Brush</li>
+<li>1 x Tweezers</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div data-container="true" class="sc-pZopv bjKdkd pf-17b7d010" data-pf-type="Section">
+<div class="sc-pQQXS iWCqut">
+<div class="sc-qPjXN eYzxUD pf-bfd90a2e pf-r pf-r-align--cm" data-pf-type="Row">
+<div class="sc-pbYdQ jklmHY pf-c pf-c-xs--12 pf-c-sm--6 pf-c-md--6 pf-c-lg--6">
+<div class="sc-qPjXN eYzxUD pf-aa5617b7 pf-r pf-r-align--cm" data-pf-type="Row">
+<div class="sc-pbYdQ jklmHY pf-c pf-c-xs--12 pf-c-sm--6 pf-c-md--6 pf-c-lg--6">
+<div class="sc-pkUyL fTyjzF pf-56462c41" data-pf-type="Column">
+<div class="sc-pbYdQ jklmHY pf-c pf-c-xs--12 pf-c-sm--6 pf-c-md--6 pf-c-lg--6">
+<div data-container="true" class="sc-pZopv bjKdkd pf-38e505d2" data-pf-type="Section"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<ul></ul>
+<ul></ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bong Collection</s:tag>
+    <s:tag>Brand_elekar</s:tag>
+    <s:tag>Categories_Bongs</s:tag>
+    <s:tag>Categories_Vape Pen</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>portable-vaporizer</s:tag>
+    <s:tag>Price_$20 to $50</s:tag>
+    <s:tag>smoke drop</s:tag>
+    <s:tag>Usage_Dry Herb</s:tag>
+    <s:tag>Vaporizer Pipes</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6783810470044</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.95</s:price>
+      <s:sku>7634</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6723973349532</id>
+    <published>2021-05-06T16:13:27-04:00</published>
+    <updated>2021-05-06T16:13:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/stig-disposable-pod-by-vgod-20-mg-ml"/>
+    <title>STIG disposable pod by VGOD (20 mg/mL)</title>
+    <s:type>vapor</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/stig-fda-lushice_28fff460-fc91-4c09-84ee-7b717588cb2e.png?v=1620331991"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>vapor<br>
+        <strong>Price: </strong>
+            17.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The mini disposable vaporizer pod filled with immense flavor that satisfies cravings in one single hit.</p>
+<ul>
+<li>Nicotine - 20 mg/mL</li>
+<li>Instant incredible flavor with on draw activation. No buttons or complicated settings.</li>
+<li>
+<span>Battery is fully charged and has enough SaltNic e-liquid</span><span>to substitute for an entire pack of cigarettes</span>
+</li>
+<li><span>Sufficient vapor production with satisfying throat hit. 270 puffs to each STIG and 3 STIGs to a pack.</span></li>
+<li><span>Pocket sized pod allows you to enjoy your active lifestyle free from smoke</span></li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_STIG</s:tag>
+    <s:tag>Categories_Vape Pen</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>portable-vaporizer</s:tag>
+    <s:tag>Price_$10 to $20</s:tag>
+    <s:tag>Types_Disposable</s:tag>
+    <s:tag>Vaporizer Pipes</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6723973349532</id>
+      <title>Lush Ice</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku>7556</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6709156577436</id>
+    <published>2021-04-29T14:24:23-04:00</published>
+    <updated>2021-04-29T14:24:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/genie-air-disposable-1200-puff-pod-50-mg-ml"/>
+    <title>Genie Air+ disposable 1200 Puff Pod 50 mg/mL</title>
+    <s:type>vapor</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7484_vapor-1.jpg?v=1619719098"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>vapor<br>
+        <strong>Price: </strong>
+            90.00 - 100.00
+            <a href="https://www.onewholesale.ca/products/genie-air-disposable-1200-puff-pod-50-mg-ml">(21 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><span>New 1200 PUFFS !!</span></strong></p>
+<p><strong><span>Genie Air+ Disposable Pod Device</span></strong></p>
+<p><span>Genie Air+ raises its own bar with its newly disposable pod device to Puff away that is compact, light, and portable. Each pod stick comes with 3.5mL juice that is enough to stay satisfied for the whole day.</span></p>
+<p><strong><span>Genie Air+ Features: </span></strong></p>
+<ul>
+<li><span>10 disposable pod devices per box</span></li>
+<li><span>Disposable pod device requires no maintenance, charging or refilling</span></li>
+<li><span>E-liquid: 3.5ml </span></li>
+<li>Salt Nicotine 50MG Salt Nic inside for an accurate cigarette-style throat hit</li>
+<li><span>Battery: 650mAh </span></li>
+<li><span>Pre-charged, Simply puff on the device to activate</span></li>
+<li><span>Pre-filled, no need for messy refills</span></li>
+<li>1200 + puffs per pod</li>
+<li><span>Compact and Portable </span></li>
+</ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Genie Air+</s:tag>
+    <s:tag>Categories_Vape Pen</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>portable-vaporizer</s:tag>
+    <s:tag>Price_$50 to $100</s:tag>
+    <s:tag>Types_Disposable</s:tag>
+    <s:tag>Vaporizer Pipes</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6709156577436</id>
+      <title>Cherry Frost</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku>7484</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6709156577436</id>
+      <title>Pink Lemonade</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku>7485</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6709156577436</id>
+      <title>Strawberry Cream</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku>7486</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6709156577436</id>
+      <title>Apple Peach</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku>7487</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6709156577436</id>
+      <title>Strawberry Banana</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku>7488</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6709156577436</id>
+      <title>Peach Ice</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku>7489</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6709156577436</id>
+      <title>Mango Ice</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku>7490</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6709156577436</id>
+      <title>Peach Watermelon</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku>7491</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6709156577436</id>
+      <title>Lush Ice</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku>7492</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6709156577436</id>
+      <title>Peach Soda</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku>7493</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6709156577436</id>
+      <title>Banana Ice</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku>7494</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6709156577436</id>
+      <title>Honeydew Melon Ice</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku>7495</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6709156577436</id>
+      <title>Strawberry Kiwi ice</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku>7496</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6709156577436</id>
+      <title>Pineapple Lemonade</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku>7497</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6709156577436</id>
+      <title>Green Apple Ice</title>
+      <s:price currency="CAD">100.00</s:price>
+      <s:sku>7498</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6709156577436</id>
+      <title>Banana Cream</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku>7499</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6709156577436</id>
+      <title>Blueberry Mint</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku>7500</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6709156577436</id>
+      <title>Cool Mint</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku>7501</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6709156577436</id>
+      <title>Russian Cream</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku>7502</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6709156577436</id>
+      <title>Energy Ice</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku>7503</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6709156577436</id>
+      <title>Grape Ice</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku>7504</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6709146779804</id>
+    <published>2021-04-29T14:24:23-04:00</published>
+    <updated>2021-04-29T14:24:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/genie-air-disposable-1200-puff-pod-50-mg-ml-limited-edition"/>
+    <title>Genie Air+ disposable 1200 Puff Pod 50 mg/mL - Limited Edition!!</title>
+    <s:type>vapor</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7481_vapor-1.jpg?v=1619718680"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>vapor<br>
+        <strong>Price: </strong>
+            90.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><span>1200 PUFFS - LIMITED EDITION !!</span></strong></p>
+<p><strong><span>Genie Air+ Disposable Pod Device</span></strong></p>
+<p><span>Genie Air+ raises its own bar with its newly disposable pod device to Puff away that is compact, light, and portable. Each pod stick comes with 3.5mL juice that is enough to stay satisfied for the whole day.</span></p>
+<p><strong><span>Genie Air+ Features: </span></strong></p>
+<ul>
+<li><span>10 disposable pod devices per box</span></li>
+<li><span>Disposable pod device requires no maintenance, charging or refilling</span></li>
+<li><span>E-liquid: 3.5ml </span></li>
+<li>Salt Nicotine 50MG Salt Nic inside for an accurate cigarette-style throat hit</li>
+<li><span>Battery: 650mAh </span></li>
+<li><span>Pre-charged, Simply puff on the device to activate</span></li>
+<li><span>Pre-filled, no need for messy refills</span></li>
+<li>1200 + puffs per pod</li>
+<li><span>Compact and Portable </span></li>
+</ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Genie Air+</s:tag>
+    <s:tag>Categories_Vape Pen</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>portable-vaporizer</s:tag>
+    <s:tag>Price_$50 to $100</s:tag>
+    <s:tag>Types_Disposable</s:tag>
+    <s:tag>Vaporizer Pipes</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6709146779804</id>
+      <title>Bubble Mint</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku>7481</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6709146779804</id>
+      <title>Bear Mint</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku>7482</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6709146779804</id>
+      <title>Tea Mint</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku>7483</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6700446580892</id>
+    <published>2021-04-26T17:13:38-04:00</published>
+    <updated>2021-04-26T17:13:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/double-trouble-2-in-1-disposable-vape-device-2000-puffs"/>
+    <title>Disposable Vape device Box of 10</title>
+    <s:type>vapor</s:type>
+    <s:vendor>Vape Daddy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7450-1.jpg?v=1619471194"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vape Daddy<br>
+        <strong>Type: </strong>vapor<br>
+        <strong>Price: </strong>
+            119.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="margin: 0px 0px 1em; line-height: 1.4; color: #212b36; font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;">The Double Trouble is the hottest disposable to hit the block! With 2 flavors in 1 device, why stick to the same flavor when you can switch things up? Get the Double Trouble 2 in 1 device today!!</p>
+<p style="margin: 0px 0px 1em; line-height: 1.4; color: #212b36; font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;"><span style="text-decoration-line: underline;"><strong>Features</strong></span></p>
+<ul style="color: #212b36; font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;">
+<li>Box of 10 2-in-1 Devices</li>
+<li>Battery: 1000mAh</li>
+<li>E-liquid: 2 flavors x 3ml</li>
+<li>Puff count: 2000 puffs (1000 puffs per flavor)</li>
+<li>Nicotine strength: 5% (50mg/mL)</li>
+</ul>
+<p style="margin: 0px 0px 1em; line-height: 1.4; color: #212b36; font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;"><span style="text-decoration-line: underline;"><strong>Flavors</strong></span> </p>
+<ul style="color: #212b36; font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;">
+<li>Banana Popsey / Orange Popsey </li>
+<li>Blue Slushie / Pink Lemonade</li>
+<li>Cool Grape / Frozen Mango  </li>
+<li>Watermelon Freeze / Pineapple Freeze  </li>
+<li>Minty Strawberry / Fuzzy Cool Peach  </li>
+<li>Blackberry Lemon / Red Raspberry</li>
+<li>Hawaii Guava Ice / Lush Ice  </li>
+<li>Rainbow Candy / Energy Monster</li>
+<li>Aloe White Grape / Banana Taffy</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 in 1</s:tag>
+    <s:tag>Categories_Vape Pen</s:tag>
+    <s:tag>disposable</s:tag>
+    <s:tag>disposable device</s:tag>
+    <s:tag>e-cigarette</s:tag>
+    <s:tag>Marketplace</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>portable-vaporizer</s:tag>
+    <s:tag>Types_Disposable</s:tag>
+    <s:tag>Vaporizer Pipes</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6700446580892</id>
+      <title>Banana Popsey / Orange Popsey</title>
+      <s:price currency="CAD">119.90</s:price>
+      <s:sku>7450</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6700446580892</id>
+      <title>Blue Slushie / Pink Lemonade</title>
+      <s:price currency="CAD">119.90</s:price>
+      <s:sku>7451</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6700446580892</id>
+      <title>Cool Grape / Frozen Mango</title>
+      <s:price currency="CAD">119.90</s:price>
+      <s:sku>7452</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6700446580892</id>
+      <title>Watermelon Freeze / Pineapple Freeze</title>
+      <s:price currency="CAD">119.90</s:price>
+      <s:sku>7453</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6700446580892</id>
+      <title>Minty Strawberry / Fuzzy Cool Peach</title>
+      <s:price currency="CAD">119.90</s:price>
+      <s:sku>7454</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6700446580892</id>
+      <title>Blackberry Lemon / Red Raspberry</title>
+      <s:price currency="CAD">119.90</s:price>
+      <s:sku>7455</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6700446580892</id>
+      <title>Hawaii Guava Ice / Lush Ice</title>
+      <s:price currency="CAD">119.90</s:price>
+      <s:sku>7456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6700446580892</id>
+      <title>Rainbow Candy / Energy Monster</title>
+      <s:price currency="CAD">119.90</s:price>
+      <s:sku>7457</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6700446580892</id>
+      <title>Aloe White Grape / Banana Taffy</title>
+      <s:price currency="CAD">119.90</s:price>
+      <s:sku>7458</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6690890612892</id>
+    <published>2021-04-22T15:13:23-04:00</published>
+    <updated>2021-04-22T15:13:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/extra-usb-chargers-jar-of-25"/>
+    <title>Extra USB Chargers Jar of 25</title>
+    <s:type>vapor</s:type>
+    <s:vendor>4SCORE™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7434-usb-1.jpg?v=1619106836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>4SCORE™<br>
+        <strong>Type: </strong>vapor<br>
+        <strong>Price: </strong>
+            31.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Container of 25 black USB smart chargers.</li>
+<li>510 Thread(Only narrow battery end will fit to this charger and not all battery pen will fit)</li>
+<li>Rapid charge with overcharge protection chip.</li>
+<li>Auto safety shut off</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_4Score</s:tag>
+    <s:tag>Categories_Vape Pen</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Marketplace</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>portable-vaporizer</s:tag>
+    <s:tag>Price_$20 to $50</s:tag>
+    <s:tag>Types_Battery</s:tag>
+    <s:tag>Vaporizer Pipes</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6690890612892</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.50</s:price>
+      <s:sku>7434</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6688432586908</id>
+    <published>2021-04-21T15:48:40-04:00</published>
+    <updated>2021-04-21T15:48:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/pop-hit-stlth-compatible-pods-box-of-5-packs-20-mg-ml"/>
+    <title>Pop Hit STLTH Compatible Pods Box of 5 packs (20 mg/mL)</title>
+    <s:type>vapor</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7431_pod-3.jpg?v=1619034218"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>vapor<br>
+        <strong>Price: </strong>
+            32.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Pop Hit introduces STLTH Compatible Pods</span></p>
+<ul>
+<li>Box of 5 packs</li>
+<li>3 E-liquid cartridges of 2ml each.</li>
+<li>2% NicSalt strength.</li>
+<li>Compatible with STLTH-style device.</li>
+</ul>
+<ul></ul>
+<ul></ul>
+<section class="related-products"></section>
+<div>
+<ul></ul>
+</div>
+<div>
+<ul></ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Categories_Vape Pen</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>portable-vaporizer</s:tag>
+    <s:tag>Price_$5 to $10</s:tag>
+    <s:tag>Types_Refillable</s:tag>
+    <s:tag>Vaporizer Pipes</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6688432586908</id>
+      <title>Might Mint</title>
+      <s:price currency="CAD">32.50</s:price>
+      <s:sku>7686</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6688432586908</id>
+      <title>Tobacco</title>
+      <s:price currency="CAD">32.50</s:price>
+      <s:sku>7687</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6688432586908</id>
+      <title>Menthol</title>
+      <s:price currency="CAD">32.50</s:price>
+      <s:sku>7688</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6668716277916</id>
+    <published>2021-04-20T16:04:31-04:00</published>
+    <updated>2021-04-20T16:04:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/stonesmiths-slash-replacement-chamber"/>
+    <title>STONESMITHS SLASH Replacement Chamber</title>
+    <s:type>vapor</s:type>
+    <s:vendor>StoneSmiths</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7359_rolling_paper_accessory-1.jpg?v=1618944597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StoneSmiths<br>
+        <strong>Type: </strong>vapor<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-container="true" class="sc-pZopv bjKdkd pf-13d3e15e" data-pf-type="Section">
+<div class="sc-pQQXS iWCqut">
+<div class="sc-qPjXN eYzxUD pf-a93bff26 pf-r pf-r-align--cm" data-pf-type="Row">
+<div class="sc-pbYdQ jklmHY pf-c pf-c-xs--12 pf-c-sm--6 pf-c-md--6 pf-c-lg--6">
+<div class="sc-pkUyL fTyjzF pf-cbf86c13" data-pf-type="Column">
+<p><span>Atomizer for Stonesmiths‘ Slash.</span></p>
+<p><span>The coilless ceramic bowl evenly distributes the heat inside the chamber making it last longer, with the addition of offering a smooth 1-step cleaning process. The high-quality bower assures no burning taste!</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div data-container="true" class="sc-pZopv bjKdkd pf-17b7d010" data-pf-type="Section">
+<div class="sc-pQQXS iWCqut">
+<div class="sc-qPjXN eYzxUD pf-bfd90a2e pf-r pf-r-align--cm" data-pf-type="Row">
+<div class="sc-pbYdQ jklmHY pf-c pf-c-xs--12 pf-c-sm--6 pf-c-md--6 pf-c-lg--6">
+<div class="sc-qPjXN eYzxUD pf-aa5617b7 pf-r pf-r-align--cm" data-pf-type="Row">
+<div class="sc-pbYdQ jklmHY pf-c pf-c-xs--12 pf-c-sm--6 pf-c-md--6 pf-c-lg--6">
+<div class="sc-pkUyL fTyjzF pf-56462c41" data-pf-type="Column">
+<div class="sc-pbYdQ jklmHY pf-c pf-c-xs--12 pf-c-sm--6 pf-c-md--6 pf-c-lg--6">
+<div data-container="true" class="sc-pZopv bjKdkd pf-38e505d2" data-pf-type="Section">
+<p class="sc-oUAoT HrWqm pf-75107d90" data-pf-type="Paragraph"> </p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<ul></ul>
+<ul></ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Stone Smiths</s:tag>
+    <s:tag>Categories_Vape Pen</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Gun Metal</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Marketplace</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>portable-vaporizer</s:tag>
+    <s:tag>Price_$20 to $50</s:tag>
+    <s:tag>Types_Refillable</s:tag>
+    <s:tag>Usage_Wax (Concentrate)</s:tag>
+    <s:tag>Vaporizer Pipes</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6668716277916</id>
+      <title>Gunmetal (Grey)</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>7361</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6668716277916</id>
+      <title>Matte Black</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>7359</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6668716277916</id>
+      <title>Stainless Steel</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>7360</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6640156901532</id>
+    <published>2021-04-01T16:18:45-04:00</published>
+    <updated>2021-04-01T16:18:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/stlth-vape-device-new-color"/>
+    <title>STLTH VAPE DEVICE ** New Metallic Color</title>
+    <s:type>vapor</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7227_vape_stlth-1.jpg?v=1619621030"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>vapor<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>A new way to vape without the mess, coils or refills. Simple, satisfying and stealth is practical for everyday usage by adult smokers looking for a viable alternative to traditional cigarettes.</span></p>
+<div><span>Designed specifically for adult smokers in mind, this device is built for practical everyday usage with an upgraded 420 mAh battery.</span></div>
+<section class="related-products"></section>
+<div>Package includes: </div>
+<div>
+<ul>
+<li>1 x Device</li>
+<li>1 x Charging Cable </li>
+<li>1 x Instruction Manual and Warranty Registration Card</li>
+</ul>
+</div>
+<div>
+<ul></ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_STLTH</s:tag>
+    <s:tag>Categories_Vape Pen</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>portable-vaporizer</s:tag>
+    <s:tag>Price_$10 to $20</s:tag>
+    <s:tag>Types_Refillable</s:tag>
+    <s:tag>Vaporizer Pipes</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6640156901532</id>
+      <title>Rose Gold</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>7227</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6640156901532</id>
+      <title>Gold</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>7231</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6640156901532</id>
+      <title>Red</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>7228</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6640156901532</id>
+      <title>Blue</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>7229</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6640156901532</id>
+      <title>Green</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>7230</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6628358979740</id>
+    <published>2021-03-28T22:52:00-04:00</published>
+    <updated>2021-03-28T22:52:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/stone-smiths-slash-concentrate-vape-pen-kit"/>
+    <title>STONESMITHS SLASH CONCENTRATE VAPE PEN KIT</title>
+    <s:type>vapor</s:type>
+    <s:vendor>StoneSmiths</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/2_a1f24f84-faeb-4e21-b571-76e3ca69bac2.jpg?v=1616790561"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StoneSmiths<br>
+        <strong>Type: </strong>vapor<br>
+        <strong>Price: </strong>
+            47.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-container="true" class="sc-pZopv bjKdkd pf-13d3e15e" data-pf-type="Section"><div class="sc-pQQXS iWCqut"><div class="sc-qPjXN eYzxUD pf-a93bff26 pf-r pf-r-align--cm" data-pf-type="Row"><div class="sc-pbYdQ jklmHY pf-c pf-c-xs--12 pf-c-sm--6 pf-c-md--6 pf-c-lg--6"><div class="sc-pkUyL fTyjzF pf-cbf86c13" data-pf-type="Column">
+<strong> <span data-pf-type="Text" class="sc-ptSuy fnmilh pf-040a98ad"></span></strong><strong><span data-pf-type="Text" class="sc-ptSuy fnmilh pf-d7a45fa9">SLASH'S KEY FEATURES</span></strong><ul>
+<li><span>Unique airflow</span></li>
+<li><span>Ergonomic mouthpiece design</span></li>
+<li><span>Magnetic cap</span></li>
+<li><span>Coil-less ceramic bowl</span></li>
+<li><span>Integrated loading/dab pick tool</span></li>
+<li><span>3 heating temperature settings</span></li>
+<li><span>12-second Auto-Mode</span></li>
+<li><span>Type C charger</span></li>
+<li><span>1000mAh battery</span></li>
+<li><span>Battery indicator</span></li>
+<li>
+<span>free Silicone concentrate container</span><span></span>
+</li>
+</ul>
+<p><strong>COIL-LESS CERAMIC BOWL</strong></p>
+<p class="sc-oUAoT HrWqm pf-8232304d" data-pf-type="Paragraph"><span data-pf-type="Text" class="sc-ptSuy fnmilh pf-98ad03df">The coil-less ceramic vape pen bowl evenly distributes the heat inside the chamber making it last longer, with the addition of offering a smooth 1-step cleaning process. The high-quality bower assures no burning taste!</span></p>
+<strong>UNIQUE AIRFLOW</strong>
+</div></div></div></div></div><div data-container="true" class="sc-pZopv bjKdkd pf-17b7d010" data-pf-type="Section"><div class="sc-pQQXS iWCqut"><div class="sc-qPjXN eYzxUD pf-bfd90a2e pf-r pf-r-align--cm" data-pf-type="Row"><div class="sc-pbYdQ jklmHY pf-c pf-c-xs--12 pf-c-sm--6 pf-c-md--6 pf-c-lg--6">
+<div class="sc-qPjXN eYzxUD pf-bfd90a2e pf-r pf-r-align--cm" data-pf-type="Row"><div class="sc-pbYdQ jklmHY pf-c pf-c-xs--12 pf-c-sm--6 pf-c-md--6 pf-c-lg--6"><div class="sc-pkUyL fTyjzF pf-8029bfd9" data-pf-type="Column"><p class="sc-oUAoT HrWqm pf-ac418029" data-pf-type="Paragraph"><span data-pf-type="Text" class="sc-ptSuy fnmilh pf-02e39b25">Designed to perfect every step of the process, SLASH’s innovative top (patent pending) airflow system forces air to circulate the bottom of the bowl, providing ultimate flavour and preventing clogging in the air path.</span></p></div></div></div>
+<div class="sc-qPjXN eYzxUD pf-aa5617b7 pf-r pf-r-align--cm" data-pf-type="Row"><div class="sc-pbYdQ jklmHY pf-c pf-c-xs--12 pf-c-sm--6 pf-c-md--6 pf-c-lg--6"><div class="sc-pkUyL fTyjzF pf-56462c41" data-pf-type="Column">
+<div class="sc-pbYdQ jklmHY pf-c pf-c-xs--12 pf-c-sm--6 pf-c-md--6 pf-c-lg--6"><div class="sc-pkUyL fTyjzF pf-56462c41" data-pf-type="Column">
+<strong><span data-pf-type="Text" class="sc-ptSuy fnmilh pf-9b251278">ERGONOMIC MOUTHPIECE DESIGN</span></strong><p class="sc-oUAoT HrWqm pf-27d05646" data-pf-type="Paragraph"><span data-pf-type="Text" class="sc-ptSuy fnmilh pf-12780bcf">The mouthpiece signature design encourages you to vape in the most comfortable position (vertical,) and keeps the concentrate in the center of the heating element. A real handheld vaporizer.</span></p>
+</div></div>
+<div class="sc-pbYdQ jklmHY pf-c pf-c-xs--12 pf-c-sm--6 pf-c-md--6 pf-c-lg--6">
+<div data-container="true" class="sc-pZopv bjKdkd pf-82df546e" data-pf-type="Section"><div class="sc-pQQXS iWCqut"><div class="sc-qPjXN eYzxUD pf-4b05da8f pf-r pf-r-align--cm" data-pf-type="Row"><div class="sc-pbYdQ jklmHY pf-c pf-c-xs--12 pf-c-sm--6 pf-c-md--6 pf-c-lg--6"><div class="sc-pkUyL fTyjzF pf-d5044b05" data-pf-type="Column">
+<strong><span data-pf-type="Text" class="sc-ptSuy fnmilh pf-a4dc9f82">MAGNETIC CAP</span></strong><p class="sc-oUAoT HrWqm pf-203bd504" data-pf-type="Paragraph"><span data-pf-type="Text" class="sc-ptSuy fnmilh pf-9f82df54">Our dab vaporizer's unique magnetic cap enhances the user experience while preventing the mess of sticky threaded caps. </span></p>
+</div></div></div></div></div>
+<div data-container="true" class="sc-pZopv bjKdkd pf-38e505d2" data-pf-type="Section">
+<strong> <span data-pf-type="Text" class="sc-ptSuy fnmilh pf-81e6adbc">INTEGRATED DAB PICK TOOL</span></strong><p class="sc-oUAoT HrWqm pf-75107d90" data-pf-type="Paragraph"><span data-pf-type="Text" class="sc-ptSuy fnmilh pf-adbc9ccf">The fill-up of your sacred dab is fast and easy with the integrated loading tool.<br><br>*Kit includes an additional loading tool that offers optional airflow intake.</span></p>
+<strong><span data-pf-type="Text" class="sc-ptSuy fnmilh pf-dd61f7cc">WHAT'S IN THE BOX</span></strong><p class="sc-oUAoT HrWqm pf-297ee49d" data-pf-type="Paragraph"><span data-pf-type="Text" class="sc-ptSuy fnmilh pf-bcc74452">- SLASH concentrate vape pen <br>- Extra loading tool with a larger air intake <br>- Extra silicone mouthpiece <br>- USB type C charging cable <br>- Silicone portable dab/concentrate container <br>- Heat protector band </span></p>
+<p class="sc-oUAoT HrWqm pf-75107d90" data-pf-type="Paragraph"> </p>
+</div>
+</div>
+</div></div></div>
+</div></div></div></div><ul></ul><ul></ul><ul></ul><ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Stone Smiths</s:tag>
+    <s:tag>Categories_Vape Pen</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Gun Metal</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Marketplace</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>portable-vaporizer</s:tag>
+    <s:tag>Price_$20 to $50</s:tag>
+    <s:tag>Types_Refillable</s:tag>
+    <s:tag>Usage_Wax (Concentrate)</s:tag>
+    <s:tag>Vaporizer Pipes</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6628358979740</id>
+      <title>Stainless Steel</title>
+      <s:price currency="CAD">47.50</s:price>
+      <s:sku>7208</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6628358979740</id>
+      <title>Matte Black</title>
+      <s:price currency="CAD">47.50</s:price>
+      <s:sku>7206</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6628358979740</id>
+      <title>Gunmetal (Grey)</title>
+      <s:price currency="CAD">47.50</s:price>
+      <s:sku>7207</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6615495901340</id>
+    <published>2021-03-19T16:36:47-04:00</published>
+    <updated>2021-03-19T16:36:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/genie-air-disposable-puff-pod-50-mg-ml-limited-edition"/>
+    <title>Genie Air+ disposable Puff Pod 50 mg/mL - Limited Edition!!</title>
+    <s:type>vapor</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7161_vape-1.jpg?v=1616184030"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>vapor<br>
+        <strong>Price: </strong>
+            81.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><span>LIMITED EDITION !!</span></strong></p>
+<p><strong><span>Genie Air+ Disposable Pod Device</span></strong></p>
+<p><span>Genie Air+ raises its own bar with its newly disposable pod device to Puff away that is compact, light, and portable. Each pod stick comes with 3.5mL juice that is enough to stay satisfied for the whole day.</span></p>
+<p><strong><span>Genie Air+ Features: </span></strong></p>
+<ul>
+<li><span>10 disposable pod devices per box</span></li>
+<li><span>Disposable pod device requires no maintenance, charging or refilling</span></li>
+<li><span>E-liquid: 3.5ml </span></li>
+<li>Salt Nicotine 50MG Salt Nic inside for an accurate cigarette-style throat hit</li>
+<li><span>Battery: 650mAh </span></li>
+<li><span>Pre-charged, Simply puff on the device to activate</span></li>
+<li><span>Pre-filled, no need for messy refills</span></li>
+<li>800+ puffs per pod</li>
+<li><span>Compact and Portable </span></li>
+<li><span>Available in Cherry Frost, Strawberry Cream, Strawberry Kiwi Ice, banana Ice, Peach Ice, Peach Soda, Strawberry Banana, Lush Ice, Pineapple Lemonade, pink Lemonade, Energy Ice, Blueberry Mint</span></li>
+</ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Genie Air+</s:tag>
+    <s:tag>Categories_Vape Pen</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>portable-vaporizer</s:tag>
+    <s:tag>Price_$50 to $100</s:tag>
+    <s:tag>Types_Disposable</s:tag>
+    <s:tag>Vaporizer Pipes</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6615495901340</id>
+      <title>Bear Mint</title>
+      <s:price currency="CAD">81.00</s:price>
+      <s:sku>7161</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6615495901340</id>
+      <title>Tea Mint</title>
+      <s:price currency="CAD">81.00</s:price>
+      <s:sku>7162</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6615481483420</id>
+    <published>2021-03-19T16:36:46-04:00</published>
+    <updated>2021-03-19T16:36:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/genie-air-disposable-puff-pod-50-mg-ml-new-flavors"/>
+    <title>Genie Air+ disposable Puff Pod 50 mg/mL - NEW Flavors !!</title>
+    <s:type>vapor</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7154_vape-1.jpg?v=1616261372"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>vapor<br>
+        <strong>Price: </strong>
+            81.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><span>Genie Air+ Disposable Pod Device</span></strong></p>
+<p><span>Genie Air+ raises its own bar with its newly disposable pod device to Puff away that is compact, light, and portable. Each pod stick comes with 3.5mL juice that is enough to stay satisfied for the whole day.</span></p>
+<p><strong><span>Genie Air+ Features: </span></strong></p>
+<ul>
+<li><span>10 disposable pod devices per box</span></li>
+<li><span>Disposable pod device requires no maintenance, charging or refilling</span></li>
+<li><span>E-liquid: 3.5ml </span></li>
+<li>Salt Nicotine 50MG Salt Nic inside for an accurate cigarette-style throat hit</li>
+<li><span>Battery: 650mAh </span></li>
+<li><span>Pre-charged, Simply puff on the device to activate</span></li>
+<li><span>Pre-filled, no need for messy refills</span></li>
+<li>800+ puffs per pod</li>
+<li><span>Compact and Portable </span></li>
+<li><span>Available in Cherry Frost, Strawberry Cream, Strawberry Kiwi Ice, banana Ice, Peach Ice, Peach Soda, Strawberry Banana, Lush Ice, Pineapple Lemonade, pink Lemonade, Energy Ice, Blueberry Mint</span></li>
+</ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Genie Air+</s:tag>
+    <s:tag>Categories_Vape Pen</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>portable-vaporizer</s:tag>
+    <s:tag>Price_$50 to $100</s:tag>
+    <s:tag>Types_Disposable</s:tag>
+    <s:tag>Vaporizer Pipes</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6615481483420</id>
+      <title>Bubble Mint</title>
+      <s:price currency="CAD">81.00</s:price>
+      <s:sku>7154</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6615481483420</id>
+      <title>Mango Ice</title>
+      <s:price currency="CAD">81.00</s:price>
+      <s:sku>7155</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6615481483420</id>
+      <title>Honeydew Melon Ice</title>
+      <s:price currency="CAD">81.00</s:price>
+      <s:sku>7156</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6615481483420</id>
+      <title>Cool Mint</title>
+      <s:price currency="CAD">81.00</s:price>
+      <s:sku>7157</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6615481483420</id>
+      <title>Banana Cream</title>
+      <s:price currency="CAD">81.00</s:price>
+      <s:sku>7158</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6615481483420</id>
+      <title>Grape Ice</title>
+      <s:price currency="CAD">81.00</s:price>
+      <s:sku>7159</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6615481483420</id>
+      <title>Russian Cream</title>
+      <s:price currency="CAD">81.00</s:price>
+      <s:sku>7160</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6615481483420</id>
+      <title>Green Apple Ice</title>
+      <s:price currency="CAD">81.00</s:price>
+      <s:sku>7173</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6592656965788</id>
+    <published>2021-03-10T14:58:04-05:00</published>
+    <updated>2021-03-10T14:58:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/yocan-vane-dry-vaporizer"/>
+    <title>Yocan VANE Dry vaporizer</title>
+    <s:type>vapor</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/1_980a564b-b5d0-4e10-8f53-4cf5a1ca106b.jpg?v=1615405696"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>vapor<br>
+        <strong>Price: </strong>
+            33.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Yocan Vane Dry vaporizer is the newest device to hit the market, packs a ton of luxury features into its svelte frame. It is one of the beat performing dry deices you have seen to date.</p>
+<ul>
+<li>Magnetic mouthpiece and Built-in Stirrer.</li>
+<li>Ceramic Heating Chamber</li>
+<li>Smart Vibration Function</li>
+<li>Super Fast heat-up times : 30 Sec. / 480F</li>
+<li>Tow mode available : 3Mins and 5 Mins.</li>
+<li>Superbly Diffused Airflow</li>
+<li>Safety Power-off : 30 Mins.</li>
+<li>OLED display</li>
+<li>Compact and Portable</li>
+<li>Package Content</li>
+<ul>
+<li>1 x Vane Vaporizer</li>
+<li>1 x Cleaning Brush</li>
+<li>1 x Type-C cable</li>
+<li>1 x Instruction Manual</li>
+</ul>
+<li>Coulr : Black, Silver, Red, Sky blue and Champagne available</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Yocan</s:tag>
+    <s:tag>Categories_Vape Pen</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Champagne Gold</s:tag>
+    <s:tag>Color_Red</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Color_Sky Blue</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>portable-vaporizer</s:tag>
+    <s:tag>Price_$20 to $50</s:tag>
+    <s:tag>Types_Refillable</s:tag>
+    <s:tag>Usage_Dry Herb</s:tag>
+    <s:tag>Vaporizer Pipes</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6592656965788</id>
+      <title>Black</title>
+      <s:price currency="CAD">33.00</s:price>
+      <s:sku>7099</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6592656965788</id>
+      <title>Siler</title>
+      <s:price currency="CAD">33.00</s:price>
+      <s:sku>7101</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6592656965788</id>
+      <title>Red</title>
+      <s:price currency="CAD">33.00</s:price>
+      <s:sku>7103</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6592656965788</id>
+      <title>Sky Blue</title>
+      <s:price currency="CAD">33.00</s:price>
+      <s:sku>7100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6592656965788</id>
+      <title>Champagne</title>
+      <s:price currency="CAD">33.00</s:price>
+      <s:sku>7102</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6180489068700</id>
+    <published>2021-02-09T12:45:39-05:00</published>
+    <updated>2021-02-09T12:45:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/350-mah-twist-control"/>
+    <title>350 mAh Twist Control Vape Battery with USB charger</title>
+    <s:type>Batteries</s:type>
+    <s:vendor>4SCORE™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/6831_1.jpg?v=1612470814"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>4SCORE™<br>
+        <strong>Type: </strong>Batteries<br>
+        <strong>Price: </strong>
+            11.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Day Pen is a 350mAh slim pen battery that takes quality and the user experience into careful consideration. With only a twist of the temperature control on the bottom, the user can choose their heat setting preference from as low as 2.0v, all the way up to 4.0v, and anything in between! No clicks, No worries! The Day Pen also features a Preheat function that will ensure the perfect hit, no matter how thick the oil in your cartridge is. Just press the button twice to activate the preheat setting before you go in to puff. Designed to be compatible with any 510 thread cartridge, the Day Pen comes with a USB compatible charger that easily twists directly onto the 510 thread. The Day Pen is aptly named because its charge is just about guaranteed to last you a full day’s worth of use!</p>
+<p><strong><span class="x-el x-el-span px_-text-transform-none px_-fs-unset px_-ff-_Montserrat___arial__sans-serif px_-fw-700 x-d-ux">Functions of the battery:</span></strong></p>
+<ul>
+<li>Click the button at the top of the battery</li>
+<li>Five clicks to power on and off</li>
+<li>Twist to adjust the battery voltage</li>
+<li>Press twice to preheat for the extra thick oil </li>
+</ul>
+<p><strong><span class="x-el x-el-span px_-text-transform-none px_-fs-unset px_-ff-_Montserrat___arial__sans-serif px_-fw-700 x-d-ux">Features</span></strong></p>
+<ul>
+<li>Volume: 350 mAh</li>
+<li>Length: 95mm</li>
+<li>Diameter: 11.2mm</li>
+<li>Weight: 22g</li>
+<li>Voltage: 2.0v - 4.0v</li>
+<li>
+<p>Preheating output: 1.8v</p>
+</li>
+<li>
+<p>Bottom knob adjustable for voltage from 2.0v - 4.0v</p>
+</li>
+<li>
+<p>Smart chip inside</p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Area GB2</s:tag>
+    <s:tag>Brand_4Score</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Marketplace</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>portable-vaporizer</s:tag>
+    <s:tag>Vaporizer Pipes</s:tag>
+    <s:tag>wmarket</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6180489068700</id>
+      <title>Green</title>
+      <s:price currency="CAD">11.25</s:price>
+      <s:sku>6831</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6180489068700</id>
+      <title>Blue</title>
+      <s:price currency="CAD">11.25</s:price>
+      <s:sku>6832</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6180489068700</id>
+      <title>Gold</title>
+      <s:price currency="CAD">11.25</s:price>
+      <s:sku>6833</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6180489068700</id>
+      <title>Black</title>
+      <s:price currency="CAD">11.25</s:price>
+      <s:sku>6834</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6180489068700</id>
+      <title>Pink</title>
+      <s:price currency="CAD">11.25</s:price>
+      <s:sku>6835</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6180489068700</id>
+      <title>Purple</title>
+      <s:price currency="CAD">11.25</s:price>
+      <s:sku>6836</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6180489068700</id>
+      <title>Red</title>
+      <s:price currency="CAD">11.25</s:price>
+      <s:sku>6837</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6180489068700</id>
+      <title>Silver</title>
+      <s:price currency="CAD">11.25</s:price>
+      <s:sku>6838</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6180489068700</id>
+      <title>Teal</title>
+      <s:price currency="CAD">11.25</s:price>
+      <s:sku>6839</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6180489068700</id>
+      <title>Yellow</title>
+      <s:price currency="CAD">11.25</s:price>
+      <s:sku>6840</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6180489068700</id>
+      <title>White</title>
+      <s:price currency="CAD">11.25</s:price>
+      <s:sku>6841</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6180489068700</id>
+      <title>Stainless</title>
+      <s:price currency="CAD">11.25</s:price>
+      <s:sku>6842</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6180489068700</id>
+      <title>Rose Gold</title>
+      <s:price currency="CAD">11.25</s:price>
+      <s:sku>6843</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6180489068700</id>
+      <title>Rainbow</title>
+      <s:price currency="CAD">11.25</s:price>
+      <s:sku>6844</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6141335797916</id>
+    <published>2021-01-22T10:42:30-05:00</published>
+    <updated>2021-01-22T10:42:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/genie-air-disposable-puff-pod-20-mg-ml"/>
+    <title>Genie Air+ disposable Puff Pod 20 mg/mL</title>
+    <s:type>vapor</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/6751-vape-2.jpg?v=1611266233"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>vapor<br>
+        <strong>Price: </strong>
+            90.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><span>Genie Air+ Disposable Pod Device</span></strong></p>
+<p><span>Genie Air+ raises its own bar with its newly disposable pod device to Puff away that is compact, light, and portable. Each pod stick comes with 3.5mL juice that is enough to stay satisfied for the whole day.</span></p>
+<p><strong><span>Genie Air+ Features: </span></strong></p>
+<ul>
+<li><span>10 disposable pod devices per box</span></li>
+<li><span>Disposable pod device requires no maintenance, charging or refilling</span></li>
+<li><span>E-liquid: 3.5ml </span></li>
+<li>Salt Nicotine 20MG Salt Nic inside for an accurate cigarette-style throat hit</li>
+<li><span>Battery: 650mAh </span></li>
+<li><span>Pre-charged, Simply puff on the device to activate</span></li>
+<li><span>Pre-filled, no need for messy refills</span></li>
+<li>800+ puffs per pod</li>
+<li><span>Compact and Portable </span></li>
+<li><span>Available in Russian Tobacco, Icy Menthol, Fresh Menthol, Cool Mint and Minty Russian tobacco.</span></li>
+</ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Genie Air+</s:tag>
+    <s:tag>Categories_Vape Pen</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>portable-vaporizer</s:tag>
+    <s:tag>Price_$50 to $100</s:tag>
+    <s:tag>Types_Disposable</s:tag>
+    <s:tag>Vaporizer Pipes</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6141335797916</id>
+      <title>Russian Tobacco</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku>6751</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6141335797916</id>
+      <title>Cool Mint</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku>6752</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6141335797916</id>
+      <title>Icy Menthol</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku>6753</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6141335797916</id>
+      <title>Fresh Menthol</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku>6754</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6141335797916</id>
+      <title>Minty Russian tobacco</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku>6756</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

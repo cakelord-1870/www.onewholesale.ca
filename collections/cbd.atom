@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.onewholesale.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.onewholesale.ca/collections/cbd.atom"/>
+  <title>One Wholesale</title>
+  <updated>2021-07-16T20:03:06-04:00</updated>
+  <author>
+    <name>One Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6882344698012</id>
+    <published>2021-07-16T20:03:06-04:00</published>
+    <updated>2021-07-16T20:03:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/oasis-cbd-hemp-balm-by-acid-secs-productions"/>
+    <title>Oasis CBD Hemp Balm by Acid Secs Productions</title>
+    <s:type>CBD</s:type>
+    <s:vendor>Acid Secs Productions</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7916_balm-3.jpg?v=1626363996"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Acid Secs Productions<br>
+        <strong>Type: </strong>CBD<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Oasis by Acid Secs Productions is carefully formulated to have the perfect greasiness, fast absorbing, light sweet smell, and most importantly HIGHLY effective</p>
+<ul>
+<li>2500MG CBD</li>
+<li>Anti-Inflammatory</li>
+<li>Pain Relief</li>
+<li>Size : 30 g / 1 oz</li>
+</ul>
+<p>Ingredients : Hemp Seed Oil, Borneal, Menthol, Aloe Vera, Paraffine, Vitamin E Acetate, Beeswax, Arnica Montana, Glyceryl Stearate, Phenoxyethanol.</p>
+<p>Directions : Apply the ointment into the affected area 3-4 times daily or as needed. Massage thoroughly for about 20 seconds for better results. Wash your hand after application. Do not apply to open wounds or cuts.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Area O6</s:tag>
+    <s:tag>Brand_Acid Secs</s:tag>
+    <s:tag>Chandlery</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Marketplace</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>smoke drop</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6882344698012</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>ACS1003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

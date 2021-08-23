@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.onewholesale.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.onewholesale.ca/collections/hemp-wicks.atom"/>
+  <title>One Wholesale</title>
+  <updated>2021-08-13T11:33:33-04:00</updated>
+  <author>
+    <name>One Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6946923380892</id>
+    <published>2021-08-13T11:33:33-04:00</published>
+    <updated>2021-08-13T11:33:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/acid-secs-beezwaz-infused-hemp-wicks"/>
+    <title>Acid Secs- Beezwaz infused hemp wicks Pack of 8</title>
+    <s:type>Hemp Wick</s:type>
+    <s:vendor>Acid Secs Productions</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/ASP1005_wicks-1.jpg?v=1628867683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Acid Secs Productions<br>
+        <strong>Type: </strong>Hemp Wick<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Made from 100% all natural hemp and 100% organic beeswax... and is 100% biodegradable</li>
+<li><span>Eliminates foul tasting and unhealthy lighter fumes, like those produced by traditional lighters</span></li>
+<li><span>Provides a clean burning flame (no chemical tastes) for the smoking connoisseur</span></li>
+<li><span>Allows you to totally enjoy the full flavors of your favorite smoking blends</span></li>
+<li>Will inherently prolong the life of your other lighters, which reduces the amount of lighters being sent to landfills each year.<span></span>
+</li>
+<li>Can be used as a candle for repeated lighting of objects.<span></span>
+</li>
+<li>Is a must for all smoking connoisseurs and enthusiasts.</li>
+<li>8 wicks per pack</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Categories_Hemp Wicks</s:tag>
+    <s:tag>Marketplace</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6946923380892</id>
+      <title>12 ft / 3.8 m</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>ASP0006</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6709419311260</id>
+    <published>2021-04-29T17:04:04-04:00</published>
+    <updated>2021-04-29T17:04:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/raw-hemp-wick-20-ft-6m-display-of-20"/>
+    <title>Raw Hemp Wick 20 ft / 6m Display of 20</title>
+    <s:type>Hemp Wick</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7512_wick-1.jpg?v=1619730002"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Hemp Wick<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>RAW Hemp Wick is made from two primal renewable resources: hemp and beeswax. The plants are sown, harvested, retted and dried in the traditional way, unchanged for thousands of years. We insist that our hemp suppliers use sustainable growing techniques with no pesticides. All RAW Hemp Wick packs, display boxes and cards are printed on recycled hemp paper.</p>
+<p>Instructions: Light end, tilt up or down to control flame, light your RAW Rolling Paper!</p>
+<p>10ft / 3m per bundle Artisanally Made in Europe</p>
+<div class="middle-content">
+<div class="disclaimer-container"><br></div>
+</div>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Area Q3</s:tag>
+    <s:tag>Brand_Raw</s:tag>
+    <s:tag>Categories_Hemp Wicks</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6709419311260</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>7512</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6709406630044</id>
+    <published>2021-04-29T17:04:03-04:00</published>
+    <updated>2021-04-29T17:04:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/raw-hemp-wick-10-ft-3mm-display-of-40"/>
+    <title>Raw Hemp Wick 10 ft / 3m Display of 40</title>
+    <s:type>Hemp Wick</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7511_wick-1.jpg?v=1619728816"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Hemp Wick<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>RAW Hemp Wick is made from two primal renewable resources: hemp and beeswax. The plants are sown, harvested, retted and dried in the traditional way, unchanged for thousands of years. We insist that our hemp suppliers use sustainable growing techniques with no pesticides. All RAW Hemp Wick packs, display boxes and cards are printed on recycled hemp paper.</p>
+<p>Instructions: Light end, tilt up or down to control flame, light your RAW Rolling Paper!</p>
+<p>10ft / 3m per bundle Artisanally Made in Europe</p>
+<div class="middle-content">
+<div class="disclaimer-container"><br></div>
+</div>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Area Q3</s:tag>
+    <s:tag>Brand_Raw</s:tag>
+    <s:tag>Categories_Hemp Wicks</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$10 to $20</s:tag>
+    <s:tag>Price_$20 to $50</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6709406630044</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>7511</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6561048789148</id>
+    <published>2021-03-04T16:19:37-05:00</published>
+    <updated>2021-03-04T16:19:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/hemp-wick-spool"/>
+    <title>HEMP WICK SPOOL (YO-YO)</title>
+    <s:type>Hemp Wick</s:type>
+    <s:vendor>Illuminate Cannabis Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7053-wick_1.jpg?v=1614884920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Illuminate Cannabis Co.<br>
+        <strong>Type: </strong>Hemp Wick<br>
+        <strong>Price: </strong>
+            6.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="tabs__product-page horizontal-tabs horizontal-tabs-center">
+<div class="wrapper-tab-content">
+<div class="tab-content active" data-tabcontent="" id="collapse-tab1">
+<ul>
+<li><span>Avoid the inhalation of lighter fluid by using a Hemp wick!</span></li>
+<li>Hemp wick spool comes with 10' of pre rolled hemp wick.</li>
+<li>Fits easily in your pocket for traveling!</li>
+<li>Spool is made from PLA Plastic which is a renewable bio plastic!</li>
+<li>Made in Canada</li>
+<li><span style="color: #ff2a00;">Color may vary*</span></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="theme-ask" data-toggle="modal" data-target="#ask_an_expert">
+<h5 class="ask-an-expert-text"></h5>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Categories_Hemp Wicks</s:tag>
+    <s:tag>Marketplace</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$20 to $50</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:tag>wmarket</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6561048789148</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.45</s:price>
+      <s:sku>7053</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6216868233372</id>
+    <published>2021-02-18T16:30:24-05:00</published>
+    <updated>2021-02-18T16:30:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/hemp-wick-lighter-sleeve"/>
+    <title>HEMP-WICK LIGHTER SLEEVE</title>
+    <s:type>Hemp Wick</s:type>
+    <s:vendor>Illuminate Cannabis Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/6923-accessory-1.jpg?v=1613680463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Illuminate Cannabis Co.<br>
+        <strong>Type: </strong>Hemp Wick<br>
+        <strong>Price: </strong>
+            5.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Avoid the inhalation of lighter fluid by using a Hemp wick! Lighter sleeve made for Bic lighters. A renewable bio plastic.</p>
+<p><span style="color: #fc0d0d;">* lighter is not included</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Categories_Hemp Wicks</s:tag>
+    <s:tag>Marketplace</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$20 to $50</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:tag>wmarket</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6216868233372</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.25</s:price>
+      <s:sku>6923</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/5280013254812</id>
+    <published>2020-06-09T16:20:13-04:00</published>
+    <updated>2020-06-09T16:20:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/afghan-hemp-hemp-wick-20-ft-in-a-display-box"/>
+    <title>Afghan Hemp Hemp Wick 20 ft in a display box</title>
+    <s:type>Hemp Wick</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/5450-hemp-wick-1.jpg?v=1592218754"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Hemp Wick<br>
+        <strong>Price: </strong>
+            47.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The<span> </span><span>hemp</span> wick roll is a healthier alternative to using matches or lighters to light everything. They are made out of 100% all natural<span> </span><span>hemp</span> and beeswax. The Wick roll measures 20 feet in length.</p>
+<ul>
+<li>Length: 20 ft. per roll</li>
+<li>Brand: Afghan Hemp</li>
+<li>Organic hemp, Vegan, Non-GMO</li>
+<li>Clean burn</li>
+<li>24 Rolls in One Box</li>
+</ul>
+<ul></ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Categories_Hemp Wicks</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$20 to $50</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/5280013254812</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">47.95</s:price>
+      <s:sku>5450</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/1812918829125</id>
+    <published>2020-03-10T17:31:41-04:00</published>
+    <updated>2020-03-10T17:31:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/raw-hemp-wick"/>
+    <title>Raw Hemp Wick</title>
+    <s:type>Hemp Wick</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/2665-wick-1.jpg?v=1613385197"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Hemp Wick<br>
+        <strong>Price: </strong>
+            9.95 - 22.00
+            <a href="https://www.onewholesale.ca/products/raw-hemp-wick">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Raw hemp wick</p>
+<ul>
+<li>Is healthier for the earth and for you. - Is made from 100% all natural hemp and 100% organic beeswax... and is 100% biodegradable.</li>
+<li>Eliminates foul tasting and unhealthy lighter fumes, like those produced by traditional lighters.</li>
+<li>Provides a clean burning flame (no chemical tastes) for the smoking connoisseur.</li>
+<li>Allows you to totally enjoy the full flavors of your favorite smoking blends.</li>
+<li>Will inherently prolong the life of your other lighters, which reduces the amount of lighters being sent to landfills each year.<span></span>
+</li>
+<li>Can be used as a candle for repeated lighting of objects.<span></span>
+</li>
+<li>Is a must for all smoking connoisseurs and enthusiasts.</li>
+</ul>
+<p><strong>Lengths</strong></p>
+<ul>
+<li>Medium: 100 ft</li>
+<li>Large : 250 ft</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Categories_Hemp Wicks</s:tag>
+    <s:tag>Price_$10 to $20</s:tag>
+    <s:tag>Price_$20 to $50</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/1812918829125</id>
+      <title>Medium / 100 ft</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>2665</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/1812918829125</id>
+      <title>Large / 250 ft</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>2666</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/4390503776320</id>
+    <published>2020-02-21T20:49:20-05:00</published>
+    <updated>2020-02-21T20:49:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/randys-organic-hemp-wick"/>
+    <title>Randy&apos;s Organic Hemp Wick</title>
+    <s:type>Hemp Wick</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/5049-wick-1.jpg?v=1581935582"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Hemp Wick<br>
+        <strong>Price: </strong>
+            33.00 - 63.00
+            <a href="https://www.onewholesale.ca/products/randys-organic-hemp-wick">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Lengths / Quantity per box</strong></p>
+<ul>
+<li>Small : 4' / 40 bundles</li>
+<li>Medium : 12.5' <span>/ 20 bundles</span>
+</li>
+<li>Lighter sleeve : 15.5' / 18 sleeves</li>
+</ul>
+<p><span>With Randy’s hempwick you are not tainting the taste of you delicious legal herbs. Most people do not realize, when you use a lighter you can ruin the taste and flavor of your herb. Using a lighter also can cause lung irritation and more coughing. Ensure that you are tasting the full flavor of your legal herb with hempwick.</span></p>
+<div class="et_pb_row et_pb_row_9 et_had_animation">
+<div class="et_pb_column et_pb_column_4_4 et_pb_column_14  et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class="et_pb_module et_pb_text et_pb_text_10 et_pb_bg_layout_light  et_pb_text_align_center">
+<div class="et_pb_text_inner">
+<p><span>Go natural with Randy’s line of hempwick! Traditional butane lights can have the user inhaling many dangerous gases during use. Hempwick will deliver the user a better tasting, butane-free hit. Simply light your hempwick and then transfer it to your legal herb and as a result you will be able to avoid any inhalation of butane gas.</span></p>
+<p><span>Hempwick also allows for more control of the flame, which will give the user the ability to ‘corner’ their bowls of legal herbs. Hempwick burns at a lower temperature than a butane-lighter, as a result the user will get less harsh, more flavorful hits. The low temperature in which the hempwick burns will not torch your herb, allowing for more enjoyable sessions! For the most natural smoking experience try with our Randy’s Roots Hemp Papers.</span></p>
+</div>
+</div>
+</div>
+</div>
+<div class="et_pb_row et_pb_row_10">
+<div class="et_pb_column et_pb_column_4_4 et_pb_column_15  et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class="et_pb_module et_pb_text et_pb_text_11 et_pb_bg_layout_light  et_pb_text_align_center">
+<div class="et_pb_text_inner">Randy’s hempwick burns at a slightly lower temperature, allowing a more controlled burning of your legal herbs. Avoid scorching a full bowl and pull more hits<br>
+</div>
+</div>
+</div>
+</div>
+<p><br></p>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Area Q8</s:tag>
+    <s:tag>Categories_Hemp Wicks</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$20 to $50</s:tag>
+    <s:tag>Price_$50 to $100</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/4390503776320</id>
+      <title>Small-5049 / Box</title>
+      <s:price currency="CAD">33.00</s:price>
+      <s:sku>5049</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/4390503776320</id>
+      <title>Medium-5050 / Box</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>5050</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/4390503776320</id>
+      <title>Lighter Sleeve-5047 / Box</title>
+      <s:price currency="CAD">63.00</s:price>
+      <s:sku>5047</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/4355369828416</id>
+    <published>2019-11-27T14:20:33-05:00</published>
+    <updated>2019-11-27T14:20:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/afghan-hemp-hemp-wick-250ft"/>
+    <title>Afghan Hemp Hemp Wick 250ft</title>
+    <s:type>Hemp Wick</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/4833-wick-2.jpg?v=1575994191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Hemp Wick<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The<span> </span><span>hemp</span> wick ball is a healthier alternative to using matches or lighters to light everything. They are made out of 100% all natural<span> </span><span>hemp</span> and beeswax. The Wick Ball measures 250 feet in length.</p>
+<ul>
+<li>Length: 250 ft. per ball</li>
+<li>Brand: Afgahn Hemp</li>
+<li>Organic hemp, Vegan, Non-GMO</li>
+<li>Clean burn</li>
+</ul>
+<ul></ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Categories_Hemp Wicks</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$20 to $50</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/4355369828416</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>4833</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

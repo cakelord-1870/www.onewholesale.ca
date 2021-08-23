@@ -1,0 +1,846 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.onewholesale.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.onewholesale.ca/collections/batteries.atom"/>
+  <title>One Wholesale</title>
+  <updated>2021-08-06T11:13:19-04:00</updated>
+  <author>
+    <name>One Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6693206229148</id>
+    <published>2021-08-06T11:13:19-04:00</published>
+    <updated>2021-08-06T11:13:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/duracell-2032"/>
+    <title>Duracell 3V 2032 Lithium Coin Battery Box of 6</title>
+    <s:type>Batteries</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/8025_battery-2.jpg?v=1628261577"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Batteries<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>6 Batteries per box</li>
+<li>Voltage: 3 volts</li>
+<li>Capacity: 165 mAh</li>
+<li>Rechargeable: No</li>
+<li>Replacement for: DL2032, CR2032</li>
+<li>Compatible with: Medical devices, security devices, fitness devices, electronics and more</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Duracell</s:tag>
+    <s:tag>Types_Coin</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6693206229148</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>8025</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6693191909532</id>
+    <published>2021-08-06T11:13:19-04:00</published>
+    <updated>2021-08-06T11:13:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/duracell-2025"/>
+    <title>Duracell 3V 2025 Lithium Coin Battery Box of 6</title>
+    <s:type>Batteries</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/8024_battery-2.jpg?v=1628192009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Batteries<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>6 Batteries per box</li>
+<li>Voltage: 3 volts</li>
+<li>Capacity: 165 mAh</li>
+<li>Rechargeable: No</li>
+<li>Replacement for: DL2025, CR2025</li>
+<li>Compatible with: Medical devices, security devices, fitness devices, electronics and more</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Duracell</s:tag>
+    <s:tag>Types_Coin</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6693191909532</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>8024</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/5765427429532</id>
+    <published>2021-08-06T11:13:19-04:00</published>
+    <updated>2021-08-06T11:13:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/duracell-c2"/>
+    <title>Duracell CopperTop C2 Alkaline Batteries</title>
+    <s:type>Batteries</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/8014_battery-1.jpg?v=1628191942"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Batteries<br>
+        <strong>Price: </strong>
+            3.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Duracell</s:tag>
+    <s:tag>Types_C</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/5765427429532</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.40</s:price>
+      <s:sku>8014</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/4456142471232</id>
+    <published>2021-08-06T11:13:18-04:00</published>
+    <updated>2021-08-06T11:13:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/panasonic-d2"/>
+    <title>Panasonic Super Heavy duty power D2 Batteries Box of 12</title>
+    <s:type>Batteries</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/8018_battery-1.jpg?v=1628193596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Batteries<br>
+        <strong>Price: </strong>
+            9.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Carbon Zinc</li>
+<li>1.5 volt</li>
+<li>Box of 12</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Panasonic</s:tag>
+    <s:tag>Types_D</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/4456142471232</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.60</s:price>
+      <s:sku>8018</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/4396107694144</id>
+    <published>2021-08-06T11:13:18-04:00</published>
+    <updated>2021-08-06T11:13:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/panasonic-9v"/>
+    <title>Panasonic Super Heavy duty power 9V Batteries Box of 12</title>
+    <s:type>Batteries</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/8019_battery-1.jpg?v=1628193711"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Batteries<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Carbon Zinc</li>
+<li>1.5 Volt</li>
+<li>Box of 12</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Panasonic</s:tag>
+    <s:tag>Types_9V</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/4396107694144</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>8019</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/4394839244864</id>
+    <published>2021-08-06T11:13:18-04:00</published>
+    <updated>2021-08-06T11:13:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/panasonic-c2"/>
+    <title>Panasonic Super Heavy duty power C2 Batteries Box of 12</title>
+    <s:type>Batteries</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/8017_battery-1.jpg?v=1628193535"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Batteries<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Carbon Zinc</li>
+<li>1.5 Volt</li>
+<li>Box of 12</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Panasonic</s:tag>
+    <s:tag>Types_C</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/4394839244864</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>8017</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/4394838851648</id>
+    <published>2021-08-06T11:13:17-04:00</published>
+    <updated>2021-08-06T11:13:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/panasonic-aaa4"/>
+    <title>Panasonic Super Heavy duty power AAA4 Batteries Box of 12</title>
+    <s:type>Batteries</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/8016_battery-1.jpg?v=1628193449"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Batteries<br>
+        <strong>Price: </strong>
+            8.28
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Carbon Zinc</li>
+<li>1.5 Volts</li>
+<li>Box of 12</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Panasonic</s:tag>
+    <s:tag>Types_AAA</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/4394838851648</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.28</s:price>
+      <s:sku>8016</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/4394838589504</id>
+    <published>2021-08-06T11:13:17-04:00</published>
+    <updated>2021-08-06T11:13:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/panasonic-aa4"/>
+    <title>Panasonic Super Heavy duty power AA4 Batteries Box of 12</title>
+    <s:type>Batteries</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/8015_battery-1.jpg?v=1628193307"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Batteries<br>
+        <strong>Price: </strong>
+            8.28
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>‎Zinc Carbon</li>
+<li>1.5 volt</li>
+<li>Box of 12</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Panasonic</s:tag>
+    <s:tag>Types_AA</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/4394838589504</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.28</s:price>
+      <s:sku>8015</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/4390338265152</id>
+    <published>2021-08-06T11:13:16-04:00</published>
+    <updated>2021-08-06T11:13:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/maxell-sr621sw"/>
+    <title>MAXELL SR621SW - 5 Pack</title>
+    <s:type>Batteries</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/8020_battery-2.jpg?v=1628192768"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Batteries<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>‎1.55 Volts</li>
+<li>MAXELL SR621SW 5 BATTERIES SILVER OXIDE</li>
+<li>Watch, Calculators Battery<br>
+</li>
+<li>‎8 x 4 x 0.5 cm; 10 Grams</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Maxell</s:tag>
+    <s:tag>Types_Coin</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/4390338265152</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>8020</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/4390338166848</id>
+    <published>2021-08-06T11:13:16-04:00</published>
+    <updated>2021-08-06T11:13:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/maxell-sr626sw"/>
+    <title>Maxell SR626SW - 5 Pack</title>
+    <s:type>Batteries</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/8021_battery-2.jpg?v=1628193058"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Batteries<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Item quantity: 5PC</li>
+<li>‎17.27 x 17.27 x 6.6 cm; 4.54 Grams</li>
+<li>Made in Japan</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Maxell</s:tag>
+    <s:tag>Types_Coin</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/4390338166848</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>8021</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/4390338035776</id>
+    <published>2021-08-06T11:13:16-04:00</published>
+    <updated>2021-08-06T11:13:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/maxell-cr2016"/>
+    <title>Maxell Lithium CR2016 Coin Batteries - 5-Pack</title>
+    <s:type>Batteries</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/8023_battery-2.jpg?v=1628192618"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Batteries<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Batteries are made in Japan</li>
+<li>90 mAh nominal capacity</li>
+<li>3 V nominal voltage</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Maxell</s:tag>
+    <s:tag>Types_Coin</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/4390338035776</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>8023</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/4390337937472</id>
+    <published>2021-08-06T11:13:15-04:00</published>
+    <updated>2021-08-06T11:13:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/maxell-cr2032"/>
+    <title>Maxell Lithium CR2032 Coin Batteries - 5-Pack</title>
+    <s:type>Batteries</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/8022_battery-2.jpg?v=1628192460"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Batteries<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Batteries are made in Japan</li>
+<li>220 mAh nominal capacity</li>
+<li>3 V nominal voltage</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Maxell</s:tag>
+    <s:tag>Types_Coin</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/4390337937472</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>8022</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6931283902620</id>
+    <published>2021-08-06T11:13:00-04:00</published>
+    <updated>2021-08-06T11:13:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/duracell-coppertop-aaa2-alkaline-batteries"/>
+    <title>Duracell CopperTop AAA2  Alkaline Batteries</title>
+    <s:type>Batteries</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/8013_battery-1.jpg?v=1628191679"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Batteries<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Alkaline battery</li>
+<li>Longest lasting</li>
+<li>2 batteries per pack</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Duracell</s:tag>
+    <s:tag>Types_AAA</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6931283902620</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>8013</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6931281215644</id>
+    <published>2021-08-06T11:12:59-04:00</published>
+    <updated>2021-08-06T11:12:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/duracell-coppertop-aa2-alkaline-batteries"/>
+    <title>Duracell CopperTop AA2  Alkaline Batteries</title>
+    <s:type>Batteries</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/8012_battery-1.jpg?v=1628191641"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Batteries<br>
+        <strong>Price: </strong>
+            1.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Alkaline battery</li>
+<li>Longest lasting</li>
+<li>2 batteries per pack</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Duracell</s:tag>
+    <s:tag>Types_AA</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6931281215644</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.89</s:price>
+      <s:sku>8012</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6931277152412</id>
+    <published>2021-08-06T11:12:59-04:00</published>
+    <updated>2021-08-06T11:12:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/duracell-coppertop-aaa4-alkaline-batteries"/>
+    <title>Duracell CopperTop AAA4  Alkaline Batteries</title>
+    <s:type>Batteries</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/8011_battery-1.jpg?v=1628191497"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Batteries<br>
+        <strong>Price: </strong>
+            3.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Alkaline battery</li>
+<li>Longest lasting</li>
+<li>4 batteries per pack</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Duracell</s:tag>
+    <s:tag>Types_AAA</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6931277152412</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.40</s:price>
+      <s:sku>8011</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6931273384092</id>
+    <published>2021-08-06T11:12:58-04:00</published>
+    <updated>2021-08-06T11:12:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/duracell-coppertop-aa4-alkaline-batteries"/>
+    <title>Duracell CopperTop AA4  Alkaline Batteries</title>
+    <s:type>Batteries</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/8010_battery-1.jpg?v=1628191324"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Batteries<br>
+        <strong>Price: </strong>
+            3.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Alkaline battery</li>
+<li>Longest lasting</li>
+<li>4 batteries per pack</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Duracell</s:tag>
+    <s:tag>Types_AA</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6931273384092</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.30</s:price>
+      <s:sku>8010</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6180489068700</id>
+    <published>2021-02-09T12:45:39-05:00</published>
+    <updated>2021-02-09T12:45:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/350-mah-twist-control"/>
+    <title>350 mAh Twist Control Vape Battery with USB charger</title>
+    <s:type>Batteries</s:type>
+    <s:vendor>4SCORE™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/6831_1.jpg?v=1612470814"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>4SCORE™<br>
+        <strong>Type: </strong>Batteries<br>
+        <strong>Price: </strong>
+            11.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Day Pen is a 350mAh slim pen battery that takes quality and the user experience into careful consideration. With only a twist of the temperature control on the bottom, the user can choose their heat setting preference from as low as 2.0v, all the way up to 4.0v, and anything in between! No clicks, No worries! The Day Pen also features a Preheat function that will ensure the perfect hit, no matter how thick the oil in your cartridge is. Just press the button twice to activate the preheat setting before you go in to puff. Designed to be compatible with any 510 thread cartridge, the Day Pen comes with a USB compatible charger that easily twists directly onto the 510 thread. The Day Pen is aptly named because its charge is just about guaranteed to last you a full day’s worth of use!</p>
+<p><strong><span class="x-el x-el-span px_-text-transform-none px_-fs-unset px_-ff-_Montserrat___arial__sans-serif px_-fw-700 x-d-ux">Functions of the battery:</span></strong></p>
+<ul>
+<li>Click the button at the top of the battery</li>
+<li>Five clicks to power on and off</li>
+<li>Twist to adjust the battery voltage</li>
+<li>Press twice to preheat for the extra thick oil </li>
+</ul>
+<p><strong><span class="x-el x-el-span px_-text-transform-none px_-fs-unset px_-ff-_Montserrat___arial__sans-serif px_-fw-700 x-d-ux">Features</span></strong></p>
+<ul>
+<li>Volume: 350 mAh</li>
+<li>Length: 95mm</li>
+<li>Diameter: 11.2mm</li>
+<li>Weight: 22g</li>
+<li>Voltage: 2.0v - 4.0v</li>
+<li>
+<p>Preheating output: 1.8v</p>
+</li>
+<li>
+<p>Bottom knob adjustable for voltage from 2.0v - 4.0v</p>
+</li>
+<li>
+<p>Smart chip inside</p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Area GB2</s:tag>
+    <s:tag>Brand_4Score</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Marketplace</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>portable-vaporizer</s:tag>
+    <s:tag>Vaporizer Pipes</s:tag>
+    <s:tag>wmarket</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6180489068700</id>
+      <title>Green</title>
+      <s:price currency="CAD">11.25</s:price>
+      <s:sku>6831</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6180489068700</id>
+      <title>Blue</title>
+      <s:price currency="CAD">11.25</s:price>
+      <s:sku>6832</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6180489068700</id>
+      <title>Gold</title>
+      <s:price currency="CAD">11.25</s:price>
+      <s:sku>6833</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6180489068700</id>
+      <title>Black</title>
+      <s:price currency="CAD">11.25</s:price>
+      <s:sku>6834</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6180489068700</id>
+      <title>Pink</title>
+      <s:price currency="CAD">11.25</s:price>
+      <s:sku>6835</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6180489068700</id>
+      <title>Purple</title>
+      <s:price currency="CAD">11.25</s:price>
+      <s:sku>6836</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6180489068700</id>
+      <title>Red</title>
+      <s:price currency="CAD">11.25</s:price>
+      <s:sku>6837</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6180489068700</id>
+      <title>Silver</title>
+      <s:price currency="CAD">11.25</s:price>
+      <s:sku>6838</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6180489068700</id>
+      <title>Teal</title>
+      <s:price currency="CAD">11.25</s:price>
+      <s:sku>6839</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6180489068700</id>
+      <title>Yellow</title>
+      <s:price currency="CAD">11.25</s:price>
+      <s:sku>6840</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6180489068700</id>
+      <title>White</title>
+      <s:price currency="CAD">11.25</s:price>
+      <s:sku>6841</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6180489068700</id>
+      <title>Stainless</title>
+      <s:price currency="CAD">11.25</s:price>
+      <s:sku>6842</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6180489068700</id>
+      <title>Rose Gold</title>
+      <s:price currency="CAD">11.25</s:price>
+      <s:sku>6843</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6180489068700</id>
+      <title>Rainbow</title>
+      <s:price currency="CAD">11.25</s:price>
+      <s:sku>6844</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

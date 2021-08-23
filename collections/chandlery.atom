@@ -1,0 +1,1510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.onewholesale.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.onewholesale.ca/collections/chandlery.atom"/>
+  <title>One Wholesale</title>
+  <updated>2021-08-11T17:10:18-04:00</updated>
+  <author>
+    <name>One Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6945196867740</id>
+    <published>2021-08-11T17:10:18-04:00</published>
+    <updated>2021-08-11T17:10:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/rainbow-flag-3x5"/>
+    <title>Rainbow Flag 3&apos;x5&apos;</title>
+    <s:type>Chandlery</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/8050_flag-1.jpg?v=1628715949"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Chandlery<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Size : 3' x 5'</li>
+<li>100% Polyester</li>
+<li>Double stitched all around the edge and strengthened by canvas header and two brass grommets.<br>
+</li>
+<li>UV RESISTANT color fast ink to protect vibrancy of colors in sunlight. Printed on one side all the way through the fabric. Great for indoor and outdoor use</li>
+<li>Perfect for your Home Flagpole, Tailgating, or Wall Decoration. Great for moderate-outdoor and indoor</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chandlery</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$5 to $10</s:tag>
+    <s:tag>Seasonal</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6945196867740</id>
+      <title>Rainbow Happy</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>8050</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6945196867740</id>
+      <title>Rainbow Swirl</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>8054</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6945196867740</id>
+      <title>Canadian Rainbow</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>8057</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6945196867740</id>
+      <title>Rainbow</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>8058</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6945193263260</id>
+    <published>2021-08-11T17:10:18-04:00</published>
+    <updated>2021-08-11T17:10:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/skull-flag-3x5"/>
+    <title>Skull Flag 3&apos;x5&apos;</title>
+    <s:type>Chandlery</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/8053_flag-1.jpg?v=1628715699"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Chandlery<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Size : 3' x 5'</li>
+<li>100% Polyester</li>
+<li>Double stitched all around the edge and strengthened by canvas header and two brass grommets.<br>
+</li>
+<li>UV RESISTANT color fast ink to protect vibrancy of colors in sunlight. Printed on one side all the way through the fabric. Great for indoor and outdoor use</li>
+<li>Perfect for your Home Flagpole, Tailgating, or Wall Decoration. Great for moderate-outdoor and indoor</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chandlery</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$5 to $10</s:tag>
+    <s:tag>Seasonal</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6945193263260</id>
+      <title>Pirate</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>8053</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6945193263260</id>
+      <title>Pirate Red Scarf</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>8055</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6945193263260</id>
+      <title>Red Pirate</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>8059</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6945182417052</id>
+    <published>2021-08-11T17:10:17-04:00</published>
+    <updated>2021-08-11T17:10:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/cannabis-flag-3x5"/>
+    <title>Cannabis Flag 3&apos;x5&apos;</title>
+    <s:type>Chandlery</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/8047_flag-1.jpg?v=1628715330"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Chandlery<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Size : 3' x 5'</li>
+<li>100% Polyester</li>
+<li>Double stitched all around the edge and strengthened by canvas header and two brass grommets.<br>
+</li>
+<li>UV RESISTANT color fast ink to protect vibrancy of colors in sunlight. Printed on one side all the way through the fabric. Great for indoor and outdoor use</li>
+<li>Perfect for your Home Flagpole, Tailgating, or Wall Decoration. Great for moderate-outdoor and indoor</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chandlery</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$5 to $10</s:tag>
+    <s:tag>Seasonal</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6945182417052</id>
+      <title>Marijuana</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>8047</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6945182417052</id>
+      <title>Leaf Jamaica</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>8048</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6945182417052</id>
+      <title>Skull Leaf</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>8049</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6945182417052</id>
+      <title>Blunt</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>8051</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6945182417052</id>
+      <title>Peace Leaf</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>8052</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6945182417052</id>
+      <title>Canada Pot</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>8056</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6945182417052</id>
+      <title>Leaf Jack</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>8060</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6945182417052</id>
+      <title>Legalize it</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>8061</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6945182417052</id>
+      <title>Leaf Tie Dye</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>8062</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6945182417052</id>
+      <title>Leaf Daily</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>8063</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6933608136860</id>
+    <published>2021-08-06T14:42:43-04:00</published>
+    <updated>2021-08-06T14:42:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/stainless-steel-pocket-sliver-hip-flask-box-of-8"/>
+    <title>Stainless Steel Pocket sliver Hip Flask Box of 8</title>
+    <s:type>Chandlery</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/8001_hip_flask-2.jpg?v=1628273443"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Chandlery<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Stainless steel material-Men's hip flask is made of high-quality 18/8 307 stainless steel, which has good corrosion resistance. There is no need to worry about internal metal corrosion. The flasks for alcohol men have strong structure, safe and non-toxic materials, and can be used with confidence.<br><br>
+</li>
+<li>Leak-proof effect is good-the flask funnel has a thick stainless steel screw cap, which is tightly sealed to ensure no leakage or waste. The lid is equipped with a strong hinge, you don't have to worry about losing this little lid, you can open the lid to drink anytime, anywhere.<br><br>
+</li>
+<li>Perfect gift-Whiskey jug is an ideal gift for birthdays, Christmas, weddings, housewarming, graduation, Father's Day holidays, and outdoor activities such as fishing, hunting, camping, and barbecue. You can drink with friends or family anytime, anywhere.<br>
+</li>
+</ul>
+<p>Inclulded</p>
+<ul>
+<li>2 x 5 Oz</li>
+<li>2 x 6 Oz</li>
+<li>2 x 7 Oz</li>
+<li><span data-mce-fragment="1">2 x 8 Oz</span></li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chandlery</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Types_Storage</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6933608136860</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.95</s:price>
+      <s:sku>8001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6882344698012</id>
+    <published>2021-07-16T20:03:06-04:00</published>
+    <updated>2021-07-16T20:03:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/oasis-cbd-hemp-balm-by-acid-secs-productions"/>
+    <title>Oasis CBD Hemp Balm by Acid Secs Productions</title>
+    <s:type>CBD</s:type>
+    <s:vendor>Acid Secs Productions</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7916_balm-3.jpg?v=1626363996"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Acid Secs Productions<br>
+        <strong>Type: </strong>CBD<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Oasis by Acid Secs Productions is carefully formulated to have the perfect greasiness, fast absorbing, light sweet smell, and most importantly HIGHLY effective</p>
+<ul>
+<li>2500MG CBD</li>
+<li>Anti-Inflammatory</li>
+<li>Pain Relief</li>
+<li>Size : 30 g / 1 oz</li>
+</ul>
+<p>Ingredients : Hemp Seed Oil, Borneal, Menthol, Aloe Vera, Paraffine, Vitamin E Acetate, Beeswax, Arnica Montana, Glyceryl Stearate, Phenoxyethanol.</p>
+<p>Directions : Apply the ointment into the affected area 3-4 times daily or as needed. Massage thoroughly for about 20 seconds for better results. Wash your hand after application. Do not apply to open wounds or cuts.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Area O6</s:tag>
+    <s:tag>Brand_Acid Secs</s:tag>
+    <s:tag>Chandlery</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Marketplace</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>smoke drop</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6882344698012</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>ACS1003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6867225936028</id>
+    <published>2021-07-08T16:15:48-04:00</published>
+    <updated>2021-07-08T16:15:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/ryot-destroyer-smell-proof-case"/>
+    <title>RYOT- Destroyer Smell Proof Case</title>
+    <s:type>Storage</s:type>
+    <s:vendor>RYOT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7862_7.jpg?v=1625768581"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RYOT<br>
+        <strong>Type: </strong>Storage<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><iframe title="YouTube video player" src="https://www.youtube.com/embed/wX4xdqHXEtk" height="315" width="560" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0"></iframe>
+<p> </p>
+<div class="product-description rte" data-tab="Description" id="product-description">
+<p>RYOT is already legendary for their storage solutions, but they've really destroyed the game with the heavy-duty Destroyer.<br><br>This impressive storage box is made with heavy steel and has a rubber o-ring lining and metal latch for an airtight and waterproof seal. The interior has a double layer of pick and pluck foam which perfectly encloses your valuable glass piece or desktop vape. Regardless of the condition, the Destroyer will keep your precious accessories safe.<br><br>The interior and interior are powder-coated for scratch resistance and the integrated lay flat carrying handle simplifies transport. The box measures 7 ¼ in width x 12 ⅞ in length x 9 in height with the lid attached (exterior dimensions). Available in black and olive.<br></p>
+</div>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Ryot</s:tag>
+    <s:tag>Chandlery</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Marketplace</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>smoke drop</s:tag>
+    <s:tag>Types_Storage</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6867225936028</id>
+      <title>Black</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>7862</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6867225936028</id>
+      <title>Olive</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6867216040092</id>
+    <published>2021-07-08T16:15:47-04:00</published>
+    <updated>2021-07-08T16:15:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/ryot-20-pro-duffle-smell-proof-bag"/>
+    <title>RYOT- 20&quot; Pro-Duffle Smell Proof Bag</title>
+    <s:type>Storage</s:type>
+    <s:vendor>RYOT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7851.jpg?v=1625768216"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RYOT<br>
+        <strong>Type: </strong>Storage<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><iframe width="560" height="315" src="https://www.youtube.com/embed/9mhzcGA-pM4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div id="product-description" data-tab="Description" class="product-description rte">
+<p>When it's time to transport your smoking gear, the<span> </span><strong>RYOT Pro-Duffle</strong><span> </span>has you covered. Perfect for toking on the move, the Pro-Duffle all-purpose bag is what you need to safely secure and separate your most fragile gear and accessories. </p>
+<p>Available in 20" and 16" sizes, this bag made of<span> durable weatherproof canvas fabric</span><span> </span>can take what you and Mother Nature dish out. The Pro-Duffle features RYOT's SmellSafe Carbon Series technology that's designed to<span> </span><span>trap and neutralize unwanted odors</span>, regardless of how big your stash may be.</p>
+<p>Inside the Pro-Duffle there's<span> </span><span>interchangeable Velcro padding</span><span> </span>that allows you to swap out storage options to suit each adventure you're planning. There's a roomy<span> </span><span>extended storage pocket</span><span> </span>on the bag's exterior along with dual cinch straps and a <span>removable shoulder strap</span>. </p>
+<h5><br></h5>
+<p>Carry your smoking gear in style with the durable and great looking Pro-Duffle all-purpose bag. Pick your preferred size and get yours today. </p>
+<ul>
+<li>Pro-Duffle 20 inch Dimensions: 20 x 9 x 8.5 inches<br data-mce-fragment="1">
+</li>
+</ul>
+</div>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Ryot</s:tag>
+    <s:tag>Chandlery</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Marketplace</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>smoke drop</s:tag>
+    <s:tag>Types_Storage</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6867216040092</id>
+      <title>Black</title>
+      <s:price currency="CAD">60.00</s:price>
+      <s:sku>7851</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6867216040092</id>
+      <title>Camo</title>
+      <s:price currency="CAD">60.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6867207291036</id>
+    <published>2021-07-08T16:15:47-04:00</published>
+    <updated>2021-07-08T16:15:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/ryot-16-pro-duffle-smell-proof-bag"/>
+    <title>RYOT- 16&quot; Pro-Duffle Smell Proof Bag</title>
+    <s:type>Storage</s:type>
+    <s:vendor>RYOT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7852.jpg?v=1625768091"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RYOT<br>
+        <strong>Type: </strong>Storage<br>
+        <strong>Price: </strong>
+            54.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><iframe width="560" height="315" src="https://www.youtube.com/embed/9mhzcGA-pM4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="product-description rte" data-tab="Description" id="product-description">
+<p>When it's time to transport your smoking gear, the<span> </span><strong>RYOT Pro-Duffle</strong><span> </span>has you covered. Perfect for toking on the move, the Pro-Duffle all-purpose bag is what you need to safely secure and separate your most fragile gear and accessories. </p>
+<p>Available in 20" and 16" sizes, this bag made of<span> durable weatherproof canvas fabric</span><span> </span>can take what you and Mother Nature dish out. The Pro-Duffle features RYOT's SmellSafe Carbon Series technology that's designed to<span> </span><span>trap and neutralize unwanted odors</span>, regardless of how big your stash may be.</p>
+<p>Inside the Pro-Duffle there's<span> </span><span>interchangeable Velcro padding</span><span> </span>that allows you to swap out storage options to suit each adventure you're planning. There's a roomy<span> </span><span>extended storage pocket</span><span> </span>on the bag's exterior along with dual cinch straps and a <span>removable shoulder strap</span>. </p>
+<h5><br></h5>
+<p>Carry your smoking gear in style with the durable and great looking Pro-Duffle all-purpose bag. Pick your preferred size and get yours today. </p>
+<ul>
+<li>Pro-Duffle 16 inch Dimensions: 16.5 x 9 x 8.5 inches</li>
+</ul>
+</div>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Area GF3</s:tag>
+    <s:tag>Brand_Ryot</s:tag>
+    <s:tag>Chandlery</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Marketplace</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>smoke drop</s:tag>
+    <s:tag>Types_Storage</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6867207291036</id>
+      <title>Black</title>
+      <s:price currency="CAD">54.00</s:price>
+      <s:sku>7852</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6867207291036</id>
+      <title>Camo</title>
+      <s:price currency="CAD">54.00</s:price>
+      <s:sku>7853</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6867190481052</id>
+    <published>2021-07-08T16:15:46-04:00</published>
+    <updated>2021-07-08T16:15:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/ryot-axe-pack-smellproof-case-l"/>
+    <title>RYOT- Axe Pack Smellproof Case</title>
+    <s:type>Storage</s:type>
+    <s:vendor>RYOT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7854.jpg?v=1625767775"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RYOT<br>
+        <strong>Type: </strong>Storage<br>
+        <strong>Price: </strong>
+            56.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><iframe width="560" height="315" src="https://www.youtube.com/embed/9mhzcGA-pM4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div id="product-description" data-tab="Description" class="product-description rte">
+<p>Confidently pack and carry your precious gear with the new and upgraded RYOT Ax Pack.<br></p>
+<p>This premium hard-case is engineered to protect your smoking accessories for storage or transport. The weather-resistant exterior is thick and durable and features lockable zipper pulls and a comfortable shoulder strap.</p>
+<p>The interior is where this case really stands out, hiding soft memory padded walls and silicone mat dividers for protecting and organizing all your items. Finally, the SmellSafe Carbon Series is added to trap odors for additional stealth. </p>
+<p>This incredible storage solution measures 13.5 x 4 x 5.5 inches in the interior and is a must-have for any serious collector. Available in three designs.</p>
+</div>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Area GF2</s:tag>
+    <s:tag>Brand_Ryot</s:tag>
+    <s:tag>Chandlery</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Marketplace</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Types_Storage</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6867190481052</id>
+      <title>Black</title>
+      <s:price currency="CAD">56.00</s:price>
+      <s:sku>7854</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6867190481052</id>
+      <title>Olive</title>
+      <s:price currency="CAD">56.00</s:price>
+      <s:sku>7855</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6867179241628</id>
+    <published>2021-07-08T16:15:46-04:00</published>
+    <updated>2021-07-08T16:15:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/ryot-safe-case-l"/>
+    <title>RYOT-Safe Case (L)</title>
+    <s:type>Storage</s:type>
+    <s:vendor>RYOT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7856.jpg?v=1625767422"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RYOT<br>
+        <strong>Type: </strong>Storage<br>
+        <strong>Price: </strong>
+            44.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><iframe width="560" height="315" src="https://www.youtube.com/embed/9mhzcGA-pM4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p>RYOT wins the game when it comes to portable storage for your smoking gear, and the Safe Case is ideal to carry your small glass accessories and portable vapes.<br><br>The Safe Case's interior is made with customizable padding that adapts to the shape of your tools and has the X-Strap to secure them in place. The RYOT Fresh Pod gives your bag an additional level of smell protection, which you can boost with the removable SmellSafe carbon padding.<br><br>The Safe Case also comes with a removable rolling tray so you can easily prepare your herbs wherever you are. Available in two sizes.<br><br><strong>Dimensions</strong>:<br></p>
+<ul>
+<li>Large: 4.5 x 5.5 x 8.5 inches</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Ryot</s:tag>
+    <s:tag>Chandlery</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Marketplace</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>smoke drop</s:tag>
+    <s:tag>Types_Storage</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6867179241628</id>
+      <title>Camo</title>
+      <s:price currency="CAD">44.00</s:price>
+      <s:sku>7856</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6867179241628</id>
+      <title>Olive</title>
+      <s:price currency="CAD">44.00</s:price>
+      <s:sku>7857</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6867179241628</id>
+      <title>Black</title>
+      <s:price currency="CAD">44.00</s:price>
+      <s:sku>7858</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6867161809052</id>
+    <published>2021-07-08T16:15:45-04:00</published>
+    <updated>2021-07-08T16:15:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/ryot-safe-case"/>
+    <title>RYOT-Safe Case (S)</title>
+    <s:type>Storage</s:type>
+    <s:vendor>RYOT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7859.jpg?v=1625767218"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RYOT<br>
+        <strong>Type: </strong>Storage<br>
+        <strong>Price: </strong>
+            27.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><iframe width="560" height="315" src="https://www.youtube.com/embed/9mhzcGA-pM4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p>RYOT wins the game when it comes to portable storage for your smoking gear, and the Safe Case is ideal to carry your small glass accessories and portable vapes.<br><br>The Safe Case's interior is made with customizable padding that adapts to the shape of your tools and has the X-Strap to secure them in place. The RYOT Fresh Pod gives your bag an additional level of smell protection, which you can boost with the removable SmellSafe carbon padding.<br><br>The Safe Case also comes with a removable rolling tray so you can easily prepare your herbs wherever you are. Available in two sizes.<br><br><strong>Dimensions</strong>:<br></p>
+<ul>
+<li>Small: 4.5 x 4.5 x 7 inches</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Area GF2</s:tag>
+    <s:tag>Brand_Ryot</s:tag>
+    <s:tag>Chandlery</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Marketplace</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>smoke drop</s:tag>
+    <s:tag>Types_Storage</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6867161809052</id>
+      <title>Camo</title>
+      <s:price currency="CAD">27.00</s:price>
+      <s:sku>7859</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6867161809052</id>
+      <title>Olive</title>
+      <s:price currency="CAD">27.00</s:price>
+      <s:sku>7860</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6867161809052</id>
+      <title>Black</title>
+      <s:price currency="CAD">27.00</s:price>
+      <s:sku>7861</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6866748670108</id>
+    <published>2021-07-08T16:15:14-04:00</published>
+    <updated>2021-07-08T16:15:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/snake-eye-outdoor-rescue-hunting-knife-se-847rb"/>
+    <title>Snake Eye outdoor rescue hunting knife SE-847RB</title>
+    <s:type>Chandlery</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7846_Knife-1.jpg?v=1625756979"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Chandlery<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="description-holder">Tactical outdoor rescue hunting knife are designed for smooth and efficient opening with a reduction in friction for rapid blade deployment. A sturdy liner lock secures the blades while in use. These new knives feature a convenient deep pocket carry clip for easy carry. 
+<ul>
+<li>Total Length : 8.5" (Blade Length: 4")</li>
+<li>Hook cutter</li>
+<li>Emergency break tip</li>
+<li>3CR13 Steel blade</li>
+<li>Carry System : Pocket Clip</li>
+<li>One-Hand opening</li>
+</ul>
+<ul></ul>
+<div class="spec-sheet"></div>
+</div>
+<div class="specifications-holder"></div>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Area N3</s:tag>
+    <s:tag>Chandlery</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>knife and Cutter</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$5 to $10</s:tag>
+    <s:tag>Types_Knives</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6866748670108</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>7846</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6866744049820</id>
+    <published>2021-07-08T16:15:14-04:00</published>
+    <updated>2021-07-08T16:15:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/snake-eye-outdoor-rescue-hunting-knife-se-1156rd"/>
+    <title>Snake Eye outdoor rescue hunting knife SE-1156RD</title>
+    <s:type>Chandlery</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7845_Knife-1.jpg?v=1625756867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Chandlery<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="description-holder">Tactical outdoor rescue hunting knife are designed for smooth and efficient opening with a reduction in friction for rapid blade deployment. A sturdy liner lock secures the blades while in use. These new knives feature a convenient deep pocket carry clip for easy carry. 
+<ul>
+<li>Total Length : 8.5" (Blade Length: 4")</li>
+<li>Hook cutter</li>
+<li>Emergency break tip</li>
+<li>3CR13 Steel blade</li>
+<li>Carry System : Pocket Clip</li>
+<li>One-Hand opening</li>
+</ul>
+<ul></ul>
+<div class="spec-sheet"></div>
+</div>
+<div class="specifications-holder"></div>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Area N3</s:tag>
+    <s:tag>Chandlery</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>knife and Cutter</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$5 to $10</s:tag>
+    <s:tag>Types_Knives</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6866744049820</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>7845</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6866736545948</id>
+    <published>2021-07-08T16:15:14-04:00</published>
+    <updated>2021-07-08T16:15:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/wild-turkey-handmade-collection-knife-wt-0523bl"/>
+    <title>Wild turkey Handmade collection knife WT-0523BL</title>
+    <s:type>Chandlery</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7844_Knife-1.jpg?v=1625756623"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Chandlery<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="description-holder">Tactical outdoor rescue hunting knife are designed for smooth and efficient opening with a reduction in friction for rapid blade deployment. A sturdy liner lock secures the blades while in use. These new knives feature a convenient deep pocket carry clip for easy carry. 
+<ul>
+<li>Total Length : 8.5" (Blade Length: 3.5")</li>
+<li>3CR13 steel blade</li>
+<li>Carry System : Pocket Clip</li>
+<li>One-Hand opening</li>
+</ul>
+<ul></ul>
+<div class="spec-sheet"></div>
+</div>
+<div class="specifications-holder"></div>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Area N3</s:tag>
+    <s:tag>Chandlery</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$5 to $10</s:tag>
+    <s:tag>Types_Knives</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6866736545948</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>7844</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6866730975388</id>
+    <published>2021-07-08T16:15:13-04:00</published>
+    <updated>2021-07-08T16:15:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/snake-eye-outdoor-rescue-hunting-knife-se480"/>
+    <title>Snake Eye outdoor rescue hunting knife SE480</title>
+    <s:type>Chandlery</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7843_Knife-2.jpg?v=1625756377"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Chandlery<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="description-holder">Tactical outdoor rescue hunting knife are designed for smooth and efficient opening with a reduction in friction for rapid blade deployment. A sturdy liner lock secures the blades while in use. These new knives feature a convenient deep pocket carry clip for easy carry. 
+<ul>
+<li>Total Length : 8" (Blade Length: 3")</li>
+<li>3CR13 steel blade</li>
+<li>Carry System : Pocket Clip</li>
+<li>One-Hand opening</li>
+</ul>
+<ul></ul>
+<div class="spec-sheet"></div>
+</div>
+<div class="specifications-holder"></div>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Area N3</s:tag>
+    <s:tag>Chandlery</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>knife and Cutter</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$5 to $10</s:tag>
+    <s:tag>Types_Knives</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6866730975388</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>7843</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6739252904092</id>
+    <published>2021-05-14T15:51:00-04:00</published>
+    <updated>2021-05-14T15:51:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/boveda-size-67-12-count-cube"/>
+    <title>Boveda size 67 Box of 12</title>
+    <s:type>Humidor</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7588_boveda-1.jpg?v=1621020602"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Humidor<br>
+        <strong>Price: </strong>
+            57.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="container">
+<section id="pdp-main" class="pdp-section">
+<div class="row row-extra-gutters">
+<div class="col-md-6 col-lg-5 offset-lg-1">
+<div id="pdp-description">
+<div class="container">
+<section id="pdp-main" class="pdp-section">
+<div class="row row-extra-gutters">
+<div class="col-md-6 col-lg-5 offset-lg-1">
+<div id="pdp-description">
+<p>The Boveda Cube includes 12 Individually wrapped Boveda Size 67. Each one is designed for up to one pound of cannabis/hemp in storage per Boveda pack.</p>
+<p>Boveda, the original terpene shield, is precise humidity control for cannabis, which restores and maintains humidity to create a protective monolayer of water molecules over trichomes, so you can save the terps. Terpenes, the precious smell you love, are kept safe until ready for use. Simply place Boveda in a container with herbal medicine and close the lid. It’s that easy. Boveda’s patented formula uses all natural salts and water to ensure the exact Relative Humidity (RH) herbal medicine needs to maintain freshness.</p>
+</div>
+</div>
+</div>
+</section>
+</div>
+<section id="pdp-information" class="pdp-section">
+<div class="container">
+<div class="row align-items-center justify-content-center">
+<div class="col-md-10 col-lg-7"><br></div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</section>
+</div>
+<section id="pdp-information" class="pdp-section">
+<div class="container">
+<div class="row align-items-center justify-content-center">
+<div class="col-md-6"><main role="main" id="site-main">
+<div aria-modal="true" aria-labelledby="modal-option-info-title" role="dialog" id="modal-option-info" class="modal fade show" tabindex="-1">
+<div role="document" class="modal-dialog modal-dialog-centered">
+<div class="modal-content">
+<div class="modal-body">
+<ul></ul>
+</div>
+</div>
+</div>
+</div>
+</main></div>
+</div>
+</div>
+</section>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chandlery</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Types_Humidor</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6739252904092</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">57.95</s:price>
+      <s:sku>7588</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6721926922396</id>
+    <published>2021-05-05T16:23:07-04:00</published>
+    <updated>2021-05-05T16:23:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/budjuice-grow-2-14-0-organic-fertilizer-bone-meal-based-phosphorus-1"/>
+    <title>BudJuice - Grow 2-14-0 Organic Fertilizer Bone Meal based Phosphorus</title>
+    <s:type>Chandlery</s:type>
+    <s:vendor>Tidal 360 Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/tVsbhkLPDX.jpg?v=1620246190"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tidal 360 Inc<br>
+        <strong>Type: </strong>Chandlery<br>
+        <strong>Price: </strong>
+            13.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="box-sizing: border-box; margin: 0px 0px 20px; padding: 0px; border: 0px; outline: 0px; font-size: 18px; line-height: 1.55; font-family: Lora, serif; letter-spacing: 1px; color: #2f2f2f;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: bottom; text-size-adjust: 100%;">Maximize your plant growth, with a focus on root development, stem strength with BudJuice - Grow, an organic, fishbone based, fertilizer designed for slow release applications. </span></p><p style="box-sizing: border-box; margin: 0px 0px 20px; padding: 0px; border: 0px; outline: 0px; font-size: 18px; line-height: 1.55; font-family: Lora, serif; letter-spacing: 1px; color: #2f2f2f;">Keep your soil organically enriched for the remainder of the growing season.</p><ul style="box-sizing: border-box; margin: 20px 0px 0px 20px; padding: 0px; border: 0px; outline: 0px; list-style-position: initial; list-style-image: initial; font-size: 16px; line-height: 20px; color: #2f2f2f; font-family: Lora, serif; letter-spacing: 1px;">
+<li style="box-sizing: border-box; margin: 10px 0px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: bottom; font-size: 18px; line-height: 1.55; list-style-position: inside; list-style-image: inherit; list-style-type: inherit;">Rich in Phosphorus</li>
+<li style="box-sizing: border-box; margin: 10px 0px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: bottom; font-size: 18px; line-height: 1.55; list-style-position: inside; list-style-image: inherit; list-style-type: inherit;">Rich in Calcium</li>
+<li style="box-sizing: border-box; margin: 10px 0px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: bottom; font-size: 18px; line-height: 1.55; list-style-position: inside; list-style-image: inherit; list-style-type: inherit;">Rich in Magnesium</li>
+<li style="box-sizing: border-box; margin: 10px 0px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: bottom; font-size: 18px; line-height: 1.55; list-style-position: inside; list-style-image: inherit; list-style-type: inherit;">Rich in Nitrate</li>
+<li style="box-sizing: border-box; margin: 10px 0px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: bottom; font-size: 18px; line-height: 1.55; list-style-position: inside; list-style-image: inherit; list-style-type: inherit;">Deep green leaves - Promotes Microbial Growth - Perfect for indoor growing  </li>
+<li style="box-sizing: border-box; margin: 10px 0px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: bottom; font-size: 18px; line-height: 1.55; list-style-position: inside; list-style-image: inherit; list-style-type: inherit;">Perfect for all stages of growth  </li>
+<li style="box-sizing: border-box; margin: 10px 0px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: bottom; font-size: 18px; line-height: 1.55; list-style-position: inside; list-style-image: inherit; list-style-type: inherit;">Accelerated growth - Zero harmful additive  </li>
+<li style="box-sizing: border-box; margin: 10px 0px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: bottom; font-size: 18px; line-height: 1.55; list-style-position: inside; list-style-image: inherit; list-style-type: inherit;">Overall healthier disease resistant plant - naturally higher yields and overall value  </li>
+<li style="box-sizing: border-box; margin: 10px 0px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: bottom; font-size: 18px; line-height: 1.55; list-style-position: inside; list-style-image: inherit; list-style-type: inherit;">Increased potency’s - Larger number of flowers</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chandlery</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Marketplace</s:tag>
+    <s:tag>organic fertilizer</s:tag>
+    <s:tag>Types_Fertilizer</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6721926922396</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.80</s:price>
+      <s:sku>7532</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6721926889628</id>
+    <published>2021-05-05T16:23:07-04:00</published>
+    <updated>2021-05-05T16:23:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/budjuice-nitro-12-0-0-organic-fertilizer-blood-meal-based-nitrogen"/>
+    <title>BudJuice - Nitro 12-0-0 Organic Fertilizer Blood Meal based Nitrogen</title>
+    <s:type>Chandlery</s:type>
+    <s:vendor>Tidal 360 Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/UM7hDcEUSj.jpg?v=1620246190"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tidal 360 Inc<br>
+        <strong>Type: </strong>Chandlery<br>
+        <strong>Price: </strong>
+            13.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #2f2f2f; font-family: Lora, serif; font-size: 18px; letter-spacing: 1px;">Fuel your plants growth by maximizing its photosynthesis capabilities with BudJuice Nitro. Nitro is an organic bloodmeal based product high in nitrogen. This slow release formula won't run the risk of nutrient burn and is safe to use as a 30 day slow release granules. It can be applied as a dressing or during transplants.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chandlery</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Marketplace</s:tag>
+    <s:tag>organic fertilizer</s:tag>
+    <s:tag>Types_Fertilizer</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6721926889628</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.80</s:price>
+      <s:sku>7533</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6721926856860</id>
+    <published>2021-05-05T16:23:07-04:00</published>
+    <updated>2021-05-05T16:23:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/budjuice-micro-100-advanced-liquid-organic-fertilizer-nutrients-1000ml"/>
+    <title>BudJuice - Micro 100% Advanced Liquid Organic Fertilizer &amp; Nutrients</title>
+    <s:type>Chandlery</s:type>
+    <s:vendor>Tidal 360 Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/y5jyBtBQWH.jpg?v=1620246190"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tidal 360 Inc<br>
+        <strong>Type: </strong>Chandlery<br>
+        <strong>Price: </strong>
+            14.40 - 21.00
+            <a href="https://www.onewholesale.ca/products/budjuice-micro-100-advanced-liquid-organic-fertilizer-nutrients-1000ml">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="box-sizing: border-box; margin: 0px 0px 20px; padding: 0px; border: 0px; outline: 0px; font-size: 18px; line-height: 1.55; font-family: Lora, serif; letter-spacing: 1px; color: #2f2f2f;">Growing with organic fertilizers yields a better quality, better tasting crop. What you put in to your body is important, why not grow your plants the way nature intended. Micronutrients are very important to your pants well being, this formula has 30+ nutrients and is a great source of amino acids.</p><p style="box-sizing: border-box; margin: 0px 0px 20px; padding: 0px; border: 0px; outline: 0px; font-size: 18px; line-height: 1.55; font-family: Lora, serif; letter-spacing: 1px; color: #2f2f2f;">Keep your soil organically enriched for the remainder of the growing season, great for indoor and outdoor growing.</p><p style="box-sizing: border-box; margin: 0px 0px 20px; padding: 0px; border: 0px; outline: 0px; font-size: 18px; line-height: 1.55; font-family: Lora, serif; letter-spacing: 1px; color: #2f2f2f;">The liquid formula is incredibly easy to use, a little goes a long way simply follow the feed chart.</p><p style="box-sizing: border-box; margin: 0px 0px 20px; padding: 0px; border: 0px; outline: 0px; font-size: 18px; line-height: 1.55; font-family: Lora, serif; letter-spacing: 1px; color: #2f2f2f;">Dilute 10ml or 2 teaspoons in 1000ml of water and feed your plant. </p><ul style="box-sizing: border-box; margin: 20px 0px 0px 20px; padding: 0px; border: 0px; outline: 0px; list-style-position: initial; list-style-image: initial; font-size: 16px; line-height: 20px; color: #2f2f2f; font-family: Lora, serif; letter-spacing: 1px;">
+<li style="box-sizing: border-box; margin: 10px 0px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: bottom; font-size: 18px; line-height: 1.55; list-style-position: inside; list-style-image: inherit; list-style-type: inherit;">Deep green leaves</li>
+<li style="box-sizing: border-box; margin: 10px 0px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: bottom; font-size: 18px; line-height: 1.55; list-style-position: inside; list-style-image: inherit; list-style-type: inherit;">Promotes Microbial Growth  </li>
+<li style="box-sizing: border-box; margin: 10px 0px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: bottom; font-size: 18px; line-height: 1.55; list-style-position: inside; list-style-image: inherit; list-style-type: inherit;">Large dense buds </li>
+<li style="box-sizing: border-box; margin: 10px 0px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: bottom; font-size: 18px; line-height: 1.55; list-style-position: inside; list-style-image: inherit; list-style-type: inherit;">Naturally higher yields and overall value</li>
+<li style="box-sizing: border-box; margin: 10px 0px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: bottom; font-size: 18px; line-height: 1.55; list-style-position: inside; list-style-image: inherit; list-style-type: inherit;">Accelerated growth</li>
+<li style="box-sizing: border-box; margin: 10px 0px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: bottom; font-size: 18px; line-height: 1.55; list-style-position: inside; list-style-image: inherit; list-style-type: inherit;">Zero harmful additives  </li>
+<li style="box-sizing: border-box; margin: 10px 0px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: bottom; font-size: 18px; line-height: 1.55; list-style-position: inside; list-style-image: inherit; list-style-type: inherit;">Overall healthier disease resistant plant</li>
+<li style="box-sizing: border-box; margin: 10px 0px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: bottom; font-size: 18px; line-height: 1.55; list-style-position: inside; list-style-image: inherit; list-style-type: inherit;">Larger number of flowers</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chandlery</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Marketplace</s:tag>
+    <s:tag>organic fertilizer</s:tag>
+    <s:tag>Types_Fertilizer</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6721926856860</id>
+      <title>1000ml</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku>7534</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6721926856860</id>
+      <title>500ml</title>
+      <s:price currency="CAD">14.40</s:price>
+      <s:sku>7535</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6615471947932</id>
+    <published>2021-03-19T16:36:45-04:00</published>
+    <updated>2021-03-19T16:36:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/snake-eye-outdoor-rescue-hunting-knife-se943pu"/>
+    <title>Snake Eye outdoor rescue hunting knife SE943PU</title>
+    <s:type>Chandlery</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7152_knife-2.jpg?v=1616182576"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Chandlery<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="description-holder">
+<span data-mce-fragment="1">Tactical outdoor rescue hunting knife are designed for smooth and efficient opening with a reduction in friction for rapid blade deployment. A sturdy liner lock secures the blades while in use. These new knives feature a convenient deep pocket carry clip for easy carry</span>. 
+<ul>
+<li>Total Length : 8.5" (Blade Length: 4")</li>
+<li>3CR13 Steel blade</li>
+<li>Carry System : Pocket Clip</li>
+<li>One-Hand opening</li>
+</ul>
+<ul></ul>
+<div class="spec-sheet"></div>
+</div>
+<div class="specifications-holder"></div>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Area N3</s:tag>
+    <s:tag>Chandlery</s:tag>
+    <s:tag>knife and Cutter</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$10 to $20</s:tag>
+    <s:tag>Types_Knives</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6615471947932</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.00</s:price>
+      <s:sku>7152</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6615470243996</id>
+    <published>2021-03-19T16:36:45-04:00</published>
+    <updated>2021-03-19T16:36:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/snake-eye-outdoor-rescue-hunting-knife-se1267cm3"/>
+    <title>Snake Eye outdoor rescue hunting knife SE1267CM3</title>
+    <s:type>Chandlery</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7153_knife-2.jpg?v=1616182443"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Chandlery<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="description-holder">Tactical outdoor rescue hunting knife are designed for smooth and efficient opening with a reduction in friction for rapid blade deployment. A sturdy liner lock secures the blades while in use. These new knives feature a convenient deep pocket carry clip for easy carry. 
+<ul>
+<li>Total Length : 8" (Blade Length: 4")</li>
+<li>3CR13 Steel blade</li>
+<li>Carry System : Pocket Clip</li>
+<li>One-Hand opening</li>
+</ul>
+<ul></ul>
+<div class="spec-sheet"></div>
+</div>
+<div class="specifications-holder"></div>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Area N1</s:tag>
+    <s:tag>Chandlery</s:tag>
+    <s:tag>knife and Cutter</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$5 to $10</s:tag>
+    <s:tag>Types_Knives</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6615470243996</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.00</s:price>
+      <s:sku>7153</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6615292641436</id>
+    <published>2021-03-19T16:36:44-04:00</published>
+    <updated>2021-03-19T16:36:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/snake-eye-outdoor-rescue-hunting-knife-se5052nobu"/>
+    <title>Snake Eye outdoor rescue hunting knife SE5052NOBU</title>
+    <s:type>Chandlery</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7151_knife-1.jpg?v=1616172538"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Chandlery<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="description-holder">Tactical outdoor rescue hunting knife are designed for smooth and efficient opening with a reduction in friction for rapid blade deployment. A sturdy liner lock secures the blades while in use. These new knives feature a convenient deep pocket carry clip for easy carry. 
+<ul>
+<li>Total Length : 8.5" (Blade Length: 4")</li>
+<li>3CR13 Steel blade</li>
+<li>Carry System : Pocket Clip</li>
+<li>One-Hand opening</li>
+</ul>
+<ul></ul>
+<div class="spec-sheet"></div>
+</div>
+<div class="specifications-holder"></div>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Area N3</s:tag>
+    <s:tag>Chandlery</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>knife and Cutter</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$5 to $10</s:tag>
+    <s:tag>Types_Knives</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6615292641436</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.00</s:price>
+      <s:sku>7151</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6592036077724</id>
+    <published>2021-03-10T09:37:24-05:00</published>
+    <updated>2021-03-10T09:37:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/humi-pocket-26-pc-collection"/>
+    <title>Humi Pocket 26 Pc Collection</title>
+    <s:type>Humidor</s:type>
+    <s:vendor>Humi Pocket Mini Humidor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/RFwhukD2s3.jpg?v=1615387054"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Humi Pocket Mini Humidor<br>
+        <strong>Type: </strong>Humidor<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The humi pocket is a silicone insert that fits any brand or size of wide mouth mason jar to create a DIY humidor! Offer a full selection to your customers with this 26 piece collection which gives you: 6 (clear) and 2 each of (red/orange/yellow/green/blue/purple/pink/aqua/lavender/black)</p><p>This collection saves you 10% over open stock prices. </p><p>Top up with the *Best Sellers (clear, purple, blue, black &amp; green) or order this collection on it's own!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>420</s:tag>
+    <s:tag>affordable</s:tag>
+    <s:tag>best cannabis storage</s:tag>
+    <s:tag>cannabis</s:tag>
+    <s:tag>cannabis accessory</s:tag>
+    <s:tag>cannabis storage</s:tag>
+    <s:tag>Chandlery</s:tag>
+    <s:tag>diy</s:tag>
+    <s:tag>food safe</s:tag>
+    <s:tag>fresh</s:tag>
+    <s:tag>freshness</s:tag>
+    <s:tag>gadget</s:tag>
+    <s:tag>glass jar</s:tag>
+    <s:tag>humi pocket 26 pc collection</s:tag>
+    <s:tag>humi pocket fresh</s:tag>
+    <s:tag>humi pocket mini humidor</s:tag>
+    <s:tag>humidity</s:tag>
+    <s:tag>humidor</s:tag>
+    <s:tag>Marketplace</s:tag>
+    <s:tag>mason jar</s:tag>
+    <s:tag>mason jar storage</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>reuseable</s:tag>
+    <s:tag>saver</s:tag>
+    <s:tag>silicone</s:tag>
+    <s:tag>silicone insert</s:tag>
+    <s:tag>stash</s:tag>
+    <s:tag>Types_Humidor</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6592036077724</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">80.00</s:price>
+      <s:sku>HPCOLL-26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6592035618972</id>
+    <published>2021-03-10T09:37:24-05:00</published>
+    <updated>2021-03-10T09:37:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/humi-pocket-replacement-sponge"/>
+    <title>Humi Pocket Replacement Sponge</title>
+    <s:type>Humidor</s:type>
+    <s:vendor>Humi Pocket Mini Humidor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/FRdi5zsgMS.jpg?v=1615387046"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Humi Pocket Mini Humidor<br>
+        <strong>Type: </strong>Humidor<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>humi pocket Mini Humidor Replacement Sponge</p><p>Round, white sponge (food safe) 17 mm that fits any humi pocket Mini Humidor.</p><p>The sponge can be washed with hot and soapy water or boiled for 5-10 minutes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chandlery</s:tag>
+    <s:tag>food safe</s:tag>
+    <s:tag>humi pocket mini humidor</s:tag>
+    <s:tag>humi pocket sponge</s:tag>
+    <s:tag>Marketplace</s:tag>
+    <s:tag>mason jar storage</s:tag>
+    <s:tag>mini humidor sponge</s:tag>
+    <s:tag>moisture source</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>replacement sponge</s:tag>
+    <s:tag>Types_Humidor</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6592035618972</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku>HPSP-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6566218498204</id>
+    <published>2021-03-06T12:52:02-05:00</published>
+    <updated>2021-03-06T12:52:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/boveda-62-4g"/>
+    <title>BOVEDA 62% 4G</title>
+    <s:type>Humidor</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/5923-bovedal-1_0d961d3c-799c-4141-bf79-82a47c477007.jpg?v=1615056279"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Humidor<br>
+        <strong>Price: </strong>
+            11.95 - 135.00
+            <a href="https://www.onewholesale.ca/products/boveda-62-4g">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>As the only true 2-way humidity control, Boveda has been exploding in the medical cannabis market because it maximizes efficacy, aroma, color and flavor while promoting a cooler burn. </span><span>Boveda has become a staple in many dispensaries, grow operations and personal storage because you can now store cannabis indefinitely. Yes, really. As long as you have a Boveda with life in it (it’s time for replacement when you can’t bend it in half anymore) you can keep perfectly stored cannabis forever. And since Boveda enhances the quality of cannabis, it’s the first time you can reliably age cannabis like you would a wine or cigar.</span></p>
+<ul>
+<li><span>Boveda for Cannabis Storage</span></li>
+<li><span>2-Way Humidity Control</span></li>
+<li><span>Protects Up to 1/2 Oz Flower</span></li>
+<li><span>Prevent Terpene Loss Over Drying and Molding</span></li>
+<li><span>125-Count Retail Carton</span></li>
+</ul>
+<ul>
+<li>RESTORE AND MAINTAIN flower with the global leader in 2-way humidity control. Place Boveda in packaging and/or storage for precise Relative Humidity (RH) to protect all the good stuff (terpenes, cannabinoids and flavonoids)</li>
+</ul>
+<ul>
+<li>CHOOSE 58% OR 62% RH—a personal preference depending on how you prefer your experience or on what the humidity level is where you are. Some prefer 58% RH for personal-use products or 62% for larger storage</li>
+</ul>
+<ul>
+<li>ALL-NATURAL SALTS AND PURE WATER inside keep flower fresh for 2-4 MONTHS in airtight containers. Just place in container with up to 1 oz (30 g). Replace when Boveda is rigid</li>
+</ul>
+<ul>
+<li>PRESERVES "SMELL" that's released after the grind. Boveda creates a monolayer of purified water molecules that naturally coats trichomes to shield terpenes and cannabinoids preserving the smell until use</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chandlery</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Types_Humidor</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6566218498204</id>
+      <title>10 Packs</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>7590</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6566218498204</id>
+      <title>BOX 125</title>
+      <s:price currency="CAD">135.00</s:price>
+      <s:sku>7083</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

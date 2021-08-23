@@ -1,0 +1,1346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.onewholesale.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.onewholesale.ca/collections/smoking-accessory.atom"/>
+  <title>One Wholesale</title>
+  <updated>2021-08-19T16:55:15-04:00</updated>
+  <author>
+    <name>One Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6964058390684</id>
+    <published>2021-08-19T16:55:15-04:00</published>
+    <updated>2021-08-19T16:55:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/infyniti-the-black-collection-hippo-scale"/>
+    <title>Infyniti The black collection HIPPO Scale</title>
+    <s:type>Weight Scale</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/8099_scale-2.jpg?v=1629406140"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Weight Scale<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>CAPACITY : 2000g</li>
+<li>Accuracy : 0.1 g</li>
+<li>Power : 2 x AAA Batteries or AC adapter (Both Included)</li>
+<li>Tare Rage : Tare full capacity</li>
+<li>Auto off : 60 Seconds</li>
+<li>Tray Size : 14.5 cm / 5.7"</li>
+<li>Size : 22 x 17 cm / 8.7" x 6.7"</li>
+<li>Weight : 360g</li>
+<li>Stain gauge precision technology</li>
+<li>With Black Light - Low Battery Indication</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accuracy_0.1g</s:tag>
+    <s:tag>Categories_Weight Scales</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>smoke drop</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6964058390684</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku>8099</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6964052295836</id>
+    <published>2021-08-19T16:55:14-04:00</published>
+    <updated>2021-08-19T16:55:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/infyniti-tank-scales"/>
+    <title>Infyniti TANK scales</title>
+    <s:type>Weight Scale</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/8098_scale-2.jpg?v=1629405817"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Weight Scale<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>CAPACITY : 2000g</li>
+<li>Accuracy : 0.1 g</li>
+<li>Power : 2 x AAA Batteries</li>
+<li>Tare Rage : Tare full capacity</li>
+<li>Auto off : 60 Seconds</li>
+<li>Tray Size : 100 x 94 mm</li>
+<li>Size : 131 x 109 x 19.6 mm</li>
+<li>Weight :206g</li>
+<li>Stain gauge precision technology</li>
+<li>With Black Light - Low Battery Indication</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accuracy_0.1g</s:tag>
+    <s:tag>Categories_Weight Scales</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>smoke drop</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6964052295836</id>
+      <title>Black BT-2000BK</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>8098</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6964048461980</id>
+    <published>2021-08-19T16:55:14-04:00</published>
+    <updated>2021-08-19T16:55:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/infyniti-death-row-drv-50-scales"/>
+    <title>Infyniti DEATH ROW DRV-50 scales</title>
+    <s:type>Weight Scale</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/8097_scale-3.jpg?v=1629405642"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Weight Scale<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>CAPACITY : 50g</li>
+<li>Accuracy : 0.01 g</li>
+<li>Power : 2 x AAA Batteries</li>
+<li>Tare Rage : Tare full capacity</li>
+<li>Auto off : 60 Seconds</li>
+<li>Tray Size : 50 x 58 mm</li>
+<li>Size : 98 x 63 x 18 mm</li>
+<li>Weight : 88g</li>
+<li>Stain gauge precision technology</li>
+<li>With Black Light - Low Battery Indication</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accuracy_0.01g</s:tag>
+    <s:tag>Categories_Weight Scales</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>smoke drop</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6964048461980</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>8097</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6964042399900</id>
+    <published>2021-08-19T16:55:13-04:00</published>
+    <updated>2021-08-19T16:55:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/infyniti-mobile-scales"/>
+    <title>Infyniti MOBILE scales</title>
+    <s:type>Weight Scale</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/8096_scale-2.jpg?v=1629405350"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Weight Scale<br>
+        <strong>Price: </strong>
+            9.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>CAPACITY : 300g</li>
+<li>Accuracy : 0.01 g</li>
+<li>Power : 2 x AAA Batteries</li>
+<li>Tare Rage : Tare full capacity</li>
+<li>Auto off : 60 Seconds</li>
+<li>Tray Size : 50 x 58 mm</li>
+<li>Size : 120x 65 x 20 mm</li>
+<li>Weight :110g</li>
+<li>Stain gauge precision technology</li>
+<li>With Black Light - Low Battery Indication</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accuracy_0.01g</s:tag>
+    <s:tag>Categories_Weight Scales</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>smoke drop</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6964042399900</id>
+      <title>Black BM-300BK</title>
+      <s:price currency="CAD">9.50</s:price>
+      <s:sku>8096</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6964042399900</id>
+      <title>Silver BM-300SV</title>
+      <s:price currency="CAD">9.50</s:price>
+      <s:sku>8100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6956883640476</id>
+    <published>2021-08-17T13:17:52-04:00</published>
+    <updated>2021-08-17T13:17:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/x-lite-250-kitchen-wood-matches-box-of-12"/>
+    <title>X-lite 250 kitchen wood matches Box of 12</title>
+    <s:type>Lighters</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/8068_MATCH-1.jpg?v=1629218763"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Lighters<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>2.2" Long Wooden Matches</li>
+<li>Box of 12</li>
+<li>250 matches per box</li>
+<li>Strike-On-Box type for safety ~ will not self ignite</li>
+<li>Safely light fireplaces, barbeques, camp fires, furnaces, stoves, fireworks, etc.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_X-lite</s:tag>
+    <s:tag>Categories_Lighters</s:tag>
+    <s:tag>Lighter Types_Refillable</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6956883640476</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>8068</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6956866470044</id>
+    <published>2021-08-17T13:17:51-04:00</published>
+    <updated>2021-08-17T13:17:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/x-lite-11-long-wood-matches-box-of-24"/>
+    <title>X-lite 11&quot; long Wood Matches Box of 24</title>
+    <s:type>Lighters</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/8069_MATCH-2.jpg?v=1629218514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Lighters<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>11" Long Wooden Matches</li>
+<li>Case of 12 inner box,</li>
+<li>40 matches per inner box</li>
+<li>Strike-On-Box type for safety ~ will not self ignite</li>
+<li>Safely light fireplaces, barbeques, camp fires, furnaces, stoves, fireworks, etc.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_X-lite</s:tag>
+    <s:tag>Categories_Lighters</s:tag>
+    <s:tag>Lighter Types_Refillable</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6956866470044</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>8069</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6956792053916</id>
+    <published>2021-08-17T13:17:51-04:00</published>
+    <updated>2021-08-17T13:17:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/x-lite-multi-purpose-lighters-box-of-12"/>
+    <title>X-lite multi purpose lighters Box of 12</title>
+    <s:type>Lighters</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/8070_lighter-1.jpg?v=1629216364"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Lighters<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Regular Flame</li>
+<li>Perfect for lighting your outdoor camp fire or BBQ stove and grill</li>
+<li>Adjustable</li>
+<li>Refillable</li>
+<li>Semi Transparent window to easily see lighter fluid level</li>
+<li>Child Resistant</li>
+<li>Lock feature</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_X-lite</s:tag>
+    <s:tag>Categories_Lighters</s:tag>
+    <s:tag>Flame Types_Regular</s:tag>
+    <s:tag>Lighter Types_Refillable</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6956792053916</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku>8070</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6946923380892</id>
+    <published>2021-08-13T11:33:33-04:00</published>
+    <updated>2021-08-13T11:33:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/acid-secs-beezwaz-infused-hemp-wicks"/>
+    <title>Acid Secs- Beezwaz infused hemp wicks Pack of 8</title>
+    <s:type>Hemp Wick</s:type>
+    <s:vendor>Acid Secs Productions</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/ASP1005_wicks-1.jpg?v=1628867683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Acid Secs Productions<br>
+        <strong>Type: </strong>Hemp Wick<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Made from 100% all natural hemp and 100% organic beeswax... and is 100% biodegradable</li>
+<li><span>Eliminates foul tasting and unhealthy lighter fumes, like those produced by traditional lighters</span></li>
+<li><span>Provides a clean burning flame (no chemical tastes) for the smoking connoisseur</span></li>
+<li><span>Allows you to totally enjoy the full flavors of your favorite smoking blends</span></li>
+<li>Will inherently prolong the life of your other lighters, which reduces the amount of lighters being sent to landfills each year.<span></span>
+</li>
+<li>Can be used as a candle for repeated lighting of objects.<span></span>
+</li>
+<li>Is a must for all smoking connoisseurs and enthusiasts.</li>
+<li>8 wicks per pack</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Categories_Hemp Wicks</s:tag>
+    <s:tag>Marketplace</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6946923380892</id>
+      <title>12 ft / 3.8 m</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>ASP0006</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6946917122204</id>
+    <published>2021-08-13T11:33:32-04:00</published>
+    <updated>2021-08-13T11:33:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/acid-secs-10-pack-of-preformed-bowl-screen"/>
+    <title>Acid Secs - 10 pieces of preformed bowl screen</title>
+    <s:type>Screen</s:type>
+    <s:vendor>Acid Secs Productions</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/ASP1003_screen-2.jpg?v=1628800839"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Acid Secs Productions<br>
+        <strong>Type: </strong>Screen<br>
+        <strong>Price: </strong>
+            3.50 - 4.00
+            <a href="https://www.onewholesale.ca/products/acid-secs-10-pack-of-preformed-bowl-screen">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>10 pieces bowl screen per pack</li>
+<li>Preformed fine screen</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Categories_Screens</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Marketplace</s:tag>
+    <s:tag>Materials_Metal</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$5 under</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6946917122204</id>
+      <title>Gold</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>ASP0003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6946917122204</id>
+      <title>Silver</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>ASP0005</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6942441898140</id>
+    <published>2021-08-10T13:56:43-04:00</published>
+    <updated>2021-08-10T13:56:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/eagle-torch-neon-limited-torch-gun-lighter-box-of-15"/>
+    <title>Eagle Torch-Neon Limited Torch gun lighter Box of 15</title>
+    <s:type>Lighters</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/8031_torch_lighter-1.jpg?v=1628614976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Lighters<br>
+        <strong>Price: </strong>
+            67.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Display of 15</li>
+<li>Single flame flame</li>
+<li>Premium Butane gas Torch Lighter with safe-stop</li>
+<li>Ideal for daily use and outdoor activities such as camping, fishing, hunting, welding, and melting</li>
+<li>Repairing pipeline, removing paint &amp;repairing jewelry</li>
+<li>Refillable</li>
+<li>Assorted Neon colors</li>
+<li>Patent : US D884264</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Area M6</s:tag>
+    <s:tag>Brand_Eagle Torch</s:tag>
+    <s:tag>Categories_Lighters</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Flame Types_Torch</s:tag>
+    <s:tag>Lighter Types_Refillable</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$20 to $50</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6942441898140</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">67.50</s:price>
+      <s:sku>8031</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6942416765084</id>
+    <published>2021-08-10T13:56:42-04:00</published>
+    <updated>2021-08-10T13:56:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/eagle-torch-neo-chrome-torch-gun-lighter-box-of-15"/>
+    <title>Eagle Torch-Neo Chrome Torch gun lighter Box of 15</title>
+    <s:type>Lighters</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/8030_torch_lighter-1.jpg?v=1628614762"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Lighters<br>
+        <strong>Price: </strong>
+            67.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Display of 15</li>
+<li>Single flame flame</li>
+<li>Eagle Torch-Neon Limited Torch gun lighter with safe-stop</li>
+<li>Ideal for daily use and outdoor activities such as camping, fishing, hunting, welding, and melting</li>
+<li>Repairing pipeline, removing paint &amp;repairing jewelry</li>
+<li>Refillable</li>
+<li>Assorted Chrome colors</li>
+<li>Patent : US D884264</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Area M6</s:tag>
+    <s:tag>Brand_Eagle Torch</s:tag>
+    <s:tag>Categories_Lighters</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Flame Types_Torch</s:tag>
+    <s:tag>Lighter Types_Refillable</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$20 to $50</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6942416765084</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">67.50</s:price>
+      <s:sku>8030</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6933782790300</id>
+    <published>2021-08-06T16:35:26-04:00</published>
+    <updated>2021-08-06T16:35:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/acid-secs-round-glass-ashtray-box-of-6"/>
+    <title>Acid Secs round glass ashtray Box of 6</title>
+    <s:type>Ashtray</s:type>
+    <s:vendor>Acid Secs Productions</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/ACS1002-2.jpg?v=1628276811"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Acid Secs Productions<br>
+        <strong>Type: </strong>Ashtray<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="description-holder">
+<p><span>*If you like skull design, then you will love this fabulous skull design ashtray. An iconic image of the skull has been sealed under glitter adhesive paper on the outside bottom of a glass ashtray and then covered with felt backing for protection. Rest your butts skull style with this super cool ashtray!</span></p>
+<ul>
+<li><span>Diameter : 3" (Dia.)</span></li>
+<li><span>6 glass ashtrays in a display</span></li>
+<li><span>Printed picture may different depending on the stock</span></li>
+</ul>
+<ul></ul>
+<div class="spec-sheet"></div>
+</div>
+<div class="specifications-holder"></div>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ashtray</s:tag>
+    <s:tag>Categories_Ashtray</s:tag>
+    <s:tag>Marketplace</s:tag>
+    <s:tag>Price_$10 to $20</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6933782790300</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>ACS1002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6909250994332</id>
+    <published>2021-07-26T15:35:49-04:00</published>
+    <updated>2021-07-26T15:35:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/zippo-20904-bling-swarovski"/>
+    <title>Zippo 29849 Fireball</title>
+    <s:type>Zippo Lighter</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/29849_PT01_large_2751ef9d-8f02-499d-9b06-9a6f277a959e.jpg?v=1627328208"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Zippo Lighter<br>
+        <strong>Price: </strong>
+            32.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">WTF?! Zippo brings Fireball's devilish dragon and spicy brand of humor to this Black Matte lighter. The design uses color imaging to show off the iconic Fireball dragon spewing flames. Comes packaged in a gift box. For optimal performance, fill with Zippo lighter fluid.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Zippo</s:tag>
+    <s:tag>Categories_Lighters</s:tag>
+    <s:tag>Categories_Zippo Lighters</s:tag>
+    <s:tag>Flame Types_Wick</s:tag>
+    <s:tag>Retail Price_ $50.00 to $100.00</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:tag>Zippo_Animals</s:tag>
+    <s:tag>Zippo_Styles</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6909250994332</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.97</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6882579447964</id>
+    <published>2021-07-22T13:58:37-04:00</published>
+    <updated>2021-07-22T13:58:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/vaze-pre-roll-joint-cases-the-grand"/>
+    <title>VAZE Pre-Roll Joint Cases - The Grand</title>
+    <s:type>Baggies | Jars</s:type>
+    <s:vendor>VAZE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/Products_SMALLER_GRAND_720x_a089518c-41ef-4154-bc55-a44e2b572e64.jpg?v=1626371089"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VAZE<br>
+        <strong>Type: </strong>Baggies | Jars<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Grand case holds your 1.0 gram pre-roll in crafted milled aluminum giving both a sleek design and protection for all occasions. Available in two colours.<br><br></p>
+<ul>
+<li>Airtight</li>
+<li>Seals in freshness</li>
+<li>Odourless</li>
+<li>Water resistant</li>
+</ul>
+<p><strong>Take only what you need. Nothing more</strong>.<br>VAZE is the ultimate joint holder that allows you to smoke a little and then save some for later. Made of aluminum the VAZE joint holder can withstand heat and snuffs out the lit prerolls when the top is put on. Your personal joint experience is preserved for every session allowing you to only take what you need.<br><br><strong>Airtight Gasket</strong><br>The VAZE smell proof pre-rolled joint holders use an engineered rubber gasket specifically designed to seal in freshness while protecting from the elements. Each VAZE pre-rolled joint holder contains one incredibly strong gasket pre-installed along with a backup in case you need it. With everything sealed in you can roll with confidence knowing your cannabis is safely sealed away free of odour.<br><br><strong>Simple, clean, and discreet design </strong><br>VAZE is designed with beauty, simplicity and discretion in mind. VAZE’s unique style, clean lines and smooth edges bring a level of function to the design whether it’s in your pocket or purse or out on a table in a restaurant. Available in two unique colours each VAZE not only lends a personal touch but can also provide you with a way to break up your prerolls by strain.<br><br><strong>The Strength of Milled Aluminum</strong><br>While most doob tubes and pre-rolled joint holders use plastic or folded aluminum to protect your cannabis, VAZE pre-rolled joint holders protect your pre-rolls using the strength of milled aluminum and the beauty of anodizing. So while milled aluminum provides the strength you need anodized aluminum provides the beauty of a pearl finish in either SABI Pink or WABI Charcoal.<br><br>Environmentally Friendly<br>VAZE is an environmentally friendly alternative to plastic pre-rolled doob tubes and joint holders allowing you to enjoy your cannabis while not contributing to the plastic pollution on our planet.<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_VAZE</s:tag>
+    <s:tag>Categories_Baggies and Jar</s:tag>
+    <s:tag>Categories_Bong Accessories</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Marketplace</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>smoke drop</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:tag>Types_Pre-roll Tubes</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6882579447964</id>
+      <title>Wabi Charcoal</title>
+      <s:price currency="CAD">11.00</s:price>
+      <s:sku>7923</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6882579447964</id>
+      <title>Sabi Pink</title>
+      <s:price currency="CAD">11.00</s:price>
+      <s:sku>7924</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6882553954460</id>
+    <published>2021-07-22T13:58:36-04:00</published>
+    <updated>2021-07-22T13:58:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/vaze-pre-roll-joint-cases-the-triple"/>
+    <title>VAZE Pre-Roll Joint Cases-The Triple</title>
+    <s:type>Baggies | Jars</s:type>
+    <s:vendor>VAZE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/Products_SMALLER_TRIPLE_720x_3fdd4a7b-d233-439e-9247-cdc88d3c56ea.jpg?v=1626370208"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VAZE<br>
+        <strong>Type: </strong>Baggies | Jars<br>
+        <strong>Price: </strong>
+            13.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Triple case holds up to three 0.5 gram pre-rolls in crafted milled aluminum giving both a sleek design and protection for all occasions. Available in two colours.<br></p>
+<ul>
+<li>Airtight</li>
+<li>Seals in freshness</li>
+<li>Odourless</li>
+<li>Water resistant </li>
+</ul>
+<p><strong>Take only what you need. Nothing more</strong>.<br>VAZE is the ultimate joint holder that allows you to smoke a little and then save some for later. Made of aluminum the VAZE joint holder can withstand heat and snuffs out the lit prerolls when the top is put on. Your personal joint experience is preserved for every session allowing you to only take what you need.<br><br><strong>Airtight Gasket</strong><br>The VAZE smell proof pre-rolled joint holders use an engineered rubber gasket specifically designed to seal in freshness while protecting from the elements. Each VAZE pre-rolled joint holder contains one incredibly strong gasket pre-installed along with a backup in case you need it. With everything sealed in you can roll with confidence knowing your cannabis is safely sealed away free of odour.<br><br><strong>Simple, clean, and discreet design</strong><br>VAZE is designed with beauty, simplicity and discretion in mind. VAZE’s unique style, clean lines and smooth edges bring a level of function to the design whether it’s in your pocket or purse or out on a table in a restaurant. Available in two unique colours each VAZE not only lends a personal touch but can also provide you with a way to break up your prerolls by strain.<br><br><strong>The Strength of Milled Aluminum</strong><br>While most doob tubes and pre-rolled joint holders use plastic or folded aluminum to protect your cannabis, VAZE pre-rolled joint holders protect your pre-rolls using the strength of milled aluminum and the beauty of anodizing. So while milled aluminum provides the strength you need anodized aluminum provides the beauty of a pearl finish in either SABI Pink or WABI Charcoal.<br><br>Environmentally Friendly<br>VAZE is an environmentally friendly alternative to plastic pre-rolled doob tubes and joint holders allowing you to enjoy your cannabis while not contributing to the plastic pollution on our planet.<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_VAZE</s:tag>
+    <s:tag>Categories_Baggies and Jar</s:tag>
+    <s:tag>Categories_Bong Accessories</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Marketplace</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>smoke drop</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:tag>Types_Pre-roll Tubes</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6882553954460</id>
+      <title>Wabi Charcoal</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku>7925</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6882553954460</id>
+      <title>Sabi Pink</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku>7926</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6882533834908</id>
+    <published>2021-07-22T13:58:35-04:00</published>
+    <updated>2021-07-22T13:58:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/vaze-aluminum-pre-roll-joint-cases"/>
+    <title>VAZE Pre-Roll Joint Cases - The Single</title>
+    <s:type>Baggies | Jars</s:type>
+    <s:vendor>VAZE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/Products_SMALLER_SINGLE_720x_cd93399f-1e8f-4a7a-adb2-7f70d6c7da53.jpg?v=1626369793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VAZE<br>
+        <strong>Type: </strong>Baggies | Jars<br>
+        <strong>Price: </strong>
+            9.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Single case holds your 0.5 gram pre-roll in crafted milled aluminum giving both a sleek design and protection for all occasions. Available in two colours.</p><ul>
+<li>Airtight</li>
+<li>Seals in freshness</li>
+<li>Odourless</li>
+<li>Water resistant</li>
+</ul><p><strong>Take only what you need. Nothing more</strong>.<br>VAZE is the ultimate joint holder that allows you to smoke a little and then save some for later. Made of aluminum the VAZE joint holder can withstand heat and snuffs out the lit prerolls when the top is put on. Your personal joint experience is preserved for every session allowing you to only take what you need.<br><br><strong>Airtight Gasket</strong><br>The VAZE smell proof pre-rolled joint holders use an engineered rubber gasket specifically designed to seal in freshness while protecting from the elements. Each VAZE pre-rolled joint holder contains one incredibly strong gasket pre-installed along with a backup in case you need it. With everything sealed in you can roll with confidence knowing your cannabis is safely sealed away free of odour.<br><br><strong>Simple, clean, and discreet design </strong><br>VAZE is designed with beauty, simplicity and discretion in mind. VAZE’s unique style, clean lines and smooth edges bring a level of function to the design whether it’s in your pocket or purse or out on a table in a restaurant. Available in two unique colours each VAZE not only lends a personal touch but can also provide you with a way to break up your prerolls by strain.<br><br><strong>The Strength of Milled Aluminum</strong><br>While most doob tubes and pre-rolled joint holders use plastic or folded aluminum to protect your cannabis, VAZE pre-rolled joint holders protect your pre-rolls using the strength of milled aluminum and the beauty of anodizing. So while milled aluminum provides the strength you need anodized aluminum provides the beauty of a pearl finish in either SABI Pink or WABI Charcoal.<br><br>Environmentally Friendly<br>VAZE is an environmentally friendly alternative to plastic pre-rolled doob tubes and joint holders allowing you to enjoy your cannabis while not contributing to the plastic pollution on our planet.<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_VAZE</s:tag>
+    <s:tag>Categories_Baggies and Jar</s:tag>
+    <s:tag>Categories_Bong Accessories</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Marketplace</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>smoke drop</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:tag>Types_Pre-roll Tubes</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6882533834908</id>
+      <title>Wabi Charcoal</title>
+      <s:price currency="CAD">9.50</s:price>
+      <s:sku>7921</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6882533834908</id>
+      <title>Sabi Pink</title>
+      <s:price currency="CAD">9.50</s:price>
+      <s:sku>7922</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6866761449628</id>
+    <published>2021-07-12T11:37:10-04:00</published>
+    <updated>2021-07-12T11:37:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/round-leaf-design-glass-ashtray"/>
+    <title>Round Leaf design glass ashtray</title>
+    <s:type>Ashtray</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7850_ashtray-1.jpg?v=1625757675"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Ashtray<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="description-holder">
+<p><span>*If you like emoji design, then you will love this fabulous skull design ashtray. An iconic image of the emoji has been sealed under glitter adhesive paper on the outside bottom of a glass ashtray and then covered with felt backing for protection. Rest your butts emoji style with this super cool ashtray!</span></p>
+<ul>
+<li><span>Diameter : 3" (Dia.)</span></li>
+<li><span>6 glass ashtrays in a display</span></li>
+<li><span>Printed picture may different depending on the stock</span></li>
+</ul>
+<ul></ul>
+<div class="spec-sheet"></div>
+</div>
+<div class="specifications-holder"></div>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ashtray</s:tag>
+    <s:tag>Categories_Ashtray</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$10 to $20</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6866761449628</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>7850</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6867268403356</id>
+    <published>2021-07-08T16:15:21-04:00</published>
+    <updated>2021-07-08T16:15:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/ryot-kannastor-wood-gr8tr-grinder-with-jar-body"/>
+    <title>RYOT-Kannastor Wood GR8TR Grinder with Jar Body</title>
+    <s:type>Baggies | Jars</s:type>
+    <s:vendor>RYOT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/RJW-GR8-CLWL-FULL-REFLECTION-compressor_86118fa6-f169-4fb9-9fa8-ce91de14a848.jpg?v=1625777890"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RYOT<br>
+        <strong>Type: </strong>Baggies | Jars<br>
+        <strong>Price: </strong>
+            27.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><iframe title="YouTube video player" src="https://www.youtube.com/embed/CG81N5T-0fw" height="315" width="560" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0"></iframe>
+<p>Another addition to Ryot's grinding and storage solutions is this Wood GR8TR, made with a combination of wood and glass.</p>
+<p>This grinder features the patented Kannastör GR8TR design with razor-sharp teeth, but this time made with beautiful wood. Its bottom doubles as smell-proof storage, featuring a tempered glass jar. The jar is sealed with high-grade silicone and the grinder is attached with non-spill magnetic closure.</p>
+<p>The Wood GR8TR is available in beech and walnut woods and with a clear or black finish. It measures 2.5 inches in diameter.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Area GF1</s:tag>
+    <s:tag>Categories_Baggies and Jar</s:tag>
+    <s:tag>Categories_Herb Grinders</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Marketplace</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$50 to $100</s:tag>
+    <s:tag>smoke drop</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6867268403356</id>
+      <title>Walut/Clear</title>
+      <s:price currency="CAD">27.00</s:price>
+      <s:sku>7863</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6866773377180</id>
+    <published>2021-07-08T14:49:45-04:00</published>
+    <updated>2021-07-08T14:49:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/4-parts-skull-hologram-metal-grinder"/>
+    <title>4 parts Skull Hologram metal grinder</title>
+    <s:type>Herb Grinder</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7842_Grinder-1.jpg?v=1625758134"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Herb Grinder<br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>12 ea in a display</li>
+<li>4 parts. metal grinder with screen</li>
+<li>2.0"(d) x 1.5"(h)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Area R4</s:tag>
+    <s:tag>Categories_Herb Grinders</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Materials_Metal</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Parts_4 Parts</s:tag>
+    <s:tag>Price_$50 to $100</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6866773377180</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.00</s:price>
+      <s:sku>7842</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6836259815580</id>
+    <published>2021-06-24T11:01:01-04:00</published>
+    <updated>2021-06-24T11:01:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/plastic-pre-roll-tubes-78-mm"/>
+    <title>PLASTIC PRE-ROLLED CONE TUBES 78 mm Bag of 36</title>
+    <s:type>Baggies | Jars</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7828_downstem-1.jpg?v=1624480455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Baggies | Jars<br>
+        <strong>Price: </strong>
+            12.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-none">
+<li><span class="a-list-item">Bag of 36 pre-rolled cone tubes </span></li>
+<li>Clear transparent plastic</li>
+<li><span class="a-list-item">Plastic Twist click caps</span></li>
+<li><span class="a-list-item">Size 78 mm</span></li>
+<li><span class="a-list-item"><span>Pre-rolled cone tubes are a great addition to add to your packaging solutions! Our new tubes </span><span>will fit a regular size 1 1/4 rolling paper &amp; cones (78mm). Our eco-friendly sustainable cone tubes are widely used by dispensary owners across the North America for everyday packaging needs of pre rolled cones.</span></span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Categories_Baggies and Jar</s:tag>
+    <s:tag>Categories_Bong Accessories</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>smoke drop</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:tag>Types_Pre-roll Tubes</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6836259815580</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.60</s:price>
+      <s:sku>7828</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6821129879708</id>
+    <published>2021-06-16T14:09:32-04:00</published>
+    <updated>2021-06-16T14:09:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/wellcann-glass-cleaner"/>
+    <title>Wellcann Glass Cleaner</title>
+    <s:type>Cleaning Stuffs</s:type>
+    <s:vendor>Eastern</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7770_bong-1.jpg?v=1623864382"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eastern<br>
+        <strong>Type: </strong>Cleaning Stuffs<br>
+        <strong>Price: </strong>
+            6.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>ENHANCE YOUR SMOKING EXPERIENCE</p>
+<ul>
+<li>Instant Results</li>
+<li>Biodegradable</li>
+<li>No Scrubbing</li>
+<li>No After Taste</li>
+<li>Cleans Glass, Metal,Hookahs,Pipes,Bongs</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Categories_Cleaning Stuffs</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Marketplace</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$5 to $10</s:tag>
+    <s:tag>Price_$5 under</s:tag>
+    <s:tag>smoke drop</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6821129879708</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.70</s:price>
+      <s:sku>7770</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6818796601500</id>
+    <published>2021-06-15T17:00:51-04:00</published>
+    <updated>2021-06-15T17:00:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/nibo-easy-grip-deluxe-torch-lighter-new"/>
+    <title>New! Nibo easy grip deluxe torch lighter Box of 10</title>
+    <s:type>Lighters</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7760_vape_pod-1.jpg?v=1623790710"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Lighters<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><span>10 Nibo refillable Butane Windproof Lighters in a display</span></li>
+<li>JET FLAME CIGARETTE TORCH LIGHTERS</li>
+<li>Easy grip</li>
+<li>Refillable</li>
+<li>Assortment of colors may vary</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Nibo</s:tag>
+    <s:tag>Categories_Lighters</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Flame Types_Torch</s:tag>
+    <s:tag>Lighter Types_Refillable</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$20 to $50</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6818796601500</id>
+      <title>Skull</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>7760</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6818796601500</id>
+      <title>Emoji</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>7761</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6818796601500</id>
+      <title>Leaf</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>7762</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6818796601500</id>
+      <title>Camo</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>7763</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6818796601500</id>
+      <title>Color</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>7764</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6809545605276</id>
+    <published>2021-06-12T12:49:56-04:00</published>
+    <updated>2021-06-12T12:49:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/sdf-silicone-round-ashtray-box-of-8"/>
+    <title>SDF Silicone Round Ashtray Box of 8</title>
+    <s:type>Ashtray</s:type>
+    <s:vendor>Squadafum Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7739_ashtray-1.jpg?v=1623510597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Squadafum Canada<br>
+        <strong>Type: </strong>Ashtray<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our amazing ashtrays are made with high quality silicone that resist high temperatures, do not burn with embers, do not dent and do not break! They will make your environment much more beautiful with their many vibrant colors.<br data-mce-fragment="1">
+<ul>
+<li>Measures: 7cm in diameter and 3cm in height</li>
+<li>Material: Silicone</li>
+<li>Weight: 37 g</li>
+<li>Box of 8 Square ashtray</li>
+<li>CODE : SDF 001</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Area O7</s:tag>
+    <s:tag>ashtray</s:tag>
+    <s:tag>Categories_Ashtray</s:tag>
+    <s:tag>drop</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Marketplace</s:tag>
+    <s:tag>Materials_Silicone</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$20 to $50</s:tag>
+    <s:tag>smoke drop</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6809545605276</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>7739</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6809533382812</id>
+    <published>2021-06-12T12:49:56-04:00</published>
+    <updated>2021-06-12T12:49:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/sdf-silicone-square-ashtray-box-of-8"/>
+    <title>SDF Silicone Square Ashtray Box of 8</title>
+    <s:type>Ashtray</s:type>
+    <s:vendor>Squadafum Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7738_ashtray-1.jpg?v=1623510281"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Squadafum Canada<br>
+        <strong>Type: </strong>Ashtray<br>
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our amazing ashtrays are made with high quality silicone that resist high temperatures, do not burn with embers, do not dent and do not break! They will make your environment much more beautiful with their many vibrant colors.<br data-mce-fragment="1">
+<ul>
+<li>Measures: 10cm x 10 cm and 3cm in height</li>
+<li>Material: Silicone</li>
+<li>Weight: 135g</li>
+<li>Box of 8 Square ashtray</li>
+<li>CODE : SDF 002</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Area O7</s:tag>
+    <s:tag>ashtray</s:tag>
+    <s:tag>Categories_Ashtray</s:tag>
+    <s:tag>drop</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Marketplace</s:tag>
+    <s:tag>Materials_Silicone</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$20 to $50</s:tag>
+    <s:tag>smoke drop</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6809533382812</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku>7738</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6809523028124</id>
+    <published>2021-06-12T12:49:55-04:00</published>
+    <updated>2021-06-12T12:49:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/sdf-silicone-bowl-box-of-20"/>
+    <title>SDF Silicone bowl Box of 20</title>
+    <s:type>Baggies | Jars</s:type>
+    <s:vendor>Squadafum Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7736_ashtray-1.jpg?v=1623509921"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Squadafum Canada<br>
+        <strong>Type: </strong>Baggies | Jars<br>
+        <strong>Price: </strong>
+            63.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Silicone Bowl Squadafum is an indispensable accessory in the life of any fummelier. It facilitates the preparation, mixing and handling of your crema, making the ritual of preparing your session much more pleasant and stylish. With multiple color combinations and a new layout, it's made with high-quality platinum-cured silicone.<br data-mce-fragment="1">
+<ul>
+<li>Measures: 3cm in height and 7cm in diameter</li>
+<li>Material: Silicone</li>
+<li>Weight: 15g</li>
+<li>Box of 20 silicone bowls</li>
+<li>CODE : SDF 033</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Area O6</s:tag>
+    <s:tag>Categories_Baggies and Jar</s:tag>
+    <s:tag>drop</s:tag>
+    <s:tag>dropshipping</s:tag>
+    <s:tag>Marketplace</s:tag>
+    <s:tag>Materials_Silicone</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$50 to $100</s:tag>
+    <s:tag>smoke drop</s:tag>
+    <s:tag>Smoking Accessories</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6809523028124</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">63.00</s:price>
+      <s:sku>7736</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

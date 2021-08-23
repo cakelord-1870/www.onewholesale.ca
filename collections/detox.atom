@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.onewholesale.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.onewholesale.ca/collections/detox.atom"/>
+  <title>One Wholesale</title>
+  <updated>2021-03-04T16:19:44-05:00</updated>
+  <author>
+    <name>One Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.onewholesale.ca/products/6561210073244</id>
+    <published>2021-03-04T16:19:44-05:00</published>
+    <updated>2021-03-04T16:19:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/ultimate-extra-strength-8-hour-detox"/>
+    <title>Ultimate Extra strength 8-hour DETOX</title>
+    <s:type>Chandlery</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/7038-detox-1.jpg?v=1614891966"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Chandlery<br>
+        <strong>Price: </strong>
+            13.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><span data-mce-fragment="1" mce-data-marked="1">Premium 1 STEP cleansing</span></li>
+<li>
+<span data-mce-fragment="1" mce-data-marked="1">Tastes Great-</span>Works Fast</li>
+<li><span data-mce-fragment="1" mce-data-marked="1">16 Fluid Ounces (474 ml)</span></li>
+<li><span data-mce-fragment="1" mce-data-marked="1">Made in a FDA registered Facility</span></li>
+<li><span data-mce-fragment="1" mce-data-marked="1">Made in USA</span></li>
+</ul>
+<p><span data-mce-fragment="1" mce-data-marked="1">Suggestions for use<br></span></p>
+<ul>
+<li><span data-mce-fragment="1" mce-data-marked="1">Approximately one hour before you desire to be free of toxin drink one 16 ounce serving of water at a comfortable pace</span></li>
+<li><span data-mce-fragment="1" mce-data-marked="1"><span data-mce-fragment="1" mce-data-marked="1">Wait 15 minutes, shake well and drink the entire bottle of 8 HOUR DETOX at a comfortable pace.</span></span></li>
+<li>Wait 15 minutes, refill the bottle with water and drink at a comfortable pade.</li>
+<li><span data-mce-fragment="1" mce-data-marked="1">Urinate frequently over the next 30 to 60 minutes to expel toxins.</span></li>
+<li><span data-mce-fragment="1" mce-data-marked="1"><span data-mce-fragment="1" mce-data-marked="1">if you do not feel the urge to urinate refill the bottle with water and drink. Do not anymore water for the next few hours.</span></span></li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chandlery</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Price_$10 to $20</s:tag>
+    <s:tag>Types_DETOX</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6561210073244</id>
+      <title>Fruit Punch</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku>7038</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6561210073244</id>
+      <title>Orange</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku>7039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6561210073244</id>
+      <title>Strawberry Lemondade</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku>7040</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6561210073244</id>
+      <title>Lemon Lime</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku>7041</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6561210073244</id>
+      <title>Apple Pucker</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku>7042</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/6561210073244</id>
+      <title>Grape</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku>7043</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

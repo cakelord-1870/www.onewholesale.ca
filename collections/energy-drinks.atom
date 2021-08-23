@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.onewholesale.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.onewholesale.ca/collections/energy-drinks.atom"/>
+  <title>One Wholesale</title>
+  <updated>2020-10-29T14:19:33-04:00</updated>
+  <author>
+    <name>One Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.onewholesale.ca/products/5849493831836</id>
+    <published>2020-10-29T14:19:33-04:00</published>
+    <updated>2020-10-29T14:19:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/strawberry-watermelon-flavor-extra-strength-5-hour-energy-drink"/>
+    <title>Strawberry Watermelon Flavor Extra Strength 5-hour ENERGY Drink</title>
+    <s:type>Chandlery</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/6373-5-hour-energy-drink-strawberry-watermelon-2.jpg?v=1603986502"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Chandlery<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="short-description">
+<div class="short-description">
+<div class="short-description">
+<p>Peanut butter and jelly. Spaghetti and meatballs. Strawberry and watermelon. Some flavors were just made to go together. That's why you'll love Strawberry Watermelon Extra Strength 5-hour ENERGY<sup>®</sup><span> </span>shots. Like all 5-hour ENERGY@reg; shot flavors, it's packed with vitamins, nutrients and caffeine for the alert, energized feeling you want, but with zero sugar and four calories.</p>
+</div>
+<p><span>cation.</span></p>
+</div>
+</div>
+<ul>
+<li>12 pcs / box</li>
+<li>FIXES TIRED FAST®.</li>
+<li>Sugar-free.</li>
+<li>Four calories.</li>
+<li>Vitamins, nutrients and about as much caffeine as 12 ounces of the leading premium coffee.</li>
+<li>Drink it in seconds, feel it in minutes, lasts for hours.</li>
+<li>Portable, and requires no refrigeration</li>
+<li>Strawberry Watermelon flavor</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chandlery</s:tag>
+    <s:tag>Price_$20 to $50</s:tag>
+    <s:tag>Types_Energy Drinks</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/5849493831836</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.95</s:price>
+      <s:sku>6373</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/5849481805980</id>
+    <published>2020-10-29T14:19:32-04:00</published>
+    <updated>2020-10-29T14:19:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/blue-raspberry-flavor-extra-strength-5-hour-energy-drink"/>
+    <title>Blue Raspberry Flavor Extra Strength 5-hour ENERGY Drink</title>
+    <s:type>Chandlery</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/6362-5-hour-energy-drink-sour-blue-raspberry-1.jpg?v=1603985916"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Chandlery<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="short-description">
+<div class="short-description">
+<div class="short-description">
+<p>What is blue raspberry? It's not so much a thing found in nature as much as a frame of mind. It's sweet and fruity, but with a coolness that's hard to describe, but easy to love. Try a Blue Raspberry Flavor Extra Strength 5-hour ENERGY<sup>®</sup><span> </span>shot and you'll understand what we mean. You'll get the alert, energized feeling you need with an Extra Strength Blue Raspberry Flavor 5-hour ENERGY<sup>®</sup><span> </span>shot to get through your toughest day with zero sugar and four calories.</p>
+</div>
+</div>
+</div>
+<ul>
+<li>12 pcs / box</li>
+<li>FIXES TIRED FAST®.</li>
+<li>Sugar-free.</li>
+<li>Four calories.</li>
+<li>Vitamins, nutrients and about as much caffeine as 12 ounces of the leading premium coffee.</li>
+<li>Drink it in seconds, feel it in minutes, lasts for hours.</li>
+<li>Portable, and requires no refrigeration</li>
+<li>Blue Raspberry flavor</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chandlery</s:tag>
+    <s:tag>Price_$20 to $50</s:tag>
+    <s:tag>Types_Energy Drinks</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/5849481805980</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.95</s:price>
+      <s:sku>6362</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/5849478365340</id>
+    <published>2020-10-29T14:19:32-04:00</published>
+    <updated>2020-10-29T14:19:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/peach-mango-flavor-extra-strength-5-hour-energy-drink"/>
+    <title>Peach Mango Flavor Extra Strength 5-hour ENERGY Drink</title>
+    <s:type>Chandlery</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/6361-5-hour-energy-drink-sour-pech-mango-1.jpg?v=1603985733"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Chandlery<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="short-description">
+<div class="short-description">
+<p><span>Can't decide between succulent peach and mouthwatering mango flavors? Choose both! Peach Mango Extra Strength 5-hour ENERGY<sup data-mce-fragment="1">®</sup> shots are bursting with flavor, and contain an unbeatable blend of vitamins, nutrients and caffeine for that extra boost you need, all with zero sugar and four calories. Want a convenient and delectable way to energize your day? Grab a Peach Mango Extra Strength 5-hour ENERGY<sup data-mce-fragment="1">®</sup> shot..</span></p>
+</div>
+</div>
+<ul>
+<li>12 pcs / box</li>
+<li>FIXES TIRED FAST®.</li>
+<li>Sugar-free.</li>
+<li>Four calories.</li>
+<li>Vitamins, nutrients and about as much caffeine as 12 ounces of the leading premium coffee.</li>
+<li>Drink it in seconds, feel it in minutes, lasts for hours.</li>
+<li>Portable, and requires no refrigeration</li>
+<li>Peach Mango flavor</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chandlery</s:tag>
+    <s:tag>Price_$20 to $50</s:tag>
+    <s:tag>Types_Energy Drinks</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/5849478365340</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.95</s:price>
+      <s:sku>6361</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/5849472663708</id>
+    <published>2020-10-29T14:19:31-04:00</published>
+    <updated>2020-10-29T14:19:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/tropical-burst-flavor-extra-strength-5-hour-energy-drink"/>
+    <title>Tropical Burst Flavor Extra Strength 5-hour ENERGY Drink</title>
+    <s:type>Chandlery</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/6360-5-hour-energy-drink-sour-tropical-burst-1.jpg?v=1603985553"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Chandlery<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="short-description">
+<div class="short-description">
+<p><span>Vacation isn’t for relaxing, it’s for adventure! And what better way to celebrate adventure than with Tropical Burst flavored Extra Strength 5-hour ENERGY</span><sup>®</sup><span> shots. A sweet and delicious combination of pineapple and apricot flavors that will satisfy your deepest tropical cravings. Try one today and you’ll understand why Tropical Burst flavored Extra Strength 5-hour ENERGY</span><sup>®</sup><span> shots are quickly becoming fan favorites. Four calories, zero sugar, and easily stored almost anywhere make Tropical Burst flavored Extra Strength 5-hour ENERGY</span><sup>®</sup><span> shots a must-have for those with a busy lifestyle; on or off vacation.</span></p>
+</div>
+</div>
+<ul>
+<li>12 pcs / box</li>
+<li>FIXES TIRED FAST®.</li>
+<li>Sugar-free.</li>
+<li>Four calories.</li>
+<li>Vitamins, nutrients and about as much caffeine as 12 ounces of the leading premium coffee.</li>
+<li>Drink it in seconds, feel it in minutes, lasts for hours.</li>
+<li>Portable, and requires no refrigeration</li>
+<li>Tropical Burst flavor</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chandlery</s:tag>
+    <s:tag>Price_$20 to $50</s:tag>
+    <s:tag>Types_Energy Drinks</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/5849472663708</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.95</s:price>
+      <s:sku>6360</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/5849458278556</id>
+    <published>2020-10-29T14:18:29-04:00</published>
+    <updated>2020-10-29T14:18:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/sour-apple-flavor-extra-strength-5-hour-energy-drink"/>
+    <title>Sour Apple Flavor Extra Strength 5-hour ENERGY Drink</title>
+    <s:type>Chandlery</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/6358-5-hour-energy-drink-sour-apple-1.jpg?v=1603985261"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Chandlery<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="short-description">
+<p><span>The great outdoors demands your full attention. Sour Apple Extra Strength 5-hour ENERGY</span><sup>®</sup><span> shots can help give you the alert, energized feeling you need. With its beefed-up energy blend and kick of caffeine, it’s outdoor strong. So, whether you’re tracking deer, luring trout, or exploring a new trail, a Sour Apple 5-hour ENERGY</span><sup>®</sup><span> shot can help be ready for whatever Mother Nature throws your way.</span></p>
+</div>
+<ul>
+<li>12 pcs / box</li>
+<li>FIXES TIRED FAST®.</li>
+<li>Sugar-free.</li>
+<li>Four calories.</li>
+<li>Vitamins, nutrients and about as much caffeine as 12 ounces of the leading premium coffee.</li>
+<li>Drink it in seconds, feel it in minutes, lasts for hours.</li>
+<li>Portable, and requires no refrigeration</li>
+<li>Sour Apple flavor</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chandlery</s:tag>
+    <s:tag>Price_$20 to $50</s:tag>
+    <s:tag>Types_Energy Drinks</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/5849458278556</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.95</s:price>
+      <s:sku>6358</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/5849448349852</id>
+    <published>2020-10-29T14:18:16-04:00</published>
+    <updated>2020-10-29T14:18:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/orange-flavor-extra-strength-5-hour-energy-drink"/>
+    <title>Orange Flavor Extra Strength 5-hour ENERGY Drink</title>
+    <s:type>Chandlery</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/6357-5-hour-energy-drink-orange-1.jpg?v=1603985164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Chandlery<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="short-description">
+<p>Big flavor. Big energy. Small size. Orange Extra Strength 5-hour ENERGY<sup>®</sup><span> </span>shots are packed with delicious orange flavor and a beefed-up energy blend yet compact enough to take almost anywhere. So, if you're starting off your day or need to battle the mid-afternoon slump, Orange flavored Extra Strength 5-hour ENERGY<sup>®</sup><span> </span>shot are easy to store, fast to take, and felt within minutes.</p>
+</div>
+<ul>
+<li>12 pcs / box</li>
+<li>FIXES TIRED FAST®.</li>
+<li>Sugar-free.</li>
+<li>Four calories.</li>
+<li>Vitamins, nutrients and about as much caffeine as 12 ounces of the leading premium coffee.</li>
+<li>Drink it in seconds, feel it in minutes, lasts for hours.</li>
+<li>Portable, and requires no refrigeration</li>
+<li>Orange flavor</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chandlery</s:tag>
+    <s:tag>Price_$20 to $50</s:tag>
+    <s:tag>Types_Energy Drinks</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/5849448349852</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.95</s:price>
+      <s:sku>6357</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/5849468436636</id>
+    <published>2020-10-29T14:18:05-04:00</published>
+    <updated>2020-10-29T14:18:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/grape-flavor-extra-strength-5-hour-energy-drink"/>
+    <title>Grape Flavor Extra Strength 5-hour ENERGY Drink</title>
+    <s:type>Chandlery</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/6359-5-hour-energy-drink-sour-grape-1.jpg?v=1603985907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Chandlery<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="short-description">
+<div class="short-description">
+<p>Some days you just need a little something extra to get going. So why not get the extra boost you need to tackle your to-do list with a Grape Flavor Extra Strength 5-hour ENERGY<sup>®</sup><span> </span>shot? The Grape Flavor Extra Strength energy shots not only taste great, but they also have a beefed-up energy blend that will give you hours of the energized feeling you need to be productive. Best of all, while it contains caffeine comparable to 12 ounces of the leading premium coffee, it counts four calories and zero sugar. Want to kick your day into high gear? Grab a Grape Flavor Extra Strength 5-hour ENERGY<sup>®</sup><span> </span>shot. Drink it in seconds, feel it in minutes and it lasts for hours.</p>
+</div>
+</div>
+<ul>
+<li>12 pcs / box</li>
+<li>FIXES TIRED FAST®.</li>
+<li>Sugar-free.</li>
+<li>Four calories.</li>
+<li>Vitamins, nutrients and about as much caffeine as 12 ounces of the leading premium coffee.</li>
+<li>Drink it in seconds, feel it in minutes, lasts for hours.</li>
+<li>Portable, and requires no refrigeration</li>
+<li>Sour Apple flavor</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chandlery</s:tag>
+    <s:tag>Price_$20 to $50</s:tag>
+    <s:tag>Types_Energy Drinks</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/5849468436636</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.95</s:price>
+      <s:sku>6359</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.onewholesale.ca/products/5849396314268</id>
+    <published>2020-10-29T14:17:51-04:00</published>
+    <updated>2020-10-29T14:17:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.onewholesale.ca/products/berry-flavor-extra-strength-5-hour-energy-shots"/>
+    <title>Berry Flavor Extra Strength 5-hour ENERGY Drink</title>
+    <s:type>Chandlery</s:type>
+    <s:vendor>One Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0060/5582/1381/products/6356-5-hour-energy-drink-berry-1.jpg?v=1603984596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One Wholesale<br>
+        <strong>Type: </strong>Chandlery<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Need an extra boost to get through your day? Grab a Berry Flavor Extra Strength 5-hour ENERGY</span><sup data-mce-fragment="1">®</sup><span data-mce-fragment="1"> shot. It's packed with a big energy blend and big taste. The only thing small about it is its size. So, why sip yet another coffee when you can have a Berry Flavor Extra Strength 5-hour ENERGY</span><sup data-mce-fragment="1">®</sup><span data-mce-fragment="1"> shot and get hours of energy? Berry Flavor Extra Strength 5-hour ENERGY</span><sup data-mce-fragment="1">®</sup><span data-mce-fragment="1"> shots are packed with a blend of essential B-vitamins and amino acids, but no sugar or herbal stimulants</span><br></p>
+<ul>
+<li>12 pcs / box</li>
+<li>FIXES TIRED FAST®.</li>
+<li>Sugar-free.</li>
+<li>Four calories.</li>
+<li>Vitamins, nutrients and about as much caffeine as 12 ounces of the leading premium coffee.</li>
+<li>Drink it in seconds, feel it in minutes, lasts for hours.</li>
+<li>Portable, and requires no refrigeration</li>
+<li>Berry flavor</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chandlery</s:tag>
+    <s:tag>Price_$20 to $50</s:tag>
+    <s:tag>Types_Energy Drinks</s:tag>
+    <s:variant>
+      <id>https://www.onewholesale.ca/products/5849396314268</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.95</s:price>
+      <s:sku>6356</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
